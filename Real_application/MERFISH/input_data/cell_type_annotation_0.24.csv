@@ -1,0 +1,5544 @@
+Unnamed: 0,cell_class
+-3749x-3749,Astrocyte
+-3746x-3742,Inhibitory
+-3743x-3791,Inhibitory
+-3738x-3773,Inhibitory
+-3736x-3896,Pericytes
+-3725x-3899,Pericytes
+-3720x-3785,Endothelial 1
+-3717x-3761,Excitatory
+-3716x-3805,Astrocyte
+-3715x-3897,Pericytes
+-3713x-3847,OD Immature 1
+-3712x-3717,Astrocyte
+-3712x-3904,Pericytes
+-3706x-3899,Pericytes
+-3703x-3905,Pericytes
+-3701x-3749,Astrocyte
+-3703x-3867,Astrocyte
+-3694x-3754,Astrocyte
+-3687x-3868,Astrocyte
+-3682x-3797,Inhibitory
+-3678x-3901,Pericytes
+-3680x-3763,OD Immature 2
+-3677x-3869,Astrocyte
+-3671x-3817,Inhibitory
+-3668x-3874,Astrocyte
+-3665x-3738,Excitatory
+-3651x-3871,Astrocyte
+-3647x-3724,Excitatory
+-3645x-3868,Astrocyte
+-3647x-3775,OD Immature 1
+-3646x-3759,Astrocyte
+-3635x-3818,Microglia
+-3631x-3721,Excitatory
+-3624x-3777,Excitatory
+-3614x-3862,Astrocyte
+-3609x-3743,Endothelial 1
+-3605x-3728,Excitatory
+-3603x-3772,Inhibitory
+-3600x-3789,Excitatory
+-3599x-3762,Astrocyte
+-3595x-3835,Inhibitory
+-3589x-3857,Inhibitory
+-3584x-3817,Excitatory
+-3584x-3808,OD Immature 1
+-3580x-3851,Excitatory
+-3579x-3786,Inhibitory
+-3578x-3736,Endothelial 1
+-3578x-3754,Inhibitory
+-3573x-3873,Inhibitory
+-3567x-3896,Astrocyte
+-3566x-3718,Astrocyte
+-3564x-3826,OD Mature 2
+-3566x-3801,Excitatory
+-3742x-3830,Astrocyte
+-3656x-3875,Astrocyte
+-3647x-3790,Excitatory
+-3638x-3736,Inhibitory
+-3617x-3749,Inhibitory
+-3571x-3842,Excitatory
+-3750x-3889,Pericytes
+-3730x-3865,Astrocyte
+-3723x-3782,Endothelial 1
+-3612x-3778,Inhibitory
+-3659x-3850,OD Mature 2
+-3649x-3717,Inhibitory
+-3623x-3805,Excitatory
+-3571x-3743,Excitatory
+-3735x-3889,Pericytes
+-3696x-3868,Astrocyte
+-3594x-3885,Astrocyte
+-3584x-3772,Inhibitory
+-3586x-3876,Inhibitory
+-3737x-3593,Endothelial 1
+-3735x-3650,Inhibitory
+-3730x-3631,Inhibitory
+-3729x-3667,Excitatory
+-3715x-3536,Excitatory
+-3709x-3599,Excitatory
+-3699x-3676,Inhibitory
+-3689x-3554,Astrocyte
+-3686x-3603,Inhibitory
+-3674x-3523,Excitatory
+-3660x-3530,Astrocyte
+-3658x-3658,Excitatory
+-3658x-3680,Excitatory
+-3659x-3696,Excitatory
+-3647x-3562,Excitatory
+-3643x-3520,Microglia
+-3637x-3628,Excitatory
+-3636x-3694,Endothelial 1
+-3632x-3653,OD Immature 1
+-3630x-3569,Excitatory
+-3625x-3671,Excitatory
+-3617x-3618,Inhibitory
+-3612x-3558,Inhibitory
+-3606x-3610,Astrocyte
+-3602x-3678,Astrocyte
+-3592x-3580,Astrocyte
+-3593x-3671,Inhibitory
+-3587x-3589,Astrocyte
+-3578x-3659,Inhibitory
+-3560x-3643,Astrocyte
+-3717x-3687,Inhibitory
+-3717x-3634,Astrocyte
+-3708x-3561,Inhibitory
+-3697x-3656,Inhibitory
+-3691x-3526,Inhibitory
+-3682x-3624,Excitatory
+-3670x-3678,Inhibitory
+-3661x-3582,Excitatory
+-3618x-3549,Excitatory
+-3582x-3536,Excitatory
+-3573x-3616,Excitatory
+-3564x-3524,Endothelial 1
+-3740x-3598,Inhibitory
+-3727x-3637,Inhibitory
+-3690x-3614,Astrocyte
+-3625x-3589,Excitatory
+-3682x-3577,Inhibitory
+-3598x-3700,Astrocyte
+-3684x-3636,Excitatory
+-3628x-3609,Excitatory
+-3626x-3619,Inhibitory
+-3611x-3677,Inhibitory
+-3606x-3599,Excitatory
+-3568x-3561,Excitatory
+-3750x-3476,Inhibitory
+-3741x-3367,Inhibitory
+-3725x-3377,Inhibitory
+-3726x-3468,Inhibitory
+-3717x-3434,Excitatory
+-3709x-3477,Inhibitory
+-3709x-3496,OD Mature 2
+-3706x-3481,Inhibitory
+-3706x-3461,Excitatory
+-3701x-3376,Excitatory
+-3702x-3342,OD Mature 1
+-3700x-3436,Inhibitory
+-3685x-3375,Endothelial 3
+-3679x-3467,Inhibitory
+-3674x-3411,Excitatory
+-3673x-3345,Endothelial 3
+-3667x-3337,Endothelial 3
+-3653x-3491,Excitatory
+-3653x-3432,Endothelial 1
+-3651x-3403,Microglia
+-3641x-3361,Endothelial 1
+-3639x-3452,Inhibitory
+-3639x-3486,Inhibitory
+-3637x-3372,Inhibitory
+-3636x-3403,Excitatory
+-3634x-3381,Inhibitory
+-3635x-3331,Excitatory
+-3627x-3427,Excitatory
+-3621x-3323,Excitatory
+-3620x-3425,Endothelial 1
+-3620x-3481,Inhibitory
+-3614x-3410,Astrocyte
+-3606x-3352,Inhibitory
+-3604x-3341,Excitatory
+-3601x-3398,Astrocyte
+-3592x-3409,Inhibitory
+-3590x-3494,OD Mature 2
+-3587x-3415,Inhibitory
+-3587x-3469,Excitatory
+-3586x-3317,Inhibitory
+-3575x-3337,Inhibitory
+-3570x-3419,Inhibitory
+-3567x-3447,OD Mature 2
+-3564x-3374,Inhibitory
+-3683x-3396,Astrocyte
+-3561x-3449,Inhibitory
+-3735x-3495,Excitatory
+-3712x-3493,OD Mature 2
+-3706x-3446,Inhibitory
+-3691x-3353,OD Immature 1
+-3655x-3397,Inhibitory
+-3645x-3402,Inhibitory
+-3628x-3409,Inhibitory
+-3624x-3406,Inhibitory
+-3587x-3395,Excitatory
+-3689x-3482,Excitatory
+-3688x-3493,OD Mature 3
+-3646x-3450,Astrocyte
+-3638x-3441,Excitatory
+-3618x-3455,Inhibitory
+-3598x-3408,Astrocyte
+-3746x-3181,Inhibitory
+-3747x-3283,Inhibitory
+-3743x-3263,Inhibitory
+-3725x-3270,Inhibitory
+-3717x-3219,Astrocyte
+-3715x-3180,Inhibitory
+-3715x-3243,Endothelial 3
+-3713x-3196,Excitatory
+-3711x-3214,Astrocyte
+-3697x-3266,Excitatory
+-3696x-3196,Endothelial 1
+-3685x-3157,Excitatory
+-3686x-3177,Inhibitory
+-3685x-3126,Excitatory
+-3680x-3275,Excitatory
+-3680x-3215,Inhibitory
+-3672x-3126,Inhibitory
+-3673x-3249,Astrocyte
+-3666x-3177,Astrocyte
+-3665x-3213,Excitatory
+-3663x-3167,Endothelial 1
+-3661x-3151,Excitatory
+-3648x-3248,Inhibitory
+-3651x-3128,Inhibitory
+-3642x-3165,Astrocyte
+-3638x-3252,Inhibitory
+-3634x-3259,Endothelial 1
+-3633x-3153,Inhibitory
+-3632x-3295,Inhibitory
+-3624x-3269,Inhibitory
+-3624x-3293,Astrocyte
+-3618x-3287,Endothelial 3
+-3618x-3206,Inhibitory
+-3613x-3179,OD Immature 1
+-3601x-3230,Inhibitory
+-3596x-3123,Inhibitory
+-3592x-3174,Inhibitory
+-3582x-3293,Excitatory
+-3581x-3266,OD Mature 2
+-3576x-3216,Inhibitory
+-3577x-3150,Astrocyte
+-3571x-3167,Astrocyte
+-3569x-3118,Inhibitory
+-3568x-3225,Inhibitory
+-3734x-3239,Excitatory
+-3725x-3149,Astrocyte
+-3676x-3206,OD Immature 1
+-3650x-3277,Excitatory
+-3638x-3210,Astrocyte
+-3728x-3210,Inhibitory
+-3721x-3169,Inhibitory
+-3705x-3161,Inhibitory
+-3604x-3143,Excitatory
+-3621x-3124,Inhibitory
+-3578x-3245,OD Mature 1
+-3682x-3284,Excitatory
+-3668x-3260,Astrocyte
+-3743x-3038,Excitatory
+-3740x-3013,Inhibitory
+-3731x-2945,OD Mature 2
+-3732x-3023,Excitatory
+-3724x-2975,Excitatory
+-3719x-2951,Inhibitory
+-3718x-3073,Astrocyte
+-3717x-3046,Inhibitory
+-3706x-3028,Inhibitory
+-3701x-3053,Inhibitory
+-3697x-2971,Inhibitory
+-3697x-3026,Inhibitory
+-3689x-2924,Excitatory
+-3685x-2949,Excitatory
+-3675x-2925,Inhibitory
+-3666x-3072,Inhibitory
+-3664x-3042,OD Mature 2
+-3663x-3085,Astrocyte
+-3661x-3016,Inhibitory
+-3660x-2961,Excitatory
+-3651x-2977,Astrocyte
+-3647x-3059,Astrocyte
+-3642x-3067,Astrocyte
+-3627x-3035,OD Mature 1
+-3620x-3011,Inhibitory
+-3619x-2969,Endothelial 1
+-3611x-3038,Astrocyte
+-3609x-3060,Endothelial 1
+-3606x-3034,Astrocyte
+-3603x-3005,Inhibitory
+-3594x-3041,Inhibitory
+-3592x-2952,Microglia
+-3595x-3078,Astrocyte
+-3583x-2986,Endothelial 1
+-3580x-3026,Inhibitory
+-3583x-3056,Inhibitory
+-3578x-2932,Excitatory
+-3576x-3061,Excitatory
+-3569x-2937,Inhibitory
+-3567x-3050,Inhibitory
+-3565x-3040,Inhibitory
+-3682x-3023,Endothelial 1
+-3678x-3093,Excitatory
+-3646x-2987,Inhibitory
+-3638x-3075,Astrocyte
+-3629x-2948,Astrocyte
+-3620x-3066,Endothelial 3
+-3719x-2993,Inhibitory
+-3712x-3057,Excitatory
+-3694x-2998,Endothelial 1
+-3686x-3002,Microglia
+-3629x-3045,Inhibitory
+-3594x-2985,Astrocyte
+-3584x-3011,Inhibitory
+-3574x-3085,Inhibitory
+-3569x-2947,Inhibitory
+-3740x-2957,Inhibitory
+-3643x-2967,Excitatory
+-3621x-2942,Inhibitory
+-3742x-3056,Inhibitory
+-3680x-2988,Endothelial 3
+-3659x-2925,Inhibitory
+-3655x-2915,Astrocyte
+-3649x-3099,Inhibitory
+-3582x-3104,Endothelial 1
+-3570x-3011,Inhibitory
+-3747x-2736,Astrocyte
+-3742x-2895,Inhibitory
+-3744x-2853,Inhibitory
+-3721x-2846,Excitatory
+-3715x-2854,Inhibitory
+-3714x-2826,Astrocyte
+-3711x-2786,Inhibitory
+-3703x-2891,Inhibitory
+-3702x-2799,Pericytes
+-3698x-2815,Astrocyte
+-3702x-2743,Inhibitory
+-3685x-2773,Astrocyte
+-3681x-2870,Excitatory
+-3681x-2891,Microglia
+-3672x-2817,Inhibitory
+-3670x-2902,Endothelial 3
+-3666x-2720,Inhibitory
+-3666x-2835,Inhibitory
+-3652x-2733,OD Mature 2
+-3647x-2786,Pericytes
+-3647x-2826,Inhibitory
+-3643x-2879,OD Mature 2
+-3636x-2779,Pericytes
+-3637x-2762,Inhibitory
+-3626x-2776,Pericytes
+-3626x-2829,Astrocyte
+-3625x-2722,OD Mature 2
+-3619x-2859,Astrocyte
+-3620x-2742,Inhibitory
+-3619x-2774,Endothelial 3
+-3606x-2804,Excitatory
+-3607x-2817,Inhibitory
+-3600x-2875,Excitatory
+-3594x-2841,Inhibitory
+-3595x-2768,Endothelial 1
+-3589x-2883,Inhibitory
+-3579x-2764,Pericytes
+-3576x-2776,Inhibitory
+-3565x-2745,Inhibitory
+-3735x-2794,Inhibitory
+-3638x-2719,Inhibitory
+-3602x-2736,Inhibitory
+-3591x-2758,Pericytes
+-3591x-2731,OD Mature 2
+-3565x-2720,Microglia
+-3744x-2874,Inhibitory
+-3689x-2729,Inhibitory
+-3678x-2765,Inhibitory
+-3669x-2874,Excitatory
+-3655x-2805,OD Mature 2
+-3646x-2899,Inhibitory
+-3607x-2716,Inhibitory
+-3587x-2764,Pericytes
+-3569x-2901,Endothelial 1
+-3653x-2779,OD Mature 2
+-3613x-2779,Pericytes
+-3694x-2836,Inhibitory
+-3688x-2794,OD Mature 2
+-3675x-2796,Pericytes
+-3673x-2731,Excitatory
+-3653x-2870,Excitatory
+-3611x-2771,Pericytes
+-3750x-2675,Astrocyte
+-3740x-2574,Inhibitory
+-3741x-2555,Astrocyte
+-3738x-2640,Inhibitory
+-3727x-2516,Inhibitory
+-3718x-2625,Inhibitory
+-3713x-2615,Astrocyte
+-3707x-2582,Astrocyte
+-3708x-2573,Inhibitory
+-3704x-2536,OD Immature 1
+-3706x-2696,Inhibitory
+-3705x-2630,Excitatory
+-3700x-2692,Inhibitory
+-3702x-2540,OD Immature 1
+-3696x-2654,Inhibitory
+-3678x-2653,Endothelial 3
+-3672x-2655,Endothelial 3
+-3665x-2622,Inhibitory
+-3661x-2671,Microglia
+-3658x-2545,Astrocyte
+-3657x-2697,Astrocyte
+-3652x-2655,OD Immature 1
+-3640x-2587,Inhibitory
+-3639x-2612,OD Immature 1
+-3636x-2568,Inhibitory
+-3633x-2650,OD Mature 4
+-3627x-2586,Excitatory
+-3625x-2643,Inhibitory
+-3623x-2684,Inhibitory
+-3616x-2640,Astrocyte
+-3614x-2694,OD Mature 2
+-3612x-2567,Excitatory
+-3611x-2657,Astrocyte
+-3608x-2595,Inhibitory
+-3600x-2623,Inhibitory
+-3588x-2550,Inhibitory
+-3571x-2581,Astrocyte
+-3570x-2699,Inhibitory
+-3565x-2527,Endothelial 3
+-3564x-2562,Inhibitory
+-3720x-2674,Inhibitory
+-3694x-2675,Inhibitory
+-3679x-2625,Microglia
+-3678x-2522,Endothelial 1
+-3667x-2569,Inhibitory
+-3650x-2636,Astrocyte
+-3582x-2655,Microglia
+-3565x-2679,Inhibitory
+-3747x-2536,Excitatory
+-3748x-2549,Inhibitory
+-3734x-2686,Inhibitory
+-3698x-2601,Inhibitory
+-3652x-2601,Endothelial 1
+-3640x-2601,Astrocyte
+-3620x-2571,Inhibitory
+-3579x-2620,Inhibitory
+-3716x-2559,Excitatory
+-3713x-2566,Excitatory
+-3657x-2556,Astrocyte
+-3571x-2684,Inhibitory
+-3691x-2693,Inhibitory
+-3566x-2617,Astrocyte
+-3751x-2457,Endothelial 1
+-3747x-2496,Astrocyte
+-3739x-2328,Inhibitory
+-3734x-2367,Inhibitory
+-3730x-2469,Excitatory
+-3725x-2429,Inhibitory
+-3724x-2405,Inhibitory
+-3721x-2452,Inhibitory
+-3716x-2333,Inhibitory
+-3709x-2474,Inhibitory
+-3707x-2340,Inhibitory
+-3706x-2322,Astrocyte
+-3704x-2410,Inhibitory
+-3702x-2367,OD Immature 1
+-3693x-2472,Excitatory
+-3679x-2385,Excitatory
+-3682x-2423,Excitatory
+-3674x-2426,Excitatory
+-3668x-2442,Inhibitory
+-3661x-2339,Inhibitory
+-3650x-2403,Endothelial 1
+-3648x-2421,Inhibitory
+-3648x-2444,Inhibitory
+-3641x-2447,Astrocyte
+-3634x-2325,Excitatory
+-3625x-2493,Pericytes
+-3619x-2366,Inhibitory
+-3616x-2376,OD Immature 1
+-3612x-2455,Microglia
+-3605x-2336,Excitatory
+-3604x-2415,Inhibitory
+-3602x-2369,Astrocyte
+-3598x-2467,Inhibitory
+-3582x-2455,Inhibitory
+-3584x-2442,Astrocyte
+-3579x-2378,Inhibitory
+-3577x-2338,OD Immature 1
+-3575x-2327,Astrocyte
+-3575x-2404,Inhibitory
+-3572x-2432,Inhibitory
+-3570x-2338,OD Immature 1
+-3744x-2383,Inhibitory
+-3699x-2346,Inhibitory
+-3665x-2406,Microglia
+-3665x-2472,Inhibitory
+-3648x-2497,OD Immature 1
+-3630x-2394,Excitatory
+-3704x-2394,Inhibitory
+-3696x-2429,Inhibitory
+-3676x-2331,Inhibitory
+-3645x-2362,Excitatory
+-3649x-2481,OD Mature 2
+-3688x-2321,Excitatory
+-3684x-2357,Inhibitory
+-3676x-2447,Inhibitory
+-3740x-2124,OD Mature 2
+-3730x-2289,OD Immature 1
+-3732x-2237,Inhibitory
+-3727x-2262,Inhibitory
+-3721x-2168,OD Mature 2
+-3717x-2144,OD Mature 2
+-3706x-2177,Astrocyte
+-3704x-2281,Inhibitory
+-3702x-2268,Inhibitory
+-3698x-2221,OD Immature 1
+-3697x-2131,OD Mature 2
+-3699x-2234,Inhibitory
+-3693x-2205,OD Mature 2
+-3687x-2169,OD Mature 2
+-3684x-2294,Endothelial 3
+-3681x-2251,OD Mature 2
+-3679x-2277,Excitatory
+-3668x-2179,OD Immature 1
+-3663x-2217,Astrocyte
+-3658x-2160,OD Mature 2
+-3643x-2251,Excitatory
+-3643x-2140,OD Mature 2
+-3632x-2230,Endothelial 1
+-3625x-2189,Endothelial 1
+-3624x-2222,OD Immature 1
+-3624x-2286,Excitatory
+-3624x-2243,Inhibitory
+-3611x-2199,OD Mature 2
+-3604x-2261,Astrocyte
+-3599x-2220,Excitatory
+-3585x-2202,Excitatory
+-3583x-2147,Astrocyte
+-3571x-2208,Excitatory
+-3565x-2230,OD Mature 3
+-3565x-2288,Endothelial 1
+-3563x-2160,Astrocyte
+-3726x-2201,Endothelial 1
+-3708x-2143,OD Mature 2
+-3669x-2236,Excitatory
+-3661x-2227,Endothelial 3
+-3609x-2167,OD Mature 2
+-3608x-2280,Excitatory
+-3608x-2124,OD Mature 2
+-3599x-2287,Astrocyte
+-3598x-2190,Astrocyte
+-3594x-2142,OD Mature 2
+-3590x-2237,Astrocyte
+-3743x-2136,OD Mature 2
+-3654x-2278,Excitatory
+-3659x-2247,Excitatory
+-3643x-2165,OD Mature 2
+-3636x-2164,Endothelial 3
+-3561x-2120,OD Mature 2
+-3544x-2211,Excitatory
+-3535x-2211,OD Immature 1
+-3535x-2184,Endothelial 1
+-3530x-2193,Astrocyte
+-3528x-2228,Inhibitory
+-3529x-2244,Excitatory
+-3527x-2145,OD Mature 2
+-3525x-2189,OD Mature 2
+-3518x-2209,OD Mature 2
+-3515x-2228,Astrocyte
+-3507x-2248,Endothelial 1
+-3506x-2269,Excitatory
+-3500x-2153,Excitatory
+-3499x-2189,Excitatory
+-3485x-2135,Endothelial 3
+-3474x-2160,OD Immature 1
+-3473x-2148,OD Mature 2
+-3472x-2289,OD Mature 2
+-3470x-2223,Astrocyte
+-3467x-2255,OD Mature 2
+-3464x-2242,Inhibitory
+-3460x-2291,OD Mature 2
+-3456x-2267,OD Mature 2
+-3457x-2148,Endothelial 1
+-3459x-2174,Astrocyte
+-3447x-2163,Astrocyte
+-3432x-2184,OD Mature 1
+-3430x-2291,OD Mature 2
+-3421x-2185,OD Mature 2
+-3420x-2233,Endothelial 1
+-3415x-2296,OD Mature 2
+-3411x-2271,OD Mature 2
+-3406x-2231,Inhibitory
+-3404x-2158,OD Mature 1
+-3407x-2183,Excitatory
+-3401x-2153,Inhibitory
+-3395x-2146,Inhibitory
+-3392x-2125,Astrocyte
+-3388x-2294,OD Mature 2
+-3385x-2260,OD Immature 1
+-3375x-2152,Inhibitory
+-3370x-2240,Excitatory
+-3370x-2159,Inhibitory
+-3367x-2132,Excitatory
+-3408x-2282,OD Mature 2
+-3533x-2254,Inhibitory
+-3510x-2136,Inhibitory
+-3502x-2224,Endothelial 3
+-3471x-2179,Endothelial 3
+-3525x-2267,Endothelial 1
+-3480x-2282,Astrocyte
+-3397x-2303,OD Mature 2
+-3378x-2182,OD Mature 1
+-3521x-2296,Astrocyte
+-3549x-2441,Astrocyte
+-3548x-2401,Astrocyte
+-3546x-2353,Excitatory
+-3532x-2390,OD Mature 1
+-3525x-2319,OD Mature 2
+-3523x-2493,Endothelial 3
+-3503x-2412,OD Mature 1
+-3502x-2453,Astrocyte
+-3500x-2345,OD Mature 2
+-3494x-2318,OD Mature 2
+-3491x-2383,OD Mature 2
+-3476x-2356,OD Mature 2
+-3477x-2468,OD Mature 2
+-3466x-2418,OD Immature 1
+-3456x-2358,OD Mature 2
+-3454x-2407,OD Mature 2
+-3455x-2499,Astrocyte
+-3449x-2424,OD Mature 2
+-3439x-2341,OD Mature 2
+-3424x-2375,OD Mature 2
+-3422x-2423,OD Mature 2
+-3406x-2451,Endothelial 1
+-3404x-2406,Endothelial 1
+-3400x-2442,Astrocyte
+-3389x-2461,Microglia
+-3384x-2351,OD Mature 4
+-3380x-2441,OD Mature 2
+-3376x-2331,OD Mature 2
+-3367x-2316,Astrocyte
+-3361x-2390,Endothelial 1
+-3506x-2463,OD Immature 1
+-3472x-2330,OD Mature 2
+-3464x-2330,OD Mature 2
+-3424x-2470,Astrocyte
+-3400x-2344,OD Mature 2
+-3399x-2378,Endothelial 3
+-3381x-2484,Endothelial 3
+-3481x-2332,OD Mature 2
+-3429x-2486,OD Immature 1
+-3428x-2454,OD Mature 2
+-3419x-2458,OD Immature 1
+-3407x-2479,Excitatory
+-3381x-2496,Excitatory
+-3373x-2369,OD Mature 2
+-3499x-2322,Microglia
+-3474x-2432,Excitatory
+-3403x-2388,OD Mature 1
+-3378x-2341,OD Mature 4
+-3539x-2485,Endothelial 1
+-3445x-2485,Astrocyte
+-3537x-2590,Inhibitory
+-3539x-2680,Astrocyte
+-3539x-2616,Endothelial 3
+-3533x-2528,Microglia
+-3533x-2656,Inhibitory
+-3531x-2563,Endothelial 1
+-3526x-2619,Inhibitory
+-3512x-2609,Inhibitory
+-3509x-2566,Astrocyte
+-3505x-2684,OD Immature 1
+-3499x-2583,Inhibitory
+-3491x-2640,OD Mature 1
+-3481x-2675,Inhibitory
+-3480x-2602,Inhibitory
+-3465x-2554,Inhibitory
+-3446x-2522,OD Mature 2
+-3445x-2671,Inhibitory
+-3439x-2651,Astrocyte
+-3416x-2560,Inhibitory
+-3411x-2637,Excitatory
+-3409x-2687,Inhibitory
+-3408x-2624,Inhibitory
+-3406x-2671,Inhibitory
+-3406x-2562,Endothelial 1
+-3401x-2527,OD Immature 1
+-3397x-2597,OD Immature 1
+-3387x-2670,Astrocyte
+-3371x-2582,Inhibitory
+-3369x-2613,Astrocyte
+-3496x-2702,Inhibitory
+-3469x-2645,Inhibitory
+-3457x-2677,Astrocyte
+-3454x-2606,Excitatory
+-3456x-2611,Inhibitory
+-3453x-2647,Excitatory
+-3448x-2584,Excitatory
+-3436x-2694,Inhibitory
+-3535x-2626,Inhibitory
+-3524x-2543,Inhibitory
+-3496x-2612,Inhibitory
+-3477x-2542,Inhibitory
+-3382x-2666,Astrocyte
+-3448x-2655,Inhibitory
+-3368x-2657,Inhibitory
+-3518x-2556,Inhibitory
+-3518x-2695,Inhibitory
+-3480x-2643,Inhibitory
+-3473x-2639,Inhibitory
+-3446x-2702,Inhibitory
+-3379x-2692,Inhibitory
+-3544x-2728,Inhibitory
+-3533x-2771,OD Immature 1
+-3522x-2861,Inhibitory
+-3513x-2849,Inhibitory
+-3511x-2835,Inhibitory
+-3505x-2719,Inhibitory
+-3499x-2758,Inhibitory
+-3491x-2727,Inhibitory
+-3493x-2786,OD Mature 1
+-3481x-2827,Inhibitory
+-3480x-2774,Astrocyte
+-3475x-2876,Excitatory
+-3474x-2845,Inhibitory
+-3469x-2719,Astrocyte
+-3463x-2833,Inhibitory
+-3462x-2882,Inhibitory
+-3460x-2739,Endothelial 1
+-3430x-2790,Endothelial 2
+-3424x-2767,Astrocyte
+-3421x-2800,Astrocyte
+-3411x-2736,Inhibitory
+-3406x-2801,Endothelial 1
+-3403x-2834,Inhibitory
+-3391x-2887,Inhibitory
+-3389x-2815,Astrocyte
+-3382x-2741,Inhibitory
+-3383x-2734,Inhibitory
+-3370x-2733,Inhibitory
+-3370x-2769,Inhibitory
+-3520x-2734,Inhibitory
+-3502x-2863,Inhibitory
+-3496x-2873,Inhibitory
+-3484x-2899,OD Immature 1
+-3447x-2765,Inhibitory
+-3415x-2790,Astrocyte
+-3404x-2739,Astrocyte
+-3374x-2854,Inhibitory
+-3511x-2888,Inhibitory
+-3495x-2810,Microglia
+-3488x-2812,Inhibitory
+-3479x-2751,Inhibitory
+-3403x-2883,Inhibitory
+-3365x-2815,Inhibitory
+-3541x-2887,Inhibitory
+-3534x-2884,OD Mature 2
+-3466x-2793,Inhibitory
+-3511x-2814,Inhibitory
+-3479x-2807,Inhibitory
+-3475x-2812,Inhibitory
+-3469x-2854,Inhibitory
+-3453x-2888,Inhibitory
+-3432x-2737,Inhibitory
+-3426x-2867,Astrocyte
+-3389x-2769,Inhibitory
+-3548x-2917,Astrocyte
+-3543x-3066,Inhibitory
+-3542x-3046,Inhibitory
+-3542x-2943,Excitatory
+-3537x-3024,Inhibitory
+-3519x-3044,Inhibitory
+-3515x-3061,Inhibitory
+-3516x-3023,OD Immature 1
+-3514x-2991,Astrocyte
+-3512x-2965,Inhibitory
+-3505x-2978,OD Immature 1
+-3477x-2937,OD Mature 2
+-3476x-3059,Inhibitory
+-3467x-2993,Inhibitory
+-3464x-3103,OD Immature 2
+-3461x-2961,Excitatory
+-3454x-2993,Inhibitory
+-3454x-2973,Excitatory
+-3452x-3040,Inhibitory
+-3424x-3038,Inhibitory
+-3414x-3101,OD Immature 1
+-3399x-3093,Inhibitory
+-3397x-2962,Inhibitory
+-3399x-3026,OD Mature 2
+-3399x-3056,Inhibitory
+-3394x-3037,Endothelial 3
+-3390x-2924,Endothelial 1
+-3383x-2998,Excitatory
+-3380x-3062,OD Immature 1
+-3378x-3021,Inhibitory
+-3377x-2978,OD Mature 2
+-3371x-3039,Endothelial 2
+-3370x-2976,OD Immature 1
+-3366x-2960,OD Immature 1
+-3532x-2934,Inhibitory
+-3519x-3086,Excitatory
+-3496x-3063,Inhibitory
+-3482x-2974,Inhibitory
+-3480x-2986,Inhibitory
+-3478x-3093,Endothelial 1
+-3464x-2983,OD Mature 2
+-3433x-2992,OD Immature 1
+-3546x-3084,Excitatory
+-3539x-3089,Excitatory
+-3506x-3031,Inhibitory
+-3459x-3080,Inhibitory
+-3413x-3018,Excitatory
+-3369x-3031,Inhibitory
+-3370x-3003,Astrocyte
+-3407x-3077,Inhibitory
+-3386x-2967,Inhibitory
+-3544x-3016,Inhibitory
+-3513x-2947,Inhibitory
+-3504x-2942,Inhibitory
+-3422x-3012,Endothelial 1
+-3390x-3099,Inhibitory
+-3368x-3081,Astrocyte
+-3542x-3231,Inhibitory
+-3539x-3207,Astrocyte
+-3536x-3160,Microglia
+-3532x-3208,OD Immature 1
+-3526x-3201,OD Immature 1
+-3525x-3223,Endothelial 1
+-3508x-3206,Inhibitory
+-3507x-3272,Excitatory
+-3502x-3277,Excitatory
+-3487x-3260,Excitatory
+-3480x-3178,Endothelial 1
+-3480x-3171,Inhibitory
+-3469x-3134,Inhibitory
+-3464x-3250,Inhibitory
+-3454x-3185,Astrocyte
+-3445x-3169,Inhibitory
+-3445x-3227,Endothelial 1
+-3436x-3136,Inhibitory
+-3441x-3271,Inhibitory
+-3435x-3265,Inhibitory
+-3427x-3238,Microglia
+-3426x-3152,Microglia
+-3422x-3297,Excitatory
+-3412x-3123,Inhibitory
+-3405x-3276,Astrocyte
+-3400x-3302,Endothelial 1
+-3398x-3248,Excitatory
+-3398x-3197,Inhibitory
+-3388x-3180,Inhibitory
+-3382x-3151,Endothelial 1
+-3382x-3277,Inhibitory
+-3365x-3246,Inhibitory
+-3532x-3257,Inhibitory
+-3516x-3155,Inhibitory
+-3471x-3192,Inhibitory
+-3420x-3174,Inhibitory
+-3368x-3131,Excitatory
+-3547x-3182,Inhibitory
+-3503x-3177,Inhibitory
+-3455x-3234,Inhibitory
+-3394x-3128,Inhibitory
+-3384x-3213,Inhibitory
+-3365x-3255,Endothelial 1
+-3485x-3239,Astrocyte
+-3371x-3119,Astrocyte
+-3505x-3259,Excitatory
+-3498x-3128,Endothelial 1
+-3443x-3290,Inhibitory
+-3550x-3322,Inhibitory
+-3547x-3436,Endothelial 1
+-3547x-3317,Astrocyte
+-3544x-3483,Excitatory
+-3537x-3329,Excitatory
+-3528x-3426,Excitatory
+-3529x-3485,Inhibitory
+-3522x-3331,Endothelial 1
+-3515x-3401,OD Mature 2
+-3515x-3333,Endothelial 1
+-3514x-3350,OD Immature 1
+-3511x-3467,Excitatory
+-3492x-3496,Excitatory
+-3474x-3408,Excitatory
+-3471x-3439,Excitatory
+-3463x-3352,Inhibitory
+-3460x-3491,Inhibitory
+-3459x-3420,Astrocyte
+-3449x-3413,Astrocyte
+-3442x-3396,Astrocyte
+-3440x-3348,Inhibitory
+-3427x-3409,Excitatory
+-3413x-3442,OD Immature 1
+-3407x-3391,Inhibitory
+-3405x-3359,Excitatory
+-3406x-3347,Endothelial 1
+-3406x-3462,Inhibitory
+-3391x-3459,Inhibitory
+-3386x-3503,Inhibitory
+-3381x-3483,Inhibitory
+-3383x-3388,Astrocyte
+-3377x-3357,OD Immature 1
+-3370x-3326,Excitatory
+-3375x-3439,Excitatory
+-3394x-3367,Astrocyte
+-3381x-3319,Astrocyte
+-3373x-3466,Inhibitory
+-3547x-3398,Microglia
+-3527x-3379,Excitatory
+-3524x-3371,Inhibitory
+-3504x-3426,OD Immature 1
+-3484x-3448,Inhibitory
+-3439x-3452,Astrocyte
+-3439x-3426,Inhibitory
+-3384x-3344,Astrocyte
+-3383x-3327,Astrocyte
+-3385x-3412,Inhibitory
+-3500x-3379,Inhibitory
+-3492x-3342,Endothelial 1
+-3491x-3351,Endothelial 1
+-3480x-3482,Inhibitory
+-3471x-3376,Excitatory
+-3458x-3367,Endothelial 1
+-3438x-3373,Inhibitory
+-3546x-3378,Inhibitory
+-3508x-3491,Inhibitory
+-3471x-3400,Inhibitory
+-3460x-3322,Endothelial 1
+-3451x-3474,Inhibitory
+-3407x-3330,Inhibitory
+-3376x-3480,Inhibitory
+-3441x-3331,Astrocyte
+-3439x-3324,OD Mature 1
+-3534x-3651,Inhibitory
+-3532x-3606,Inhibitory
+-3530x-3578,Excitatory
+-3528x-3677,Endothelial 1
+-3529x-3698,Inhibitory
+-3525x-3535,Inhibitory
+-3522x-3678,Endothelial 1
+-3523x-3563,Excitatory
+-3503x-3638,Inhibitory
+-3505x-3657,Excitatory
+-3502x-3572,Inhibitory
+-3499x-3515,Astrocyte
+-3491x-3605,Excitatory
+-3487x-3541,OD Mature 2
+-3479x-3596,Inhibitory
+-3476x-3619,Endothelial 3
+-3476x-3702,Inhibitory
+-3462x-3533,Excitatory
+-3458x-3523,Inhibitory
+-3453x-3586,Inhibitory
+-3450x-3655,Inhibitory
+-3448x-3697,Excitatory
+-3449x-3551,Inhibitory
+-3446x-3686,Endothelial 1
+-3442x-3622,Inhibitory
+-3434x-3701,Astrocyte
+-3432x-3577,Inhibitory
+-3434x-3597,Inhibitory
+-3429x-3566,Excitatory
+-3421x-3533,Endothelial 2
+-3414x-3689,Endothelial 3
+-3400x-3565,Inhibitory
+-3397x-3532,Endothelial 3
+-3393x-3612,Excitatory
+-3385x-3615,Excitatory
+-3387x-3598,Astrocyte
+-3385x-3556,Excitatory
+-3382x-3563,Endothelial 1
+-3380x-3527,Endothelial 3
+-3377x-3517,Pericytes
+-3377x-3597,Astrocyte
+-3371x-3637,Excitatory
+-3364x-3565,Inhibitory
+-3422x-3546,Astrocyte
+-3420x-3662,OD Immature 1
+-3417x-3598,Excitatory
+-3417x-3547,Astrocyte
+-3401x-3545,Inhibitory
+-3362x-3686,Inhibitory
+-3547x-3611,Inhibitory
+-3527x-3645,Inhibitory
+-3492x-3556,Inhibitory
+-3464x-3653,Excitatory
+-3449x-3630,Excitatory
+-3518x-3590,OD Immature 1
+-3394x-3682,Inhibitory
+-3523x-3610,Astrocyte
+-3503x-3538,OD Mature 2
+-3498x-3544,Inhibitory
+-3490x-3594,Astrocyte
+-3422x-3640,Excitatory
+-3379x-3542,Inhibitory
+-3545x-3864,Astrocyte
+-3541x-3886,Inhibitory
+-3528x-3820,Excitatory
+-3528x-3784,Excitatory
+-3527x-3747,OD Mature 2
+-3526x-3848,Excitatory
+-3517x-3905,Astrocyte
+-3515x-3791,Inhibitory
+-3506x-3864,Astrocyte
+-3508x-3743,Astrocyte
+-3503x-3720,Inhibitory
+-3500x-3769,OD Immature 1
+-3488x-3903,Inhibitory
+-3483x-3886,Excitatory
+-3484x-3871,Astrocyte
+-3484x-3854,Excitatory
+-3479x-3768,Excitatory
+-3475x-3825,Excitatory
+-3474x-3763,Excitatory
+-3472x-3891,Inhibitory
+-3470x-3849,Inhibitory
+-3468x-3722,Inhibitory
+-3460x-3851,Excitatory
+-3465x-3886,Inhibitory
+-3460x-3869,Excitatory
+-3456x-3813,Inhibitory
+-3450x-3849,Astrocyte
+-3448x-3832,Inhibitory
+-3435x-3852,Inhibitory
+-3436x-3798,Excitatory
+-3434x-3892,Astrocyte
+-3426x-3734,Inhibitory
+-3427x-3899,Inhibitory
+-3422x-3877,Inhibitory
+-3419x-3837,Excitatory
+-3418x-3850,Inhibitory
+-3414x-3814,Excitatory
+-3406x-3886,Inhibitory
+-3408x-3855,Excitatory
+-3403x-3760,Inhibitory
+-3403x-3901,Excitatory
+-3399x-3805,Inhibitory
+-3398x-3832,Inhibitory
+-3394x-3876,Inhibitory
+-3391x-3854,Astrocyte
+-3388x-3860,OD Immature 1
+-3385x-3840,Inhibitory
+-3383x-3721,Inhibitory
+-3375x-3763,Inhibitory
+-3365x-3792,OD Immature 2
+-3366x-3836,Excitatory
+-3511x-3817,Excitatory
+-3464x-3740,Inhibitory
+-3448x-3767,Excitatory
+-3428x-3787,Excitatory
+-3394x-3768,Inhibitory
+-3382x-3820,Endothelial 1
+-3372x-3882,Inhibitory
+-3367x-3754,Astrocyte
+-3540x-3778,Inhibitory
+-3531x-3721,Inhibitory
+-3516x-3884,Excitatory
+-3455x-3798,Astrocyte
+-3391x-3734,Inhibitory
+-3450x-3886,Inhibitory
+-3473x-3796,Excitatory
+-3419x-3869,Inhibitory
+-3417x-3759,Inhibitory
+-3412x-3793,Excitatory
+-3383x-3787,Inhibitory
+-3378x-3720,Endothelial 1
+-3378x-3899,Inhibitory
+-3373x-3806,Inhibitory
+-3349x-3873,Inhibitory
+-3338x-3803,Excitatory
+-3335x-3857,Excitatory
+-3332x-3724,Astrocyte
+-3328x-3894,Inhibitory
+-3324x-3771,Astrocyte
+-3320x-3857,Inhibitory
+-3315x-3760,Excitatory
+-3310x-3807,Inhibitory
+-3307x-3724,Inhibitory
+-3300x-3878,Endothelial 3
+-3295x-3901,Inhibitory
+-3297x-3846,Astrocyte
+-3294x-3831,Inhibitory
+-3295x-3786,OD Immature 1
+-3283x-3859,Inhibitory
+-3284x-3724,Inhibitory
+-3277x-3822,Inhibitory
+-3278x-3815,Inhibitory
+-3275x-3794,Endothelial 1
+-3265x-3758,Inhibitory
+-3262x-3740,Excitatory
+-3259x-3880,Inhibitory
+-3261x-3853,Inhibitory
+-3255x-3774,Inhibitory
+-3253x-3838,Inhibitory
+-3250x-3770,Inhibitory
+-3245x-3742,Inhibitory
+-3245x-3759,Inhibitory
+-3241x-3802,Inhibitory
+-3238x-3861,OD Mature 2
+-3236x-3833,Inhibitory
+-3232x-3773,Endothelial 1
+-3230x-3758,Inhibitory
+-3225x-3781,Endothelial 3
+-3218x-3787,Inhibitory
+-3213x-3729,Inhibitory
+-3208x-3762,Excitatory
+-3199x-3864,Inhibitory
+-3203x-3750,Inhibitory
+-3189x-3765,Excitatory
+-3188x-3719,Inhibitory
+-3186x-3732,Excitatory
+-3182x-3792,Excitatory
+-3182x-3898,Microglia
+-3172x-3875,Inhibitory
+-3173x-3793,Inhibitory
+-3176x-3775,Inhibitory
+-3170x-3812,Inhibitory
+-3172x-3740,Inhibitory
+-3347x-3855,Inhibitory
+-3345x-3836,Excitatory
+-3342x-3717,Inhibitory
+-3325x-3868,Inhibitory
+-3325x-3780,Astrocyte
+-3300x-3864,Excitatory
+-3274x-3856,Endothelial 1
+-3223x-3892,Astrocyte
+-3218x-3717,Inhibitory
+-3169x-3891,Excitatory
+-3168x-3884,Astrocyte
+-3341x-3883,Inhibitory
+-3229x-3838,Inhibitory
+-3208x-3830,Inhibitory
+-3170x-3802,Inhibitory
+-3336x-3831,Excitatory
+-3288x-3745,Excitatory
+-3219x-3874,Inhibitory
+-3189x-3812,Inhibitory
+-3347x-3889,Endothelial 1
+-3328x-3903,Inhibitory
+-3312x-3782,Excitatory
+-3313x-3890,Inhibitory
+-3302x-3874,Inhibitory
+-3302x-3816,Inhibitory
+-3271x-3887,Excitatory
+-3196x-3844,Endothelial 1
+-3191x-3865,Inhibitory
+-3180x-3893,Inhibitory
+-3172x-3844,Inhibitory
+-3168x-3850,Excitatory
+-3348x-3594,Inhibitory
+-3342x-3641,Astrocyte
+-3346x-3679,Inhibitory
+-3341x-3567,Inhibitory
+-3338x-3520,Inhibitory
+-3334x-3547,Excitatory
+-3331x-3583,Astrocyte
+-3317x-3691,Endothelial 1
+-3311x-3588,Astrocyte
+-3300x-3641,Excitatory
+-3295x-3546,Astrocyte
+-3289x-3627,Inhibitory
+-3282x-3685,Inhibitory
+-3282x-3523,Inhibitory
+-3281x-3653,Inhibitory
+-3276x-3623,Inhibitory
+-3273x-3575,Astrocyte
+-3264x-3639,Inhibitory
+-3254x-3591,Inhibitory
+-3254x-3697,Inhibitory
+-3247x-3600,Inhibitory
+-3247x-3616,Inhibitory
+-3241x-3539,OD Immature 1
+-3231x-3537,Astrocyte
+-3229x-3667,Excitatory
+-3218x-3527,Inhibitory
+-3216x-3555,Inhibitory
+-3212x-3563,Inhibitory
+-3211x-3593,Inhibitory
+-3206x-3673,Inhibitory
+-3200x-3604,Inhibitory
+-3196x-3626,Inhibitory
+-3185x-3543,Inhibitory
+-3176x-3648,Excitatory
+-3170x-3563,Excitatory
+-3315x-3535,OD Immature 1
+-3309x-3606,Inhibitory
+-3282x-3611,Excitatory
+-3281x-3598,Excitatory
+-3274x-3566,Inhibitory
+-3256x-3679,Excitatory
+-3228x-3573,Inhibitory
+-3219x-3704,Inhibitory
+-3203x-3584,Inhibitory
+-3199x-3559,OD Immature 1
+-3186x-3591,Inhibitory
+-3344x-3662,Microglia
+-3336x-3611,Inhibitory
+-3331x-3623,Inhibitory
+-3325x-3634,Inhibitory
+-3296x-3528,Inhibitory
+-3225x-3542,Inhibitory
+-3181x-3518,Inhibitory
+-3321x-3609,Inhibitory
+-3282x-3560,Excitatory
+-3255x-3537,Endothelial 1
+-3253x-3624,Inhibitory
+-3224x-3636,Inhibitory
+-3298x-3567,Inhibitory
+-3279x-3542,Inhibitory
+-3226x-3687,Astrocyte
+-3224x-3598,Endothelial 1
+-3220x-3610,Inhibitory
+-3218x-3655,Excitatory
+-3187x-3672,Inhibitory
+-3167x-3643,Inhibitory
+-3352x-3644,Excitatory
+-3188x-3646,Inhibitory
+-3344x-3465,Inhibitory
+-3336x-3469,Inhibitory
+-3340x-3406,Excitatory
+-3327x-3441,OD Immature 1
+-3327x-3432,Inhibitory
+-3319x-3496,Inhibitory
+-3310x-3406,Inhibitory
+-3306x-3428,Inhibitory
+-3305x-3473,Inhibitory
+-3291x-3443,Inhibitory
+-3281x-3340,OD Immature 1
+-3275x-3421,Endothelial 1
+-3266x-3472,Endothelial 1
+-3268x-3366,Endothelial 3
+-3259x-3491,Inhibitory
+-3255x-3374,Inhibitory
+-3250x-3451,Inhibitory
+-3249x-3420,Excitatory
+-3242x-3332,Inhibitory
+-3240x-3475,Endothelial 1
+-3237x-3378,Inhibitory
+-3233x-3448,Astrocyte
+-3227x-3474,Inhibitory
+-3231x-3317,Endothelial 1
+-3222x-3335,Inhibitory
+-3219x-3393,Inhibitory
+-3212x-3344,Inhibitory
+-3211x-3417,Inhibitory
+-3212x-3482,Inhibitory
+-3200x-3346,OD Immature 1
+-3197x-3497,Microglia
+-3180x-3458,Endothelial 1
+-3180x-3399,Inhibitory
+-3176x-3350,Inhibitory
+-3172x-3478,Excitatory
+-3172x-3450,Endothelial 1
+-3300x-3442,Inhibitory
+-3284x-3421,Inhibitory
+-3276x-3484,Inhibitory
+-3234x-3396,OD Immature 1
+-3197x-3463,Inhibitory
+-3190x-3324,Excitatory
+-3184x-3429,Excitatory
+-3294x-3493,Inhibitory
+-3267x-3444,Inhibitory
+-3263x-3403,Inhibitory
+-3267x-3397,OD Immature 1
+-3236x-3347,Excitatory
+-3224x-3414,Inhibitory
+-3206x-3442,Inhibitory
+-3291x-3382,Astrocyte
+-3284x-3387,Astrocyte
+-3219x-3494,Inhibitory
+-3192x-3485,Inhibitory
+-3330x-3345,Inhibitory
+-3282x-3476,Inhibitory
+-3245x-3438,Excitatory
+-3241x-3428,Excitatory
+-3216x-3362,Inhibitory
+-3209x-3388,Inhibitory
+-3204x-3384,Inhibitory
+-3185x-3449,Inhibitory
+-3295x-3451,Inhibitory
+-3290x-3455,Inhibitory
+-3344x-3237,Inhibitory
+-3341x-3283,Endothelial 1
+-3339x-3118,OD Immature 1
+-3327x-3271,Endothelial 1
+-3323x-3156,Inhibitory
+-3318x-3143,Excitatory
+-3316x-3242,Excitatory
+-3290x-3176,Inhibitory
+-3282x-3161,OD Immature 1
+-3276x-3295,OD Mature 2
+-3275x-3151,Endothelial 1
+-3271x-3201,Inhibitory
+-3268x-3206,Excitatory
+-3261x-3180,Endothelial 1
+-3242x-3299,Excitatory
+-3241x-3198,Astrocyte
+-3239x-3219,Inhibitory
+-3235x-3252,Excitatory
+-3235x-3235,Excitatory
+-3235x-3271,Astrocyte
+-3230x-3146,Excitatory
+-3220x-3197,Astrocyte
+-3217x-3128,Astrocyte
+-3209x-3267,Endothelial 3
+-3204x-3236,OD Immature 1
+-3198x-3134,Endothelial 1
+-3193x-3175,OD Mature 2
+-3183x-3287,Inhibitory
+-3175x-3223,Inhibitory
+-3175x-3133,Inhibitory
+-3305x-3283,Astrocyte
+-3291x-3131,Inhibitory
+-3256x-3151,Astrocyte
+-3222x-3295,Inhibitory
+-3176x-3209,Inhibitory
+-3319x-3215,Astrocyte
+-3310x-3199,Inhibitory
+-3289x-3223,Excitatory
+-3289x-3266,Inhibitory
+-3212x-3244,OD Immature 1
+-3172x-3259,Astrocyte
+-3164x-3235,Inhibitory
+-3336x-3253,Endothelial 3
+-3170x-3241,Inhibitory
+-3324x-3172,Excitatory
+-3252x-3256,Inhibitory
+-3211x-3300,Astrocyte
+-3343x-2946,Inhibitory
+-3340x-2927,OD Immature 1
+-3337x-3064,Inhibitory
+-3333x-2983,Inhibitory
+-3326x-2970,Endothelial 3
+-3318x-2988,Inhibitory
+-3311x-3072,OD Immature 1
+-3314x-2925,Inhibitory
+-3306x-3051,Excitatory
+-3307x-2949,Excitatory
+-3304x-3000,OD Mature 2
+-3301x-3041,Excitatory
+-3295x-2929,Inhibitory
+-3292x-3073,Astrocyte
+-3290x-2986,Inhibitory
+-3282x-2928,Astrocyte
+-3278x-3070,Astrocyte
+-3274x-2928,Endothelial 1
+-3274x-3009,Inhibitory
+-3275x-3036,Microglia
+-3272x-2970,Inhibitory
+-3268x-2979,Excitatory
+-3263x-3010,Inhibitory
+-3261x-3081,Inhibitory
+-3262x-3075,Inhibitory
+-3262x-3100,Astrocyte
+-3259x-2946,Astrocyte
+-3256x-3099,Astrocyte
+-3244x-2957,OD Immature 1
+-3245x-2968,Inhibitory
+-3240x-3040,Inhibitory
+-3230x-3071,Inhibitory
+-3227x-3061,Inhibitory
+-3229x-3032,Inhibitory
+-3225x-3091,OD Immature 1
+-3216x-3041,Inhibitory
+-3207x-2994,Astrocyte
+-3200x-3055,Inhibitory
+-3197x-3050,Inhibitory
+-3195x-2950,Inhibitory
+-3193x-3037,Inhibitory
+-3192x-3009,Inhibitory
+-3186x-3074,Excitatory
+-3179x-2987,OD Mature 2
+-3174x-2946,Inhibitory
+-3174x-3048,Inhibitory
+-3168x-3058,OD Immature 1
+-3333x-3032,Inhibitory
+-3320x-3089,Excitatory
+-3288x-2992,Inhibitory
+-3239x-3001,Inhibitory
+-3222x-3011,Endothelial 1
+-3205x-3015,Inhibitory
+-3190x-2936,Inhibitory
+-3189x-3026,Inhibitory
+-3165x-2922,Inhibitory
+-3345x-3086,Astrocyte
+-3314x-2967,Inhibitory
+-3288x-2949,Astrocyte
+-3285x-2943,Endothelial 2
+-3192x-3091,Inhibitory
+-3179x-2971,Inhibitory
+-3174x-3040,Inhibitory
+-3266x-2986,Inhibitory
+-3336x-2989,Inhibitory
+-3336x-2966,Inhibitory
+-3260x-3053,Inhibitory
+-3245x-3061,Inhibitory
+-3182x-3007,Inhibitory
+-3170x-3066,OD Immature 1
+-3171x-2999,Inhibitory
+-3163x-3024,Inhibitory
+-3343x-2896,Inhibitory
+-3337x-2749,OD Immature 1
+-3333x-2734,Inhibitory
+-3321x-2791,Inhibitory
+-3322x-2814,Excitatory
+-3322x-2841,Inhibitory
+-3317x-2869,Inhibitory
+-3316x-2887,OD Mature 2
+-3315x-2753,Endothelial 1
+-3308x-2724,Inhibitory
+-3300x-2741,Inhibitory
+-3296x-2852,Inhibitory
+-3290x-2876,Inhibitory
+-3288x-2741,Inhibitory
+-3281x-2723,Astrocyte
+-3275x-2866,Inhibitory
+-3275x-2847,Inhibitory
+-3278x-2793,OD Immature 1
+-3266x-2778,Inhibitory
+-3266x-2730,Excitatory
+-3264x-2904,Inhibitory
+-3261x-2807,Inhibitory
+-3262x-2845,Inhibitory
+-3255x-2797,Inhibitory
+-3259x-2848,Inhibitory
+-3256x-2889,Astrocyte
+-3250x-2870,Inhibitory
+-3247x-2765,Inhibitory
+-3243x-2862,Inhibitory
+-3239x-2781,OD Immature 1
+-3231x-2871,Inhibitory
+-3224x-2885,Inhibitory
+-3224x-2839,Inhibitory
+-3220x-2748,Inhibitory
+-3222x-2723,Inhibitory
+-3218x-2817,Inhibitory
+-3204x-2848,Endothelial 1
+-3201x-2761,Inhibitory
+-3193x-2793,Endothelial 3
+-3190x-2742,Inhibitory
+-3188x-2837,Inhibitory
+-3188x-2762,Inhibitory
+-3187x-2894,Inhibitory
+-3182x-2745,Microglia
+-3178x-2785,Astrocyte
+-3177x-2846,Inhibitory
+-3176x-2872,Inhibitory
+-3175x-2794,Inhibitory
+-3166x-2853,Inhibitory
+-3166x-2750,Excitatory
+-3306x-2875,Inhibitory
+-3244x-2836,Inhibitory
+-3204x-2858,Inhibitory
+-3166x-2730,Inhibitory
+-3318x-2857,Inhibitory
+-3260x-2749,OD Immature 1
+-3222x-2871,Inhibitory
+-3222x-2774,Inhibitory
+-3214x-2741,Inhibitory
+-3211x-2884,Inhibitory
+-3253x-2825,Astrocyte
+-3197x-2764,Inhibitory
+-3184x-2825,Astrocyte
+-3166x-2831,OD Mature 2
+-3318x-2720,Excitatory
+-3297x-2762,Inhibitory
+-3267x-2854,Inhibitory
+-3345x-2672,OD Immature 1
+-3340x-2568,Excitatory
+-3334x-2548,Excitatory
+-3328x-2572,Excitatory
+-3325x-2594,Excitatory
+-3315x-2642,Microglia
+-3313x-2565,Astrocyte
+-3300x-2634,Inhibitory
+-3302x-2586,Excitatory
+-3302x-2656,Inhibitory
+-3298x-2697,Inhibitory
+-3286x-2671,Astrocyte
+-3280x-2628,Endothelial 3
+-3276x-2677,Inhibitory
+-3273x-2523,Inhibitory
+-3264x-2699,Astrocyte
+-3267x-2553,OD Mature 2
+-3265x-2588,Excitatory
+-3261x-2535,Astrocyte
+-3247x-2678,Excitatory
+-3245x-2700,Astrocyte
+-3238x-2655,Inhibitory
+-3226x-2695,OD Immature 1
+-3222x-2597,Excitatory
+-3220x-2675,Endothelial 1
+-3217x-2639,Endothelial 1
+-3208x-2644,OD Immature 1
+-3208x-2688,Inhibitory
+-3196x-2673,Excitatory
+-3202x-2522,Astrocyte
+-3202x-2554,Inhibitory
+-3191x-2593,Excitatory
+-3190x-2582,Inhibitory
+-3188x-2563,Excitatory
+-3185x-2619,Astrocyte
+-3169x-2676,Inhibitory
+-3336x-2618,Inhibitory
+-3313x-2668,Endothelial 1
+-3313x-2653,OD Immature 1
+-3271x-2608,OD Immature 1
+-3217x-2617,Inhibitory
+-3216x-2548,Astrocyte
+-3326x-2527,Microglia
+-3281x-2520,Excitatory
+-3275x-2558,OD Mature 2
+-3262x-2653,Inhibitory
+-3231x-2632,Astrocyte
+-3226x-2570,Excitatory
+-3226x-2687,Inhibitory
+-3209x-2700,Inhibitory
+-3178x-2701,Inhibitory
+-3175x-2697,Inhibitory
+-3170x-2693,Inhibitory
+-3317x-2551,Astrocyte
+-3315x-2556,Astrocyte
+-3316x-2623,Astrocyte
+-3244x-2588,Excitatory
+-3337x-2667,OD Immature 1
+-3321x-2699,Inhibitory
+-3261x-2673,Inhibitory
+-3252x-2695,Inhibitory
+-3198x-2690,Inhibitory
+-3189x-2647,Inhibitory
+-3164x-2576,Inhibitory
+-3273x-2698,OD Immature 1
+-3327x-2461,OD Mature 2
+-3320x-2428,OD Mature 2
+-3320x-2439,OD Mature 2
+-3320x-2359,OD Mature 2
+-3314x-2396,OD Mature 1
+-3313x-2332,Astrocyte
+-3305x-2450,Inhibitory
+-3304x-2325,Excitatory
+-3297x-2362,Astrocyte
+-3293x-2314,Endothelial 1
+-3290x-2367,Endothelial 1
+-3270x-2372,Excitatory
+-3265x-2444,Excitatory
+-3262x-2412,Inhibitory
+-3254x-2420,Endothelial 1
+-3253x-2326,OD Mature 2
+-3243x-2318,Endothelial 1
+-3243x-2491,Excitatory
+-3236x-2494,Excitatory
+-3235x-2357,OD Mature 2
+-3233x-2467,Excitatory
+-3232x-2412,Astrocyte
+-3225x-2368,Astrocyte
+-3224x-2439,Excitatory
+-3221x-2399,Astrocyte
+-3221x-2377,OD Mature 2
+-3213x-2382,Endothelial 1
+-3213x-2352,Excitatory
+-3212x-2489,Excitatory
+-3200x-2417,Excitatory
+-3195x-2498,Excitatory
+-3188x-2396,Astrocyte
+-3180x-2472,Inhibitory
+-3179x-2403,Excitatory
+-3174x-2499,Astrocyte
+-3166x-2388,Astrocyte
+-3164x-2321,Astrocyte
+-3275x-2335,Excitatory
+-3261x-2393,Excitatory
+-3209x-2400,Excitatory
+-3187x-2491,Excitatory
+-3167x-2482,Excitatory
+-3292x-2402,OD Mature 2
+-3247x-2442,Excitatory
+-3205x-2424,Microglia
+-3201x-2469,Excitatory
+-3307x-2344,OD Mature 4
+-3199x-2500,Excitatory
+-3321x-2458,Endothelial 1
+-3208x-2380,Inhibitory
+-3345x-2304,Excitatory
+-3341x-2143,Excitatory
+-3339x-2178,Excitatory
+-3337x-2224,Inhibitory
+-3328x-2122,OD Immature 1
+-3322x-2142,Excitatory
+-3315x-2212,Endothelial 1
+-3315x-2237,Microglia
+-3312x-2186,Astrocyte
+-3305x-2124,Excitatory
+-3306x-2284,Inhibitory
+-3288x-2264,Endothelial 1
+-3284x-2286,OD Immature 1
+-3275x-2205,Excitatory
+-3256x-2184,Astrocyte
+-3248x-2227,Excitatory
+-3231x-2197,Astrocyte
+-3207x-2213,Excitatory
+-3207x-2147,Excitatory
+-3203x-2120,Excitatory
+-3190x-2247,Astrocyte
+-3185x-2180,Astrocyte
+-3183x-2296,Excitatory
+-3171x-2275,Excitatory
+-3311x-2266,Astrocyte
+-3304x-2174,OD Mature 1
+-3305x-2252,Endothelial 1
+-3277x-2223,OD Mature 2
+-3206x-2183,Excitatory
+-3189x-2121,Microglia
+-3340x-2155,Endothelial 3
+-3263x-2244,Excitatory
+-3246x-2204,Excitatory
+-3198x-2250,Excitatory
+-3187x-2205,Astrocyte
+-3167x-2243,Inhibitory
+-3301x-2293,Excitatory
+-3312x-2256,Inhibitory
+-3231x-2288,Excitatory
+-3140x-2250,OD Immature 1
+-3139x-2298,Astrocyte
+-3139x-2121,Excitatory
+-3132x-2197,Astrocyte
+-3114x-2263,Endothelial 1
+-3114x-2204,Excitatory
+-3106x-2139,Excitatory
+-3106x-2250,Microglia
+-3104x-2189,OD Mature 2
+-3105x-2281,Excitatory
+-3096x-2259,Excitatory
+-3090x-2293,Excitatory
+-3087x-2151,Excitatory
+-3085x-2140,OD Immature 1
+-3074x-2168,Astrocyte
+-3071x-2141,Endothelial 3
+-3067x-2207,Excitatory
+-3046x-2192,Excitatory
+-3045x-2185,Excitatory
+-3040x-2259,Astrocyte
+-3034x-2229,Endothelial 1
+-3031x-2215,Excitatory
+-3031x-2296,Astrocyte
+-3028x-2237,Excitatory
+-3020x-2280,Inhibitory
+-3010x-2270,Excitatory
+-3007x-2246,Astrocyte
+-3006x-2186,Astrocyte
+-3000x-2268,Excitatory
+-2990x-2299,Astrocyte
+-2990x-2156,Astrocyte
+-2980x-2191,Endothelial 1
+-2971x-2283,Excitatory
+-2964x-2245,Astrocyte
+-2963x-2159,Endothelial 3
+-2964x-2151,Excitatory
+-3144x-2151,Astrocyte
+-3097x-2209,Astrocyte
+-3074x-2268,Astrocyte
+-3057x-2139,Astrocyte
+-3028x-2149,Excitatory
+-3008x-2220,Excitatory
+-3004x-2169,Excitatory
+-2996x-2126,Excitatory
+-3074x-2223,Excitatory
+-3071x-2280,Excitatory
+-3070x-2149,Pericytes
+-3052x-2215,Excitatory
+-2985x-2214,Excitatory
+-3028x-2193,Excitatory
+-3146x-2133,Excitatory
+-3140x-2220,Excitatory
+-3086x-2165,Astrocyte
+-2986x-2258,Excitatory
+-2976x-2214,Excitatory
+-2974x-2136,OD Immature 1
+-2967x-2233,Excitatory
+-2972x-2296,Excitatory
+-3149x-2418,Excitatory
+-3149x-2336,Excitatory
+-3146x-2494,Inhibitory
+-3141x-2355,Astrocyte
+-3130x-2494,Inhibitory
+-3128x-2464,Excitatory
+-3115x-2346,Excitatory
+-3110x-2447,Excitatory
+-3108x-2459,Excitatory
+-3108x-2383,Endothelial 1
+-3100x-2358,Excitatory
+-3098x-2426,Astrocyte
+-3086x-2470,Excitatory
+-3084x-2363,Excitatory
+-3079x-2380,Excitatory
+-3080x-2456,Astrocyte
+-3078x-2486,Excitatory
+-3079x-2427,Endothelial 3
+-3073x-2434,Endothelial 1
+-3068x-2409,Excitatory
+-3069x-2321,Excitatory
+-3059x-2381,OD Immature 1
+-3059x-2342,Excitatory
+-3057x-2473,Excitatory
+-3057x-2422,Astrocyte
+-3053x-2331,Excitatory
+-3052x-2491,Astrocyte
+-3048x-2361,Astrocyte
+-3045x-2319,Excitatory
+-3044x-2389,Excitatory
+-3040x-2431,Endothelial 1
+-3038x-2462,Excitatory
+-3036x-2419,Astrocyte
+-3025x-2479,Astrocyte
+-3018x-2376,Endothelial 1
+-3015x-2382,Endothelial 3
+-3016x-2329,Excitatory
+-3013x-2479,Astrocyte
+-3012x-2423,Excitatory
+-3010x-2391,Astrocyte
+-3009x-2495,Astrocyte
+-3010x-2433,Endothelial 1
+-3007x-2359,Excitatory
+-3006x-2337,Endothelial 1
+-3006x-2437,Astrocyte
+-3002x-2410,Excitatory
+-3001x-2319,Endothelial 1
+-2996x-2449,Endothelial 1
+-2996x-2420,Excitatory
+-2986x-2335,Astrocyte
+-2983x-2489,Excitatory
+-2975x-2489,Excitatory
+-2972x-2421,Excitatory
+-2970x-2448,Excitatory
+-2968x-2348,Excitatory
+-2966x-2325,Excitatory
+-2964x-2425,Excitatory
+-3129x-2392,Excitatory
+-3129x-2413,Excitatory
+-3127x-2370,Excitatory
+-3117x-2435,Excitatory
+-3114x-2324,Microglia
+-3105x-2472,Excitatory
+-3073x-2458,Astrocyte
+-3027x-2356,Excitatory
+-2990x-2358,Excitatory
+-2983x-2437,Astrocyte
+-3145x-2431,Inhibitory
+-3131x-2340,Excitatory
+-3060x-2451,OD Immature 1
+-2997x-2393,Astrocyte
+-2996x-2468,Excitatory
+-3033x-2385,Astrocyte
+-3069x-2350,Excitatory
+-3045x-2401,Astrocyte
+-3031x-2411,Excitatory
+-3025x-2442,Excitatory
+-2992x-2491,Excitatory
+-2969x-2353,Excitatory
+-3152x-2518,Astrocyte
+-3143x-2544,Excitatory
+-3131x-2640,Inhibitory
+-3131x-2584,Astrocyte
+-3126x-2542,Endothelial 3
+-3125x-2623,Astrocyte
+-3114x-2583,Inhibitory
+-3105x-2554,Inhibitory
+-3106x-2601,Excitatory
+-3104x-2527,Inhibitory
+-3099x-2569,Excitatory
+-3092x-2651,Astrocyte
+-3087x-2694,Excitatory
+-3083x-2661,Endothelial 1
+-3079x-2540,Inhibitory
+-3074x-2623,Excitatory
+-3072x-2662,Endothelial 1
+-3072x-2602,Astrocyte
+-3071x-2642,Astrocyte
+-3057x-2587,Inhibitory
+-3060x-2532,OD Immature 1
+-3058x-2661,Endothelial 1
+-3051x-2624,Endothelial 1
+-3046x-2586,Excitatory
+-3044x-2577,Excitatory
+-3044x-2689,Excitatory
+-3034x-2551,Inhibitory
+-3034x-2662,Microglia
+-3030x-2532,Astrocyte
+-3021x-2614,Astrocyte
+-3017x-2682,Endothelial 3
+-3016x-2656,Astrocyte
+-3013x-2572,Inhibitory
+-3012x-2635,Inhibitory
+-3009x-2531,Microglia
+-3003x-2597,Inhibitory
+-2996x-2558,Excitatory
+-2990x-2644,Excitatory
+-2988x-2658,Astrocyte
+-2983x-2593,Astrocyte
+-2982x-2654,Excitatory
+-2981x-2638,Astrocyte
+-2982x-2616,OD Immature 1
+-2977x-2659,Inhibitory
+-2975x-2545,Astrocyte
+-2966x-2696,Inhibitory
+-2969x-2542,Endothelial 1
+-3133x-2606,Excitatory
+-3127x-2566,Excitatory
+-3105x-2683,OD Immature 1
+-3069x-2695,Astrocyte
+-3067x-2684,Excitatory
+-3063x-2611,Inhibitory
+-3005x-2618,Excitatory
+-2994x-2523,Excitatory
+-2991x-2681,Endothelial 1
+-2985x-2566,Astrocyte
+-2981x-2700,Excitatory
+-3134x-2697,Excitatory
+-3011x-2666,Inhibitory
+-3000x-2562,Astrocyte
+-3143x-2814,Inhibitory
+-3142x-2832,Endothelial 1
+-3141x-2888,Inhibitory
+-3134x-2806,Microglia
+-3134x-2780,Inhibitory
+-3124x-2818,Inhibitory
+-3127x-2745,Endothelial 1
+-3114x-2728,Inhibitory
+-3106x-2884,Astrocyte
+-3102x-2900,Inhibitory
+-3098x-2881,Inhibitory
+-3097x-2750,Excitatory
+-3089x-2845,Inhibitory
+-3092x-2825,Astrocyte
+-3089x-2871,Inhibitory
+-3089x-2817,Excitatory
+-3082x-2773,Inhibitory
+-3071x-2895,Astrocyte
+-3068x-2819,Excitatory
+-3059x-2796,Inhibitory
+-3054x-2893,Inhibitory
+-3052x-2857,Inhibitory
+-3046x-2817,OD Immature 1
+-3046x-2735,Astrocyte
+-3045x-2810,Inhibitory
+-3044x-2798,Inhibitory
+-3042x-2728,Excitatory
+-3043x-2892,OD Mature 2
+-3039x-2819,Inhibitory
+-3031x-2724,Excitatory
+-3022x-2843,Inhibitory
+-3013x-2786,Excitatory
+-3008x-2863,Inhibitory
+-3001x-2819,Inhibitory
+-3001x-2837,Astrocyte
+-3001x-2760,Endothelial 3
+-2997x-2784,Excitatory
+-2988x-2736,Inhibitory
+-2983x-2727,Inhibitory
+-2983x-2772,OD Mature 4
+-2974x-2789,Excitatory
+-2972x-2735,Excitatory
+-2968x-2783,Inhibitory
+-2968x-2870,Excitatory
+-2966x-2760,Inhibitory
+-2961x-2740,Inhibitory
+-3136x-2852,Inhibitory
+-3129x-2764,Inhibitory
+-3132x-2738,Inhibitory
+-3105x-2725,Inhibitory
+-3094x-2802,Excitatory
+-3075x-2763,Excitatory
+-3062x-2876,Endothelial 1
+-3061x-2728,Excitatory
+-3057x-2734,Endothelial 1
+-2984x-2749,Excitatory
+-2966x-2818,Excitatory
+-3072x-2851,Astrocyte
+-3025x-2735,Inhibitory
+-3022x-2901,Excitatory
+-2988x-2878,Excitatory
+-2986x-2717,Astrocyte
+-3124x-2835,Inhibitory
+-3068x-2809,Inhibitory
+-3038x-2736,Inhibitory
+-2972x-2766,Astrocyte
+-3141x-2861,OD Mature 2
+-3122x-2881,Astrocyte
+-3080x-2799,Inhibitory
+-3072x-2721,Excitatory
+-3062x-2723,Excitatory
+-3062x-2783,Inhibitory
+-3032x-2777,Inhibitory
+-2991x-2860,Excitatory
+-2992x-2764,Excitatory
+-2979x-2878,Astrocyte
+-2975x-2829,Excitatory
+-3150x-3070,Inhibitory
+-3148x-3003,OD Immature 1
+-3144x-2921,Endothelial 1
+-3134x-2957,Astrocyte
+-3133x-2985,Inhibitory
+-3123x-3039,Microglia
+-3121x-2918,Inhibitory
+-3115x-3076,Endothelial 2
+-3111x-2928,Astrocyte
+-3109x-3070,Endothelial 3
+-3105x-2948,Inhibitory
+-3091x-2932,Inhibitory
+-3085x-3015,Inhibitory
+-3084x-2999,OD Immature 1
+-3083x-2977,Endothelial 1
+-3083x-3102,Inhibitory
+-3079x-2947,Inhibitory
+-3074x-3078,Astrocyte
+-3073x-2950,Inhibitory
+-3066x-2931,OD Immature 1
+-3066x-3058,Microglia
+-3059x-2992,Inhibitory
+-3047x-2963,Inhibitory
+-3049x-3011,Excitatory
+-3041x-3000,Excitatory
+-3040x-2938,Excitatory
+-3038x-3071,Excitatory
+-3038x-3041,Astrocyte
+-3032x-3075,Excitatory
+-3018x-3065,Inhibitory
+-3014x-3028,Inhibitory
+-3004x-3037,Inhibitory
+-3006x-2996,Inhibitory
+-3000x-2930,Excitatory
+-2997x-3071,Inhibitory
+-2992x-3037,Endothelial 3
+-2988x-3024,Excitatory
+-2974x-3051,Astrocyte
+-2971x-3067,Excitatory
+-2965x-3091,Astrocyte
+-3107x-3028,Astrocyte
+-3110x-3090,Inhibitory
+-3078x-3031,Inhibitory
+-3069x-3030,Inhibitory
+-3028x-3008,Inhibitory
+-3027x-2921,Endothelial 1
+-3014x-2986,Excitatory
+-3125x-2946,Inhibitory
+-3109x-3041,Inhibitory
+-3078x-3096,Inhibitory
+-2992x-3027,Excitatory
+-3135x-3088,Inhibitory
+-3146x-3062,Inhibitory
+-3144x-3031,Inhibitory
+-3101x-3091,Inhibitory
+-3029x-2963,Inhibitory
+-2985x-2932,Inhibitory
+-3142x-3198,Inhibitory
+-3140x-3241,Inhibitory
+-3136x-3158,Microglia
+-3139x-3157,Excitatory
+-3131x-3182,Inhibitory
+-3127x-3193,Inhibitory
+-3121x-3249,Endothelial 1
+-3118x-3281,OD Immature 1
+-3113x-3166,Inhibitory
+-3109x-3225,Inhibitory
+-3106x-3240,Inhibitory
+-3102x-3148,Inhibitory
+-3098x-3171,Astrocyte
+-3095x-3302,Endothelial 3
+-3095x-3194,Inhibitory
+-3086x-3295,Excitatory
+-3087x-3170,Inhibitory
+-3086x-3302,Astrocyte
+-3084x-3232,Inhibitory
+-3082x-3141,Endothelial 1
+-3076x-3263,Excitatory
+-3064x-3196,Excitatory
+-3063x-3172,Inhibitory
+-3053x-3135,Inhibitory
+-3052x-3285,Astrocyte
+-3050x-3253,Endothelial 3
+-3045x-3302,Excitatory
+-3041x-3156,OD Immature 1
+-3032x-3237,Excitatory
+-3032x-3230,Excitatory
+-3024x-3124,Inhibitory
+-3001x-3171,Excitatory
+-3001x-3217,Endothelial 1
+-2996x-3299,Astrocyte
+-2992x-3182,Astrocyte
+-2994x-3132,Excitatory
+-2980x-3266,Inhibitory
+-2965x-3178,Excitatory
+-2965x-3273,Excitatory
+-3071x-3290,Inhibitory
+-3061x-3232,Excitatory
+-3016x-3282,Astrocyte
+-2977x-3282,Inhibitory
+-2980x-3248,Excitatory
+-3136x-3275,Excitatory
+-3135x-3265,Inhibitory
+-3131x-3126,Inhibitory
+-3116x-3133,Inhibitory
+-3115x-3253,Endothelial 3
+-3107x-3260,Inhibitory
+-3106x-3131,Inhibitory
+-3089x-3258,Astrocyte
+-3077x-3173,Excitatory
+-3043x-3250,Microglia
+-3010x-3183,Endothelial 3
+-3076x-3241,Excitatory
+-2965x-3144,Excitatory
+-3093x-3246,Inhibitory
+-3053x-3295,OD Immature 1
+-3047x-3165,Excitatory
+-3024x-3264,Excitatory
+-2982x-3161,Excitatory
+-2972x-3228,Astrocyte
+-3140x-3379,Inhibitory
+-3143x-3489,Astrocyte
+-3137x-3411,Endothelial 1
+-3138x-3451,Inhibitory
+-3137x-3476,Inhibitory
+-3135x-3443,Endothelial 1
+-3128x-3406,Endothelial 1
+-3127x-3393,Inhibitory
+-3129x-3339,Inhibitory
+-3120x-3477,Inhibitory
+-3117x-3323,Inhibitory
+-3109x-3368,Inhibitory
+-3112x-3453,Inhibitory
+-3111x-3397,Astrocyte
+-3109x-3429,Inhibitory
+-3108x-3411,Endothelial 3
+-3107x-3356,Inhibitory
+-3107x-3442,Inhibitory
+-3097x-3475,Excitatory
+-3094x-3413,Inhibitory
+-3087x-3484,Excitatory
+-3084x-3349,Excitatory
+-3083x-3469,Excitatory
+-3083x-3407,Inhibitory
+-3080x-3332,Excitatory
+-3075x-3490,Astrocyte
+-3072x-3387,Excitatory
+-3069x-3447,Inhibitory
+-3063x-3396,Inhibitory
+-3046x-3373,Inhibitory
+-3049x-3428,Inhibitory
+-3046x-3342,Excitatory
+-3047x-3462,Excitatory
+-3044x-3422,Excitatory
+-3042x-3407,Excitatory
+-3031x-3383,Endothelial 1
+-3028x-3419,Inhibitory
+-3028x-3488,Endothelial 3
+-3021x-3360,Inhibitory
+-3015x-3403,Excitatory
+-3000x-3436,Excitatory
+-3000x-3350,Inhibitory
+-2995x-3478,Inhibitory
+-2990x-3423,Inhibitory
+-2989x-3415,Astrocyte
+-2990x-3463,Inhibitory
+-2981x-3341,Inhibitory
+-2982x-3489,Excitatory
+-2970x-3435,Inhibitory
+-2968x-3354,Astrocyte
+-3129x-3431,Inhibitory
+-3128x-3359,Excitatory
+-3099x-3336,Inhibitory
+-3087x-3331,Inhibitory
+-3075x-3340,Excitatory
+-3048x-3481,Inhibitory
+-3027x-3456,Inhibitory
+-3013x-3319,Astrocyte
+-3008x-3435,Inhibitory
+-3078x-3402,Excitatory
+-3071x-3426,Inhibitory
+-3069x-3330,Astrocyte
+-3045x-3322,Inhibitory
+-2969x-3368,Inhibitory
+-2964x-3441,OD Mature 2
+-3114x-3336,Inhibitory
+-3088x-3369,Microglia
+-3066x-3466,Astrocyte
+-3058x-3465,Inhibitory
+-3056x-3416,Astrocyte
+-3131x-3446,Endothelial 1
+-3044x-3446,Inhibitory
+-3029x-3347,Inhibitory
+-3004x-3415,Inhibitory
+-3068x-3372,Excitatory
+-3053x-3407,Inhibitory
+-3147x-3554,Endothelial 1
+-3145x-3628,OD Immature 1
+-3143x-3702,Inhibitory
+-3137x-3672,Inhibitory
+-3134x-3611,Excitatory
+-3132x-3696,Inhibitory
+-3126x-3619,Inhibitory
+-3119x-3554,Excitatory
+-3124x-3520,Inhibitory
+-3123x-3664,Inhibitory
+-3124x-3570,Inhibitory
+-3120x-3533,Inhibitory
+-3113x-3638,Inhibitory
+-3106x-3579,Excitatory
+-3104x-3679,Inhibitory
+-3102x-3625,Inhibitory
+-3102x-3602,Inhibitory
+-3097x-3590,Inhibitory
+-3090x-3669,Inhibitory
+-3088x-3605,Inhibitory
+-3088x-3548,Inhibitory
+-3085x-3582,Inhibitory
+-3081x-3536,Inhibitory
+-3083x-3589,Inhibitory
+-3082x-3648,Inhibitory
+-3081x-3637,Excitatory
+-3073x-3602,Inhibitory
+-3070x-3673,Inhibitory
+-3064x-3571,Inhibitory
+-3060x-3600,Inhibitory
+-3056x-3550,Inhibitory
+-3052x-3534,Inhibitory
+-3050x-3667,Inhibitory
+-3050x-3681,Inhibitory
+-3050x-3520,OD Immature 1
+-3034x-3677,Inhibitory
+-3024x-3654,Inhibitory
+-3022x-3663,Inhibitory
+-3019x-3539,Inhibitory
+-3012x-3693,Inhibitory
+-3017x-3683,Excitatory
+-3009x-3656,Excitatory
+-3011x-3590,Inhibitory
+-3007x-3638,Inhibitory
+-3003x-3663,Inhibitory
+-3000x-3610,Inhibitory
+-2998x-3623,Inhibitory
+-2997x-3559,OD Immature 1
+-2990x-3662,Astrocyte
+-2991x-3593,Excitatory
+-2985x-3670,Inhibitory
+-2988x-3530,Inhibitory
+-2984x-3621,Inhibitory
+-2979x-3563,Astrocyte
+-2972x-3687,OD Immature 1
+-2970x-3599,Inhibitory
+-2969x-3520,Inhibitory
+-2965x-3582,Inhibitory
+-2962x-3590,Inhibitory
+-3130x-3578,Inhibitory
+-3121x-3653,Inhibitory
+-3113x-3563,Inhibitory
+-3106x-3693,Inhibitory
+-3090x-3627,Inhibitory
+-3070x-3629,Inhibitory
+-3058x-3702,Inhibitory
+-3059x-3640,Excitatory
+-3051x-3639,Excitatory
+-3040x-3644,Inhibitory
+-3041x-3555,Inhibitory
+-3038x-3697,Endothelial 1
+-3016x-3559,Inhibitory
+-3011x-3614,Astrocyte
+-3008x-3601,Excitatory
+-3011x-3523,Inhibitory
+-3000x-3538,Inhibitory
+-3134x-3637,Inhibitory
+-3097x-3645,Astrocyte
+-3063x-3655,Excitatory
+-2996x-3692,Inhibitory
+-3082x-3611,Inhibitory
+-3073x-3519,Inhibitory
+-3118x-3686,Inhibitory
+-3105x-3592,Inhibitory
+-3080x-3515,Inhibitory
+-3060x-3644,Excitatory
+-3060x-3588,Inhibitory
+-3034x-3614,Excitatory
+-3024x-3559,Inhibitory
+-3014x-3650,Excitatory
+-2998x-3578,Inhibitory
+-2982x-3567,Astrocyte
+-2967x-3653,Excitatory
+-2966x-3675,Excitatory
+-3148x-3719,Inhibitory
+-3144x-3826,Astrocyte
+-3144x-3864,Inhibitory
+-3138x-3778,Inhibitory
+-3139x-3820,Inhibitory
+-3135x-3807,Inhibitory
+-3130x-3732,Inhibitory
+-3124x-3873,Microglia
+-3117x-3768,Inhibitory
+-3113x-3863,Endothelial 3
+-3114x-3743,Inhibitory
+-3107x-3862,Endothelial 2
+-3103x-3775,Excitatory
+-3103x-3725,Inhibitory
+-3097x-3816,Inhibitory
+-3091x-3747,Inhibitory
+-3088x-3791,Inhibitory
+-3089x-3741,Inhibitory
+-3082x-3859,Inhibitory
+-3081x-3733,Inhibitory
+-3078x-3721,Excitatory
+-3073x-3769,Excitatory
+-3066x-3728,Inhibitory
+-3047x-3782,Inhibitory
+-3041x-3723,OD Immature 1
+-3036x-3717,Inhibitory
+-3036x-3753,Inhibitory
+-3036x-3733,Inhibitory
+-3031x-3813,Excitatory
+-3026x-3799,Inhibitory
+-3008x-3781,Inhibitory
+-3003x-3729,Excitatory
+-2997x-3752,Inhibitory
+-2990x-3758,Astrocyte
+-2985x-3728,Inhibitory
+-3124x-3843,Inhibitory
+-3083x-3775,Inhibitory
+-3077x-3788,Inhibitory
+-3071x-3850,Inhibitory
+-3071x-3758,Inhibitory
+-3027x-3719,Endothelial 1
+-2972x-3745,Ependymal
+-3146x-3819,OD Mature 3
+-3126x-3749,Inhibitory
+-3111x-3783,Inhibitory
+-3108x-3737,Inhibitory
+-3108x-3840,Inhibitory
+-3106x-3832,Endothelial 2
+-3088x-3823,Inhibitory
+-3079x-3824,Excitatory
+-3036x-3799,Inhibitory
+-3080x-3763,OD Immature 1
+-3051x-3749,Excitatory
+-3142x-3851,Inhibitory
+-3123x-3826,Inhibitory
+-3094x-3719,Inhibitory
+-3069x-3801,Inhibitory
+-3045x-3775,Excitatory
+-3022x-3736,Inhibitory
+-3009x-3742,Inhibitory
+-2916x-3740,Ependymal
+-2907x-3800,Ependymal
+-2889x-3752,Inhibitory
+-2878x-3772,Inhibitory
+-2876x-3793,Inhibitory
+-2872x-3749,Inhibitory
+-2870x-3813,Inhibitory
+-2869x-3767,Excitatory
+-2864x-3833,Inhibitory
+-2860x-3806,Inhibitory
+-2861x-3797,Inhibitory
+-2854x-3757,Inhibitory
+-2845x-3736,Inhibitory
+-2840x-3796,Inhibitory
+-2833x-3803,Inhibitory
+-2830x-3735,Inhibitory
+-2827x-3783,Inhibitory
+-2819x-3778,Excitatory
+-2818x-3851,Inhibitory
+-2811x-3761,Inhibitory
+-2807x-3853,Excitatory
+-2800x-3775,Inhibitory
+-2798x-3838,Endothelial 1
+-2794x-3762,Inhibitory
+-2788x-3804,Inhibitory
+-2790x-3814,Inhibitory
+-2779x-3839,Excitatory
+-2777x-3822,Astrocyte
+-2774x-3773,Inhibitory
+-2771x-3862,Inhibitory
+-2767x-3795,Inhibitory
+-2763x-3831,Excitatory
+-2764x-3836,Inhibitory
+-2875x-3737,Excitatory
+-2860x-3772,Astrocyte
+-2849x-3842,Inhibitory
+-2842x-3775,Inhibitory
+-2827x-3756,Excitatory
+-2823x-3720,Astrocyte
+-2793x-3846,Excitatory
+-2775x-3880,Endothelial 1
+-2860x-3737,Inhibitory
+-2809x-3822,Inhibitory
+-2779x-3868,Inhibitory
+-2778x-3857,Excitatory
+-2775x-3749,Inhibitory
+-2915x-3771,Ependymal
+-2914x-3780,Ependymal
+-2911x-3789,Ependymal
+-2795x-3865,Excitatory
+-2768x-3889,Inhibitory
+-2896x-3806,Ependymal
+-2891x-3730,Inhibitory
+-2878x-3785,Inhibitory
+-2877x-3802,Excitatory
+-2853x-3810,Inhibitory
+-2831x-3855,Inhibitory
+-2949x-3663,Ependymal
+-2947x-3643,Inhibitory
+-2946x-3652,Ependymal
+-2943x-3627,Ependymal
+-2944x-3595,Inhibitory
+-2941x-3564,Ependymal
+-2938x-3557,Ependymal
+-2940x-3609,Ependymal
+-2937x-3575,Ependymal
+-2927x-3531,Ependymal
+-2926x-3539,Ependymal
+-2924x-3522,Ependymal
+-2922x-3514,Ependymal
+-2910x-3664,Ependymal
+-2912x-3674,Ependymal
+-2909x-3578,Ependymal
+-2908x-3589,Ependymal
+-2908x-3568,Ependymal
+-2907x-3613,Ependymal
+-2902x-3553,Ependymal
+-2904x-3602,Ependymal
+-2899x-3538,Ependymal
+-2899x-3528,Ependymal
+-2897x-3521,Ependymal
+-2889x-3667,Endothelial 3
+-2890x-3556,Astrocyte
+-2885x-3692,Inhibitory
+-2877x-3529,OD Immature 1
+-2867x-3601,Inhibitory
+-2871x-3569,Inhibitory
+-2866x-3557,Endothelial 1
+-2866x-3532,Inhibitory
+-2862x-3677,Inhibitory
+-2858x-3665,Inhibitory
+-2854x-3682,Inhibitory
+-2847x-3649,Inhibitory
+-2838x-3588,Inhibitory
+-2837x-3552,Inhibitory
+-2830x-3642,Inhibitory
+-2831x-3569,Inhibitory
+-2826x-3686,Inhibitory
+-2819x-3549,Inhibitory
+-2816x-3522,Excitatory
+-2817x-3581,Astrocyte
+-2810x-3621,OD Immature 1
+-2814x-3660,Inhibitory
+-2805x-3683,Excitatory
+-2801x-3656,Inhibitory
+-2798x-3527,Astrocyte
+-2799x-3621,Excitatory
+-2795x-3612,Inhibitory
+-2790x-3591,Astrocyte
+-2789x-3637,Inhibitory
+-2788x-3697,Inhibitory
+-2785x-3659,Astrocyte
+-2786x-3556,Inhibitory
+-2782x-3579,Inhibitory
+-2776x-3612,Inhibitory
+-2772x-3678,OD Immature 1
+-2769x-3705,Inhibitory
+-2768x-3638,Microglia
+-2763x-3545,Inhibitory
+-2937x-3593,Ependymal
+-2910x-3652,Ependymal
+-2881x-3578,Inhibitory
+-2871x-3684,Inhibitory
+-2869x-3630,Astrocyte
+-2857x-3541,Inhibitory
+-2855x-3654,Inhibitory
+-2839x-3626,Excitatory
+-2841x-3578,Inhibitory
+-2840x-3516,Inhibitory
+-2835x-3690,Inhibitory
+-2817x-3600,Inhibitory
+-2792x-3546,Inhibitory
+-2761x-3578,Astrocyte
+-2912x-3705,Ependymal
+-2913x-3692,Ependymal
+-2883x-3659,Inhibitory
+-2882x-3552,Inhibitory
+-2879x-3649,Inhibitory
+-2874x-3544,Excitatory
+-2870x-3692,Inhibitory
+-2860x-3575,Inhibitory
+-2839x-3535,Inhibitory
+-2843x-3597,Inhibitory
+-2801x-3696,Inhibitory
+-2784x-3540,Excitatory
+-2909x-3643,Ependymal
+-2907x-3625,Ependymal
+-2908x-3634,Ependymal
+-2854x-3618,Inhibitory
+-2819x-3531,Excitatory
+-2910x-3681,Ependymal
+-2892x-3694,Excitatory
+-2885x-3633,Inhibitory
+-2887x-3577,Inhibitory
+-2885x-3595,Inhibitory
+-2800x-3587,Inhibitory
+-2767x-3665,Excitatory
+-2946x-3331,Astrocyte
+-2937x-3371,Excitatory
+-2935x-3483,Inhibitory
+-2934x-3430,Inhibitory
+-2930x-3474,Excitatory
+-2928x-3316,Inhibitory
+-2927x-3402,Inhibitory
+-2924x-3326,Inhibitory
+-2925x-3453,Inhibitory
+-2923x-3384,Inhibitory
+-2919x-3352,Inhibitory
+-2921x-3475,Inhibitory
+-2917x-3500,Ependymal
+-2916x-3494,Ependymal
+-2914x-3320,Inhibitory
+-2911x-3466,Ependymal
+-2911x-3488,Ependymal
+-2908x-3440,Ependymal
+-2907x-3337,Inhibitory
+-2908x-3390,Inhibitory
+-2906x-3434,Ependymal
+-2900x-3375,Ependymal
+-2899x-3498,Ependymal
+-2892x-3442,Ependymal
+-2889x-3327,Ependymal
+-2884x-3433,Ependymal
+-2887x-3427,Ependymal
+-2883x-3372,Ependymal
+-2885x-3412,Ependymal
+-2884x-3402,Ependymal
+-2878x-3392,Ependymal
+-2875x-3345,Ependymal
+-2875x-3329,Ependymal
+-2870x-3494,Inhibitory
+-2871x-3411,Inhibitory
+-2862x-3382,Inhibitory
+-2860x-3488,Inhibitory
+-2853x-3343,Inhibitory
+-2848x-3324,Excitatory
+-2817x-3385,Inhibitory
+-2817x-3375,Inhibitory
+-2816x-3451,Inhibitory
+-2813x-3358,Endothelial 1
+-2808x-3332,Endothelial 3
+-2801x-3324,Excitatory
+-2801x-3410,Astrocyte
+-2794x-3467,Inhibitory
+-2792x-3342,Excitatory
+-2790x-3480,Astrocyte
+-2788x-3446,Inhibitory
+-2779x-3387,Excitatory
+-2772x-3486,Inhibitory
+-2772x-3414,Inhibitory
+-2762x-3337,Astrocyte
+-2761x-3429,Inhibitory
+-2942x-3416,Inhibitory
+-2897x-3485,Ependymal
+-2888x-3351,Ependymal
+-2887x-3341,Ependymal
+-2875x-3319,Ependymal
+-2869x-3461,Inhibitory
+-2849x-3385,Inhibitory
+-2850x-3401,Inhibitory
+-2843x-3405,Inhibitory
+-2839x-3371,Excitatory
+-2837x-3381,Inhibitory
+-2835x-3397,Inhibitory
+-2794x-3498,Inhibitory
+-2781x-3399,Inhibitory
+-2773x-3378,Excitatory
+-2767x-3441,OD Immature 1
+-2762x-3452,OD Mature 2
+-2886x-3392,Ependymal
+-2841x-3492,Inhibitory
+-2792x-3373,Inhibitory
+-2769x-3336,Inhibitory
+-2942x-3495,Inhibitory
+-2905x-3422,Ependymal
+-2905x-3412,Ependymal
+-2855x-3429,Inhibitory
+-2806x-3469,Inhibitory
+-2767x-3396,Inhibitory
+-2910x-3428,Excitatory
+-2885x-3384,Ependymal
+-2849x-3478,Inhibitory
+-2843x-3469,Astrocyte
+-2831x-3500,Inhibitory
+-2822x-3486,Inhibitory
+-2818x-3394,Inhibitory
+-2770x-3499,Astrocyte
+-2910x-3457,Ependymal
+-2908x-3449,Ependymal
+-2942x-3143,Excitatory
+-2942x-3160,Inhibitory
+-2933x-3247,Inhibitory
+-2933x-3284,Excitatory
+-2932x-3189,Excitatory
+-2926x-3235,Inhibitory
+-2925x-3131,Inhibitory
+-2921x-3162,Inhibitory
+-2919x-3211,Inhibitory
+-2918x-3171,Inhibitory
+-2915x-3288,Endothelial 3
+-2913x-3269,Excitatory
+-2906x-3240,Excitatory
+-2903x-3172,Excitatory
+-2903x-3207,Excitatory
+-2895x-3135,Inhibitory
+-2890x-3296,Ependymal
+-2876x-3230,Ependymal
+-2875x-3176,Ependymal
+-2877x-3224,Ependymal
+-2878x-3199,Ependymal
+-2874x-3219,Ependymal
+-2875x-3155,Ependymal
+-2870x-3209,Ependymal
+-2867x-3254,Ependymal
+-2865x-3133,Ependymal
+-2863x-3247,Ependymal
+-2863x-3236,Ependymal
+-2854x-3206,Ependymal
+-2855x-3199,Ependymal
+-2852x-3176,Ependymal
+-2850x-3196,Ependymal
+-2848x-3261,Inhibitory
+-2847x-3187,Ependymal
+-2842x-3241,Inhibitory
+-2843x-3143,Ependymal
+-2826x-3208,Excitatory
+-2820x-3117,Astrocyte
+-2822x-3149,Inhibitory
+-2816x-3216,Excitatory
+-2808x-3199,Inhibitory
+-2808x-3155,Inhibitory
+-2807x-3141,Inhibitory
+-2804x-3163,Inhibitory
+-2799x-3298,Endothelial 1
+-2797x-3171,Astrocyte
+-2793x-3147,Excitatory
+-2786x-3271,Inhibitory
+-2788x-3181,Inhibitory
+-2783x-3133,Inhibitory
+-2901x-3160,Astrocyte
+-2891x-3278,Ependymal
+-2889x-3267,Ependymal
+-2888x-3253,Ependymal
+-2886x-3286,Ependymal
+-2870x-3268,Ependymal
+-2873x-3255,Ependymal
+-2870x-3182,OD Immature 2
+-2869x-3188,Ependymal
+-2842x-3131,Ependymal
+-2834x-3201,Astrocyte
+-2833x-3233,Inhibitory
+-2830x-3287,Excitatory
+-2815x-3177,Excitatory
+-2789x-3222,Microglia
+-2783x-3298,Excitatory
+-2774x-3162,Inhibitory
+-2918x-3196,Inhibitory
+-2908x-3265,Astrocyte
+-2876x-3300,Ependymal
+-2851x-3159,Ependymal
+-2818x-3226,Inhibitory
+-2883x-3246,Ependymal
+-2881x-3235,Ependymal
+-2922x-3258,Inhibitory
+-2899x-3149,Inhibitory
+-2881x-3297,Ependymal
+-2843x-3231,Inhibitory
+-2827x-3169,Excitatory
+-2826x-3128,Inhibitory
+-2813x-3191,Astrocyte
+-2798x-3257,Inhibitory
+-2788x-3283,Inhibitory
+-2764x-3276,Excitatory
+-2844x-3148,Ependymal
+-2845x-3116,Ependymal
+-2951x-3002,Inhibitory
+-2938x-2933,Inhibitory
+-2934x-2964,Excitatory
+-2936x-3010,Inhibitory
+-2932x-3052,Inhibitory
+-2930x-3092,Endothelial 3
+-2931x-2929,Excitatory
+-2924x-3023,Inhibitory
+-2921x-3040,Excitatory
+-2919x-3084,Excitatory
+-2909x-2952,OD Immature 1
+-2905x-3053,Inhibitory
+-2902x-2967,Excitatory
+-2897x-3093,Excitatory
+-2898x-3074,Inhibitory
+-2895x-2993,Inhibitory
+-2892x-3002,Inhibitory
+-2889x-2925,Astrocyte
+-2889x-3050,Inhibitory
+-2872x-3066,Ependymal
+-2870x-3099,Ependymal
+-2869x-3083,Ependymal
+-2867x-3020,Ependymal
+-2863x-3002,Ependymal
+-2861x-3033,Ependymal
+-2859x-2940,Ependymal
+-2858x-2922,Ependymal
+-2857x-3044,Ependymal
+-2857x-2956,Ependymal
+-2857x-2929,Ependymal
+-2852x-3085,Ependymal
+-2845x-3034,Ependymal
+-2849x-3028,Ependymal
+-2844x-3020,Ependymal
+-2844x-2918,Ependymal
+-2839x-2924,Ependymal
+-2838x-2970,Ependymal
+-2837x-2963,Ependymal
+-2836x-2985,Ependymal
+-2834x-2920,Ependymal
+-2824x-3045,Astrocyte
+-2818x-3079,Astrocyte
+-2809x-2927,Astrocyte
+-2808x-3027,Endothelial 1
+-2802x-3084,Inhibitory
+-2797x-2936,Inhibitory
+-2791x-2971,Endothelial 1
+-2796x-3007,Inhibitory
+-2784x-3093,Inhibitory
+-2778x-2952,Excitatory
+-2767x-3037,Astrocyte
+-2919x-3000,Excitatory
+-2903x-3011,Inhibitory
+-2890x-3069,Inhibitory
+-2852x-3068,Ependymal
+-2791x-3065,Inhibitory
+-2767x-3086,Endothelial 3
+-2932x-3056,Inhibitory
+-2925x-2959,Excitatory
+-2846x-2925,Ependymal
+-2839x-2979,Ependymal
+-2821x-3089,Excitatory
+-2811x-2921,Astrocyte
+-2800x-2962,Astrocyte
+-2795x-3038,OD Immature 1
+-2789x-3037,Inhibitory
+-2858x-2978,Ependymal
+-2837x-2955,Ependymal
+-2834x-2948,Ependymal
+-2915x-2986,Inhibitory
+-2906x-3024,Inhibitory
+-2900x-2988,Inhibitory
+-2870x-3090,Ependymal
+-2851x-2957,Ependymal
+-2793x-3101,Inhibitory
+-2780x-2969,Inhibitory
+-2845x-2994,Ependymal
+-2843x-3001,Ependymal
+-2946x-2831,Excitatory
+-2937x-2765,Excitatory
+-2940x-2846,Inhibitory
+-2940x-2785,Inhibitory
+-2936x-2771,Excitatory
+-2935x-2881,Excitatory
+-2932x-2864,Inhibitory
+-2936x-2718,Excitatory
+-2922x-2814,Excitatory
+-2932x-2787,Inhibitory
+-2917x-2875,Inhibitory
+-2919x-2780,Inhibitory
+-2915x-2863,Excitatory
+-2907x-2833,Inhibitory
+-2895x-2824,Astrocyte
+-2900x-2890,Astrocyte
+-2896x-2878,Excitatory
+-2895x-2885,Endothelial 3
+-2883x-2777,Astrocyte
+-2869x-2727,Astrocyte
+-2859x-2845,Ependymal
+-2862x-2851,Ependymal
+-2857x-2833,Ependymal
+-2857x-2891,Ependymal
+-2858x-2815,Ependymal
+-2849x-2764,Ependymal
+-2846x-2726,Ependymal
+-2849x-2770,Ependymal
+-2846x-2744,Ependymal
+-2846x-2755,Ependymal
+-2840x-2850,Ependymal
+-2842x-2892,Ependymal
+-2842x-2861,Ependymal
+-2840x-2883,Ependymal
+-2839x-2787,Ependymal
+-2834x-2807,Ependymal
+-2836x-2837,Ependymal
+-2836x-2823,Ependymal
+-2837x-2810,Ependymal
+-2833x-2777,Ependymal
+-2829x-2726,Ependymal
+-2828x-2776,Ependymal
+-2824x-2762,Ependymal
+-2820x-2727,Ependymal
+-2819x-2753,Ependymal
+-2816x-2834,Inhibitory
+-2801x-2751,Astrocyte
+-2797x-2804,Inhibitory
+-2788x-2825,Excitatory
+-2790x-2883,Excitatory
+-2790x-2754,Endothelial 1
+-2783x-2794,Endothelial 3
+-2780x-2867,Microglia
+-2777x-2790,Endothelial 1
+-2774x-2784,Inhibitory
+-2773x-2824,Inhibitory
+-2771x-2831,Inhibitory
+-2948x-2849,Astrocyte
+-2942x-2745,Excitatory
+-2894x-2738,Endothelial 3
+-2892x-2846,Astrocyte
+-2824x-2740,Ependymal
+-2789x-2724,Excitatory
+-2942x-2810,Excitatory
+-2927x-2832,Excitatory
+-2917x-2798,OD Immature 1
+-2894x-2863,OD Immature 1
+-2787x-2733,Inhibitory
+-2777x-2765,Inhibitory
+-2775x-2850,Astrocyte
+-2763x-2821,Excitatory
+-2873x-2749,Inhibitory
+-2765x-2775,Inhibitory
+-2919x-2843,Inhibitory
+-2918x-2730,Excitatory
+-2880x-2841,Excitatory
+-2859x-2803,Ependymal
+-2841x-2842,Ependymal
+-2825x-2835,Astrocyte
+-2947x-2589,Inhibitory
+-2946x-2652,Inhibitory
+-2934x-2541,Inhibitory
+-2931x-2675,Astrocyte
+-2931x-2613,Inhibitory
+-2911x-2568,Excitatory
+-2913x-2580,Excitatory
+-2911x-2683,Endothelial 3
+-2910x-2657,Inhibitory
+-2903x-2699,Inhibitory
+-2901x-2594,Endothelial 3
+-2898x-2605,Endothelial 1
+-2898x-2533,Excitatory
+-2893x-2640,Excitatory
+-2892x-2562,Inhibitory
+-2881x-2586,OD Immature 1
+-2877x-2621,Endothelial 1
+-2872x-2552,Astrocyte
+-2873x-2585,Astrocyte
+-2870x-2541,Ependymal
+-2870x-2653,Astrocyte
+-2869x-2672,Inhibitory
+-2869x-2525,Ependymal
+-2867x-2535,Ependymal
+-2859x-2548,Ependymal
+-2858x-2565,Ependymal
+-2856x-2579,Ependymal
+-2855x-2619,Ependymal
+-2854x-2588,Ependymal
+-2855x-2635,Ependymal
+-2854x-2604,Ependymal
+-2851x-2697,Ependymal
+-2850x-2658,Ependymal
+-2847x-2635,Ependymal
+-2849x-2628,Ependymal
+-2848x-2590,Ependymal
+-2846x-2585,Ependymal
+-2846x-2684,Ependymal
+-2843x-2667,Ependymal
+-2840x-2539,Ependymal
+-2839x-2531,Ependymal
+-2837x-2630,Ependymal
+-2834x-2609,Ependymal
+-2832x-2594,Ependymal
+-2831x-2617,Ependymal
+-2832x-2529,Ependymal
+-2832x-2640,Ependymal
+-2826x-2693,Ependymal
+-2829x-2582,Ependymal
+-2825x-2632,Ependymal
+-2824x-2589,Ependymal
+-2821x-2624,Ependymal
+-2820x-2562,Ependymal
+-2819x-2573,Ependymal
+-2816x-2663,Ependymal
+-2798x-2546,Excitatory
+-2797x-2523,Astrocyte
+-2793x-2643,Astrocyte
+-2792x-2579,Excitatory
+-2789x-2653,Inhibitory
+-2784x-2625,Endothelial 3
+-2777x-2576,Inhibitory
+-2777x-2603,Excitatory
+-2775x-2541,Excitatory
+-2767x-2639,OD Immature 1
+-2762x-2531,Excitatory
+-2930x-2663,Excitatory
+-2911x-2587,Excitatory
+-2904x-2637,Astrocyte
+-2851x-2688,Ependymal
+-2847x-2704,Ependymal
+-2825x-2609,Ependymal
+-2822x-2598,Ependymal
+-2936x-2638,Astrocyte
+-2824x-2681,Ependymal
+-2824x-2673,Ependymal
+-2788x-2555,Excitatory
+-2951x-2371,Endothelial 1
+-2942x-2350,Astrocyte
+-2941x-2489,Excitatory
+-2933x-2418,Astrocyte
+-2934x-2440,Endothelial 3
+-2933x-2368,Excitatory
+-2932x-2497,Excitatory
+-2928x-2478,Microglia
+-2927x-2426,Astrocyte
+-2921x-2462,Excitatory
+-2910x-2497,Excitatory
+-2912x-2333,Excitatory
+-2912x-2378,Excitatory
+-2910x-2388,Endothelial 1
+-2906x-2345,Excitatory
+-2905x-2480,Excitatory
+-2902x-2421,Microglia
+-2899x-2441,Astrocyte
+-2893x-2374,Astrocyte
+-2891x-2345,Astrocyte
+-2891x-2475,Astrocyte
+-2882x-2330,Endothelial 1
+-2880x-2350,Excitatory
+-2872x-2490,Ependymal
+-2871x-2393,Astrocyte
+-2863x-2341,Excitatory
+-2867x-2501,Ependymal
+-2867x-2458,Ependymal
+-2867x-2477,Ependymal
+-2863x-2422,Astrocyte
+-2863x-2365,Astrocyte
+-2860x-2447,Ependymal
+-2862x-2465,Ependymal
+-2858x-2438,Astrocyte
+-2853x-2490,Ependymal
+-2848x-2472,Ependymal
+-2848x-2439,Ependymal
+-2846x-2494,Ependymal
+-2845x-2453,Ependymal
+-2821x-2345,Excitatory
+-2820x-2373,Endothelial 1
+-2808x-2473,Excitatory
+-2805x-2390,Excitatory
+-2802x-2352,Excitatory
+-2796x-2469,Excitatory
+-2797x-2443,Inhibitory
+-2790x-2389,Excitatory
+-2773x-2463,Astrocyte
+-2767x-2392,Excitatory
+-2767x-2408,OD Immature 1
+-2872x-2324,Astrocyte
+-2836x-2388,Endothelial 1
+-2802x-2415,Excitatory
+-2787x-2434,Endothelial 3
+-2778x-2423,Astrocyte
+-2933x-2356,Excitatory
+-2913x-2355,Excitatory
+-2888x-2318,Astrocyte
+-2853x-2391,Astrocyte
+-2849x-2397,Astrocyte
+-2845x-2362,Astrocyte
+-2781x-2389,Excitatory
+-2889x-2394,Excitatory
+-2834x-2348,Astrocyte
+-2802x-2341,Excitatory
+-2773x-2322,Excitatory
+-2926x-2411,Inhibitory
+-2797x-2453,Astrocyte
+-2773x-2500,Inhibitory
+-2946x-2292,Excitatory
+-2944x-2228,Excitatory
+-2935x-2259,Microglia
+-2933x-2243,Astrocyte
+-2924x-2161,Excitatory
+-2919x-2227,Excitatory
+-2913x-2240,Excitatory
+-2913x-2212,Endothelial 1
+-2913x-2267,Astrocyte
+-2913x-2259,Excitatory
+-2893x-2252,Astrocyte
+-2892x-2137,Microglia
+-2887x-2225,Excitatory
+-2880x-2286,Astrocyte
+-2881x-2145,Excitatory
+-2873x-2302,Inhibitory
+-2874x-2238,Excitatory
+-2872x-2191,Endothelial 2
+-2874x-2169,Astrocyte
+-2867x-2233,Excitatory
+-2860x-2189,Endothelial 2
+-2851x-2219,Excitatory
+-2825x-2126,Astrocyte
+-2823x-2240,Endothelial 1
+-2822x-2258,Excitatory
+-2815x-2236,Astrocyte
+-2799x-2268,Endothelial 1
+-2794x-2236,Endothelial 1
+-2791x-2187,Excitatory
+-2784x-2207,Excitatory
+-2785x-2231,Excitatory
+-2775x-2258,Excitatory
+-2767x-2283,Excitatory
+-2908x-2190,Excitatory
+-2908x-2149,Endothelial 1
+-2857x-2253,Excitatory
+-2854x-2130,Excitatory
+-2850x-2250,Microglia
+-2838x-2187,Endothelial 3
+-2807x-2260,Excitatory
+-2896x-2288,Endothelial 1
+-2894x-2295,Endothelial 1
+-2862x-2177,Astrocyte
+-2825x-2165,Excitatory
+-2770x-2138,Endothelial 1
+-2901x-2281,Inhibitory
+-2835x-2227,Inhibitory
+-2917x-2180,Excitatory
+-2902x-2232,Excitatory
+-2873x-2135,Excitatory
+-2839x-2233,Inhibitory
+-2824x-2156,Astrocyte
+-2772x-2216,Excitatory
+-2768x-2124,Inhibitory
+-2748x-2249,Excitatory
+-2748x-2161,Excitatory
+-2743x-2254,Excitatory
+-2739x-2179,Astrocyte
+-2732x-2152,Excitatory
+-2736x-2204,Astrocyte
+-2732x-2299,Excitatory
+-2721x-2190,Astrocyte
+-2717x-2222,Excitatory
+-2715x-2283,Endothelial 1
+-2711x-2192,Endothelial 2
+-2701x-2253,Endothelial 1
+-2700x-2239,Endothelial 3
+-2696x-2286,Endothelial 3
+-2699x-2127,Excitatory
+-2696x-2186,Pericytes
+-2692x-2193,Pericytes
+-2682x-2268,Excitatory
+-2680x-2280,Excitatory
+-2680x-2219,OD Immature 1
+-2676x-2132,Endothelial 3
+-2674x-2188,Pericytes
+-2671x-2155,Excitatory
+-2671x-2134,Pericytes
+-2662x-2180,Excitatory
+-2652x-2279,Excitatory
+-2649x-2259,Excitatory
+-2623x-2165,Excitatory
+-2621x-2155,Astrocyte
+-2617x-2204,Astrocyte
+-2615x-2243,Excitatory
+-2614x-2281,Excitatory
+-2615x-2214,Astrocyte
+-2608x-2206,Pericytes
+-2603x-2172,Excitatory
+-2600x-2161,Excitatory
+-2595x-2287,Endothelial 3
+-2590x-2269,Excitatory
+-2582x-2186,Astrocyte
+-2577x-2167,Astrocyte
+-2563x-2195,OD Immature 1
+-2743x-2290,Astrocyte
+-2728x-2291,Excitatory
+-2722x-2145,OD Immature 1
+-2669x-2241,Excitatory
+-2642x-2179,Astrocyte
+-2637x-2201,Excitatory
+-2601x-2249,Astrocyte
+-2597x-2269,Excitatory
+-2574x-2301,Astrocyte
+-2739x-2270,Excitatory
+-2736x-2240,Astrocyte
+-2736x-2213,Excitatory
+-2726x-2189,Pericytes
+-2693x-2161,Excitatory
+-2687x-2250,Microglia
+-2623x-2265,Excitatory
+-2584x-2250,Excitatory
+-2668x-2290,Excitatory
+-2656x-2256,Astrocyte
+-2628x-2122,OD Immature 1
+-2594x-2189,Excitatory
+-2699x-2178,Excitatory
+-2619x-2224,Excitatory
+-2616x-2259,Excitatory
+-2607x-2157,Excitatory
+-2585x-2139,Microglia
+-2561x-2297,Astrocyte
+-2747x-2353,Excitatory
+-2747x-2442,Excitatory
+-2741x-2406,Excitatory
+-2731x-2454,Endothelial 1
+-2720x-2389,Astrocyte
+-2723x-2408,Excitatory
+-2718x-2427,Astrocyte
+-2707x-2341,Excitatory
+-2701x-2384,Astrocyte
+-2699x-2373,Excitatory
+-2695x-2482,Excitatory
+-2692x-2345,Excitatory
+-2682x-2422,Astrocyte
+-2674x-2327,Excitatory
+-2673x-2468,OD Mature 2
+-2672x-2348,OD Immature 1
+-2670x-2482,Excitatory
+-2650x-2399,Excitatory
+-2649x-2437,Excitatory
+-2649x-2329,Microglia
+-2640x-2380,Excitatory
+-2633x-2475,Excitatory
+-2628x-2352,Astrocyte
+-2623x-2456,Astrocyte
+-2620x-2467,Excitatory
+-2619x-2422,Excitatory
+-2618x-2480,OD Mature 2
+-2615x-2393,Excitatory
+-2611x-2368,Excitatory
+-2606x-2412,Endothelial 1
+-2604x-2471,Excitatory
+-2597x-2489,Excitatory
+-2594x-2407,Excitatory
+-2586x-2338,Excitatory
+-2586x-2384,Excitatory
+-2567x-2415,Excitatory
+-2566x-2387,Excitatory
+-2564x-2395,OD Immature 1
+-2567x-2329,Excitatory
+-2562x-2427,Excitatory
+-2716x-2453,Excitatory
+-2643x-2466,Excitatory
+-2611x-2376,Excitatory
+-2725x-2496,Excitatory
+-2720x-2476,Excitatory
+-2712x-2467,Endothelial 3
+-2704x-2395,Astrocyte
+-2682x-2477,Excitatory
+-2677x-2502,Excitatory
+-2670x-2397,Excitatory
+-2648x-2414,Excitatory
+-2637x-2319,Endothelial 1
+-2612x-2435,Excitatory
+-2587x-2322,Microglia
+-2666x-2443,Excitatory
+-2651x-2462,Excitatory
+-2631x-2392,OD Immature 1
+-2634x-2428,Excitatory
+-2592x-2456,Excitatory
+-2740x-2430,Excitatory
+-2722x-2443,Excitatory
+-2676x-2368,Excitatory
+-2644x-2449,Excitatory
+-2622x-2322,Excitatory
+-2590x-2376,Excitatory
+-2588x-2391,Excitatory
+-2583x-2450,Inhibitory
+-2748x-2537,Excitatory
+-2747x-2656,Astrocyte
+-2749x-2629,Excitatory
+-2738x-2694,Inhibitory
+-2735x-2531,Astrocyte
+-2730x-2542,Astrocyte
+-2728x-2596,Excitatory
+-2725x-2698,Inhibitory
+-2728x-2523,Excitatory
+-2726x-2623,Endothelial 1
+-2722x-2614,Inhibitory
+-2719x-2650,Excitatory
+-2713x-2674,Excitatory
+-2708x-2583,Excitatory
+-2703x-2599,Excitatory
+-2701x-2677,Excitatory
+-2704x-2630,Inhibitory
+-2697x-2689,Inhibitory
+-2697x-2667,Astrocyte
+-2697x-2637,Inhibitory
+-2697x-2548,Excitatory
+-2691x-2584,Excitatory
+-2684x-2530,Inhibitory
+-2683x-2555,Inhibitory
+-2683x-2656,Inhibitory
+-2682x-2591,Excitatory
+-2669x-2549,Inhibitory
+-2669x-2590,Excitatory
+-2655x-2599,Excitatory
+-2649x-2647,Inhibitory
+-2647x-2678,Excitatory
+-2643x-2592,Inhibitory
+-2642x-2690,Excitatory
+-2640x-2570,Excitatory
+-2631x-2529,Astrocyte
+-2626x-2603,Astrocyte
+-2628x-2667,OD Immature 1
+-2618x-2671,Excitatory
+-2617x-2689,Inhibitory
+-2615x-2662,Astrocyte
+-2610x-2612,Inhibitory
+-2608x-2584,Astrocyte
+-2607x-2547,Astrocyte
+-2605x-2533,Inhibitory
+-2592x-2610,Astrocyte
+-2591x-2674,Excitatory
+-2588x-2699,Excitatory
+-2584x-2538,Excitatory
+-2580x-2670,Astrocyte
+-2572x-2546,Excitatory
+-2576x-2523,Excitatory
+-2570x-2657,Astrocyte
+-2702x-2573,Excitatory
+-2672x-2650,Astrocyte
+-2588x-2690,OD Immature 1
+-2569x-2637,Excitatory
+-2737x-2597,Excitatory
+-2718x-2603,Excitatory
+-2661x-2679,Inhibitory
+-2657x-2558,Inhibitory
+-2649x-2630,Astrocyte
+-2640x-2581,Inhibitory
+-2582x-2584,Inhibitory
+-2573x-2692,Inhibitory
+-2743x-2700,Inhibitory
+-2612x-2650,Inhibitory
+-2579x-2610,Inhibitory
+-2746x-2896,Excitatory
+-2742x-2840,Excitatory
+-2742x-2738,OD Immature 1
+-2729x-2812,Excitatory
+-2723x-2856,Excitatory
+-2720x-2831,Inhibitory
+-2717x-2743,Excitatory
+-2714x-2855,Inhibitory
+-2714x-2891,Astrocyte
+-2710x-2836,Endothelial 2
+-2703x-2789,Excitatory
+-2706x-2816,Inhibitory
+-2705x-2871,OD Immature 1
+-2698x-2733,Inhibitory
+-2688x-2860,Inhibitory
+-2687x-2777,Excitatory
+-2682x-2767,Astrocyte
+-2679x-2715,Endothelial 3
+-2675x-2724,Excitatory
+-2672x-2806,Inhibitory
+-2673x-2883,Inhibitory
+-2658x-2866,Excitatory
+-2649x-2748,Astrocyte
+-2643x-2861,Endothelial 1
+-2645x-2882,Excitatory
+-2635x-2740,Astrocyte
+-2633x-2753,Excitatory
+-2629x-2791,Inhibitory
+-2626x-2817,Excitatory
+-2617x-2864,Inhibitory
+-2614x-2802,Excitatory
+-2601x-2776,Excitatory
+-2593x-2796,Inhibitory
+-2584x-2900,Inhibitory
+-2580x-2753,Excitatory
+-2576x-2871,Inhibitory
+-2572x-2847,Inhibitory
+-2573x-2856,OD Immature 1
+-2565x-2882,Inhibitory
+-2566x-2727,Astrocyte
+-2736x-2887,Excitatory
+-2717x-2758,Astrocyte
+-2648x-2801,Inhibitory
+-2636x-2866,Astrocyte
+-2630x-2894,Endothelial 1
+-2602x-2820,Endothelial 1
+-2588x-2730,Excitatory
+-2655x-2879,Excitatory
+-2617x-2883,Excitatory
+-2608x-2780,Astrocyte
+-2607x-2901,Astrocyte
+-2736x-2759,Excitatory
+-2602x-2879,Inhibitory
+-2593x-2859,Inhibitory
+-2743x-2794,Inhibitory
+-2742x-2758,Inhibitory
+-2613x-2794,Excitatory
+-2608x-2826,Inhibitory
+-2587x-2892,Inhibitory
+-2745x-2932,Endothelial 1
+-2740x-3017,Excitatory
+-2737x-2934,Excitatory
+-2739x-3038,OD Immature 1
+-2726x-3002,Astrocyte
+-2722x-2955,Excitatory
+-2723x-2926,Excitatory
+-2720x-3053,Astrocyte
+-2709x-2925,Excitatory
+-2704x-2933,Excitatory
+-2703x-2985,Excitatory
+-2701x-3068,Inhibitory
+-2697x-3011,Inhibitory
+-2697x-2975,Excitatory
+-2693x-3081,Excitatory
+-2693x-2981,Endothelial 1
+-2688x-3032,Excitatory
+-2680x-2917,Excitatory
+-2667x-3100,Excitatory
+-2664x-2917,Inhibitory
+-2661x-2994,Inhibitory
+-2663x-3049,Excitatory
+-2656x-3070,Inhibitory
+-2653x-2978,Excitatory
+-2647x-3055,Astrocyte
+-2647x-3009,Inhibitory
+-2643x-3090,Excitatory
+-2638x-2983,Endothelial 3
+-2636x-2957,Inhibitory
+-2629x-3071,Excitatory
+-2622x-2917,Microglia
+-2620x-3088,Excitatory
+-2598x-3017,Microglia
+-2598x-2962,Endothelial 1
+-2592x-3004,Inhibitory
+-2591x-3101,Inhibitory
+-2592x-2987,Inhibitory
+-2580x-3020,Inhibitory
+-2578x-3065,Inhibitory
+-2576x-2950,Inhibitory
+-2682x-2982,Inhibitory
+-2625x-3006,Inhibitory
+-2575x-2965,OD Immature 1
+-2734x-2987,Inhibitory
+-2724x-2941,Excitatory
+-2696x-3034,Astrocyte
+-2664x-3029,Excitatory
+-2628x-2941,Inhibitory
+-2602x-3094,Astrocyte
+-2592x-2945,Astrocyte
+-2582x-3049,Inhibitory
+-2702x-3095,Excitatory
+-2572x-3055,Inhibitory
+-2649x-3016,Microglia
+-2619x-3073,Inhibitory
+-2614x-2922,OD Mature 2
+-2561x-2982,Microglia
+-2581x-3084,OD Immature 1
+-2748x-3164,Inhibitory
+-2745x-3250,Inhibitory
+-2740x-3221,Excitatory
+-2730x-3153,Excitatory
+-2730x-3195,Astrocyte
+-2727x-3250,Inhibitory
+-2725x-3271,Endothelial 1
+-2724x-3229,Inhibitory
+-2714x-3133,Astrocyte
+-2702x-3233,Astrocyte
+-2706x-3124,Astrocyte
+-2703x-3250,Endothelial 1
+-2703x-3287,Excitatory
+-2698x-3150,Inhibitory
+-2695x-3212,Inhibitory
+-2690x-3290,Excitatory
+-2688x-3167,Endothelial 1
+-2672x-3280,Excitatory
+-2671x-3291,Excitatory
+-2665x-3133,Astrocyte
+-2658x-3190,Inhibitory
+-2655x-3171,Astrocyte
+-2649x-3147,Inhibitory
+-2648x-3202,Endothelial 1
+-2634x-3300,Astrocyte
+-2634x-3170,Inhibitory
+-2625x-3206,Inhibitory
+-2623x-3254,Excitatory
+-2625x-3222,Astrocyte
+-2615x-3237,Excitatory
+-2612x-3139,Astrocyte
+-2608x-3265,Inhibitory
+-2609x-3124,Inhibitory
+-2600x-3128,OD Mature 2
+-2599x-3156,Inhibitory
+-2594x-3247,OD Immature 1
+-2592x-3278,Inhibitory
+-2590x-3185,Inhibitory
+-2588x-3217,Inhibitory
+-2584x-3171,Inhibitory
+-2583x-3263,Inhibitory
+-2575x-3206,Endothelial 1
+-2574x-3261,Inhibitory
+-2735x-3292,Inhibitory
+-2709x-3194,Excitatory
+-2704x-3262,Astrocyte
+-2698x-3279,Inhibitory
+-2678x-3259,Inhibitory
+-2598x-3186,Inhibitory
+-2591x-3171,Inhibitory
+-2577x-3184,Inhibitory
+-2567x-3244,Inhibitory
+-2741x-3149,Inhibitory
+-2672x-3204,Endothelial 1
+-2662x-3244,Excitatory
+-2659x-3202,Excitatory
+-2625x-3175,Inhibitory
+-2619x-3181,Astrocyte
+-2607x-3295,Inhibitory
+-2608x-3137,Astrocyte
+-2589x-3135,Inhibitory
+-2574x-3288,Inhibitory
+-2729x-3164,Inhibitory
+-2681x-3276,Inhibitory
+-2611x-3215,Inhibitory
+-2721x-3260,Inhibitory
+-2652x-3129,Inhibitory
+-2601x-3225,Excitatory
+-2592x-3263,Inhibitory
+-2587x-3300,Microglia
+-2742x-3449,Inhibitory
+-2738x-3425,Excitatory
+-2736x-3370,Inhibitory
+-2721x-3404,Inhibitory
+-2720x-3350,Inhibitory
+-2721x-3451,Astrocyte
+-2722x-3355,Inhibitory
+-2717x-3461,Inhibitory
+-2714x-3495,Astrocyte
+-2709x-3426,Inhibitory
+-2698x-3340,Astrocyte
+-2696x-3351,Inhibitory
+-2696x-3403,Inhibitory
+-2685x-3369,Excitatory
+-2683x-3427,Astrocyte
+-2680x-3445,Astrocyte
+-2678x-3471,OD Immature 1
+-2676x-3359,Inhibitory
+-2674x-3497,Astrocyte
+-2670x-3322,Endothelial 3
+-2667x-3333,Inhibitory
+-2662x-3314,Excitatory
+-2656x-3452,Inhibitory
+-2651x-3399,Inhibitory
+-2647x-3337,Microglia
+-2643x-3492,Inhibitory
+-2642x-3319,Inhibitory
+-2641x-3398,Inhibitory
+-2637x-3440,Excitatory
+-2636x-3488,Inhibitory
+-2634x-3476,Inhibitory
+-2628x-3385,Inhibitory
+-2628x-3397,Astrocyte
+-2624x-3429,Excitatory
+-2620x-3329,Inhibitory
+-2621x-3404,Inhibitory
+-2614x-3489,Inhibitory
+-2613x-3458,OD Immature 1
+-2606x-3353,Inhibitory
+-2595x-3453,Inhibitory
+-2593x-3438,Excitatory
+-2587x-3394,Endothelial 1
+-2586x-3374,Inhibitory
+-2565x-3433,Inhibitory
+-2561x-3481,Endothelial 1
+-2743x-3353,Inhibitory
+-2743x-3335,Excitatory
+-2737x-3396,Endothelial 1
+-2726x-3459,Inhibitory
+-2709x-3387,Excitatory
+-2701x-3475,Inhibitory
+-2697x-3503,Excitatory
+-2697x-3333,Excitatory
+-2680x-3435,Inhibitory
+-2664x-3449,Excitatory
+-2641x-3350,Excitatory
+-2622x-3318,Inhibitory
+-2621x-3368,Inhibitory
+-2605x-3375,Astrocyte
+-2593x-3316,Inhibitory
+-2595x-3340,Inhibitory
+-2570x-3458,Inhibitory
+-2565x-3465,Excitatory
+-2719x-3474,Excitatory
+-2664x-3400,Inhibitory
+-2645x-3426,Inhibitory
+-2603x-3436,Inhibitory
+-2666x-3490,Inhibitory
+-2644x-3414,Inhibitory
+-2640x-3458,Astrocyte
+-2748x-3617,Inhibitory
+-2745x-3641,Inhibitory
+-2742x-3563,Inhibitory
+-2736x-3583,Endothelial 1
+-2726x-3695,Excitatory
+-2728x-3611,Excitatory
+-2725x-3658,Inhibitory
+-2719x-3545,Inhibitory
+-2716x-3567,Inhibitory
+-2713x-3569,Microglia
+-2714x-3641,Inhibitory
+-2711x-3623,Inhibitory
+-2711x-3529,Inhibitory
+-2709x-3555,Inhibitory
+-2704x-3656,Inhibitory
+-2705x-3594,Excitatory
+-2705x-3694,Inhibitory
+-2698x-3522,Inhibitory
+-2697x-3605,Excitatory
+-2699x-3545,Inhibitory
+-2690x-3645,Inhibitory
+-2687x-3665,Inhibitory
+-2685x-3637,Excitatory
+-2686x-3599,Inhibitory
+-2685x-3579,OD Immature 1
+-2678x-3573,Inhibitory
+-2675x-3625,Excitatory
+-2667x-3688,Excitatory
+-2665x-3658,Inhibitory
+-2663x-3648,Excitatory
+-2659x-3563,Excitatory
+-2649x-3601,Excitatory
+-2646x-3619,Inhibitory
+-2650x-3701,Inhibitory
+-2643x-3670,Inhibitory
+-2640x-3703,Excitatory
+-2640x-3542,Excitatory
+-2633x-3676,OD Immature 1
+-2626x-3646,Endothelial 3
+-2611x-3610,Inhibitory
+-2605x-3699,Endothelial 2
+-2605x-3529,Inhibitory
+-2602x-3589,Microglia
+-2599x-3648,Excitatory
+-2597x-3632,Excitatory
+-2592x-3561,Excitatory
+-2584x-3595,Inhibitory
+-2587x-3686,Excitatory
+-2584x-3608,Inhibitory
+-2584x-3568,Inhibitory
+-2580x-3589,Inhibitory
+-2580x-3677,Astrocyte
+-2579x-3538,Inhibitory
+-2574x-3650,Excitatory
+-2564x-3591,Excitatory
+-2746x-3632,Astrocyte
+-2743x-3545,Inhibitory
+-2734x-3666,Excitatory
+-2727x-3699,OD Immature 1
+-2691x-3529,Excitatory
+-2659x-3585,Inhibitory
+-2662x-3600,Inhibitory
+-2635x-3593,Excitatory
+-2625x-3659,Excitatory
+-2605x-3630,Inhibitory
+-2742x-3692,Astrocyte
+-2728x-3640,Endothelial 1
+-2681x-3594,Inhibitory
+-2658x-3522,Excitatory
+-2587x-3668,Inhibitory
+-2669x-3612,Inhibitory
+-2580x-3576,Inhibitory
+-2573x-3638,Inhibitory
+-2723x-3577,Inhibitory
+-2687x-3688,Inhibitory
+-2654x-3639,Inhibitory
+-2621x-3572,Inhibitory
+-2605x-3658,Endothelial 1
+-2598x-3584,Excitatory
+-2593x-3621,Inhibitory
+-2745x-3781,Inhibitory
+-2746x-3827,Excitatory
+-2746x-3888,Inhibitory
+-2745x-3728,Inhibitory
+-2741x-3860,Excitatory
+-2737x-3768,Inhibitory
+-2733x-3883,Inhibitory
+-2728x-3821,Inhibitory
+-2727x-3718,Inhibitory
+-2718x-3788,Inhibitory
+-2713x-3760,Inhibitory
+-2709x-3875,Endothelial 3
+-2710x-3893,Inhibitory
+-2704x-3735,Microglia
+-2701x-3795,Inhibitory
+-2695x-3776,Inhibitory
+-2691x-3841,Inhibitory
+-2685x-3797,OD Immature 1
+-2675x-3808,Inhibitory
+-2673x-3738,Inhibitory
+-2670x-3766,OD Immature 1
+-2671x-3847,Excitatory
+-2670x-3726,Inhibitory
+-2666x-3790,Excitatory
+-2664x-3815,Microglia
+-2660x-3868,Endothelial 3
+-2660x-3901,Astrocyte
+-2654x-3732,Astrocyte
+-2653x-3855,Endothelial 2
+-2644x-3755,Inhibitory
+-2644x-3726,Excitatory
+-2640x-3857,Inhibitory
+-2638x-3823,Endothelial 1
+-2632x-3834,Endothelial 1
+-2629x-3777,Endothelial 1
+-2618x-3728,OD Immature 2
+-2620x-3812,Inhibitory
+-2617x-3790,Astrocyte
+-2619x-3881,Excitatory
+-2619x-3753,Inhibitory
+-2606x-3745,Inhibitory
+-2601x-3831,Astrocyte
+-2596x-3774,Inhibitory
+-2588x-3731,Astrocyte
+-2576x-3891,Inhibitory
+-2571x-3794,Inhibitory
+-2575x-3728,Microglia
+-2564x-3778,OD Mature 2
+-2745x-3849,Inhibitory
+-2741x-3896,OD Immature 1
+-2689x-3728,Inhibitory
+-2673x-3782,Endothelial 1
+-2660x-3750,Inhibitory
+-2649x-3835,Endothelial 1
+-2588x-3870,Astrocyte
+-2738x-3737,Inhibitory
+-2675x-3816,Astrocyte
+-2642x-3740,Inhibitory
+-2602x-3900,OD Mature 2
+-2709x-3830,Endothelial 1
+-2636x-3768,Inhibitory
+-2752x-3730,Excitatory
+-2711x-3737,Excitatory
+-2702x-3816,Excitatory
+-2609x-3871,Inhibitory
+-2587x-3802,Inhibitory
+-2570x-3827,Inhibitory
+-2724x-3749,Inhibitory
+-2634x-3777,Endothelial 1
+-2640x-3781,Inhibitory
+-2549x-3789,Endothelial 3
+-2546x-3744,Inhibitory
+-2546x-3906,OD Mature 4
+-2545x-3855,Astrocyte
+-2543x-3814,Excitatory
+-2533x-3759,Inhibitory
+-2527x-3721,Inhibitory
+-2529x-3837,Endothelial 1
+-2523x-3893,Excitatory
+-2519x-3837,Endothelial 2
+-2517x-3724,Inhibitory
+-2512x-3746,Inhibitory
+-2509x-3803,Excitatory
+-2506x-3896,Inhibitory
+-2501x-3845,Excitatory
+-2488x-3799,Inhibitory
+-2484x-3755,Inhibitory
+-2478x-3768,Excitatory
+-2474x-3854,Inhibitory
+-2472x-3875,Excitatory
+-2468x-3715,Astrocyte
+-2469x-3846,Inhibitory
+-2464x-3900,Inhibitory
+-2460x-3801,Inhibitory
+-2454x-3711,Inhibitory
+-2449x-3856,Astrocyte
+-2450x-3902,Endothelial 1
+-2447x-3768,Excitatory
+-2445x-3795,Inhibitory
+-2443x-3799,Excitatory
+-2441x-3777,Excitatory
+-2442x-3891,Inhibitory
+-2434x-3731,Inhibitory
+-2429x-3821,OD Immature 1
+-2427x-3814,Excitatory
+-2427x-3866,Excitatory
+-2423x-3754,Inhibitory
+-2405x-3876,Excitatory
+-2405x-3825,Endothelial 2
+-2399x-3742,Inhibitory
+-2399x-3851,Inhibitory
+-2393x-3820,Endothelial 3
+-2389x-3731,Inhibitory
+-2380x-3793,Inhibitory
+-2382x-3855,Inhibitory
+-2368x-3715,Astrocyte
+-2365x-3897,Inhibitory
+-2539x-3863,Inhibitory
+-2535x-3728,Inhibitory
+-2530x-3793,Inhibitory
+-2522x-3740,Excitatory
+-2516x-3740,Inhibitory
+-2499x-3721,Inhibitory
+-2506x-3861,Inhibitory
+-2492x-3743,Excitatory
+-2470x-3886,Astrocyte
+-2468x-3721,Inhibitory
+-2453x-3878,OD Immature 1
+-2413x-3757,Inhibitory
+-2364x-3812,Inhibitory
+-2528x-3880,Inhibitory
+-2510x-3792,Excitatory
+-2465x-3753,Endothelial 3
+-2455x-3778,Excitatory
+-2419x-3903,OD Mature 2
+-2379x-3768,Excitatory
+-2483x-3786,OD Mature 2
+-2540x-3892,Inhibitory
+-2516x-3780,Inhibitory
+-2505x-3746,Inhibitory
+-2469x-3793,Inhibitory
+-2470x-3867,Excitatory
+-2457x-3760,Inhibitory
+-2432x-3858,Inhibitory
+-2428x-3840,Excitatory
+-2422x-3732,Astrocyte
+-2409x-3848,OD Immature 2
+-2410x-3751,OD Immature 1
+-2383x-3872,OD Immature 1
+-2546x-3595,Excitatory
+-2543x-3579,Excitatory
+-2535x-3638,Inhibitory
+-2536x-3700,Inhibitory
+-2525x-3649,Astrocyte
+-2514x-3642,Astrocyte
+-2509x-3532,Inhibitory
+-2506x-3679,Inhibitory
+-2507x-3697,Inhibitory
+-2503x-3658,Inhibitory
+-2501x-3687,Astrocyte
+-2496x-3550,Inhibitory
+-2491x-3618,Inhibitory
+-2490x-3573,Astrocyte
+-2482x-3537,Excitatory
+-2484x-3695,Inhibitory
+-2482x-3572,Astrocyte
+-2475x-3614,Inhibitory
+-2473x-3662,Inhibitory
+-2469x-3632,Endothelial 1
+-2459x-3589,Inhibitory
+-2455x-3533,Excitatory
+-2453x-3694,Inhibitory
+-2454x-3647,Inhibitory
+-2449x-3552,Inhibitory
+-2428x-3517,OD Mature 2
+-2424x-3555,Excitatory
+-2415x-3590,Inhibitory
+-2415x-3582,Inhibitory
+-2414x-3700,Inhibitory
+-2411x-3648,Inhibitory
+-2411x-3682,Excitatory
+-2403x-3529,Astrocyte
+-2403x-3664,Excitatory
+-2399x-3691,Inhibitory
+-2402x-3551,Inhibitory
+-2392x-3679,Inhibitory
+-2381x-3559,Inhibitory
+-2374x-3681,Excitatory
+-2369x-3544,Astrocyte
+-2367x-3668,Astrocyte
+-2529x-3608,Inhibitory
+-2530x-3625,Inhibitory
+-2523x-3676,Endothelial 1
+-2518x-3605,Endothelial 1
+-2518x-3567,Inhibitory
+-2483x-3648,Excitatory
+-2477x-3677,Inhibitory
+-2403x-3600,Inhibitory
+-2404x-3572,Astrocyte
+-2395x-3633,Inhibitory
+-2394x-3573,Inhibitory
+-2379x-3588,Inhibitory
+-2524x-3568,OD Mature 2
+-2509x-3611,Excitatory
+-2476x-3656,Astrocyte
+-2476x-3525,Inhibitory
+-2447x-3640,Excitatory
+-2427x-3673,Inhibitory
+-2367x-3622,Pericytes
+-2474x-3578,Inhibitory
+-2417x-3528,Excitatory
+-2527x-3535,Inhibitory
+-2464x-3603,Inhibitory
+-2454x-3638,Microglia
+-2440x-3622,Inhibitory
+-2441x-3610,Inhibitory
+-2436x-3663,Excitatory
+-2429x-3642,Excitatory
+-2419x-3600,Inhibitory
+-2405x-3626,Inhibitory
+-2550x-3478,Excitatory
+-2546x-3393,Inhibitory
+-2546x-3457,Astrocyte
+-2542x-3342,Excitatory
+-2538x-3331,Inhibitory
+-2533x-3398,Endothelial 3
+-2533x-3490,Inhibitory
+-2517x-3404,Endothelial 1
+-2517x-3394,Inhibitory
+-2514x-3471,Excitatory
+-2514x-3439,Inhibitory
+-2509x-3420,Inhibitory
+-2514x-3461,Inhibitory
+-2501x-3436,Inhibitory
+-2500x-3495,Microglia
+-2500x-3370,Inhibitory
+-2488x-3398,Inhibitory
+-2481x-3446,Inhibitory
+-2481x-3361,Inhibitory
+-2481x-3422,Endothelial 1
+-2479x-3338,Inhibitory
+-2473x-3476,OD Immature 1
+-2475x-3425,OD Mature 2
+-2472x-3468,Inhibitory
+-2471x-3380,Inhibitory
+-2460x-3329,Astrocyte
+-2447x-3478,Excitatory
+-2449x-3468,Inhibitory
+-2440x-3457,Inhibitory
+-2420x-3367,Pericytes
+-2415x-3362,Pericytes
+-2416x-3392,Pericytes
+-2412x-3488,Inhibitory
+-2406x-3433,Pericytes
+-2404x-3412,Endothelial 2
+-2401x-3493,Pericytes
+-2400x-3479,Pericytes
+-2398x-3487,Pericytes
+-2389x-3350,Inhibitory
+-2386x-3366,Astrocyte
+-2385x-3503,Astrocyte
+-2383x-3428,Inhibitory
+-2370x-3459,Excitatory
+-2520x-3493,Inhibitory
+-2518x-3371,Inhibitory
+-2488x-3429,Endothelial 3
+-2468x-3416,Inhibitory
+-2449x-3369,Inhibitory
+-2434x-3346,Inhibitory
+-2417x-3339,Pericytes
+-2415x-3354,Pericytes
+-2409x-3410,Pericytes
+-2385x-3408,Inhibitory
+-2523x-3431,Inhibitory
+-2491x-3486,Inhibitory
+-2455x-3343,Inhibitory
+-2404x-3464,Pericytes
+-2374x-3488,Excitatory
+-2371x-3448,Inhibitory
+-2475x-3459,Inhibitory
+-2457x-3449,Astrocyte
+-2453x-3357,Inhibitory
+-2449x-3428,Inhibitory
+-2423x-3462,Excitatory
+-2420x-3464,Excitatory
+-2422x-3439,Inhibitory
+-2410x-3417,Pericytes
+-2404x-3474,Pericytes
+-2544x-3236,Inhibitory
+-2542x-3199,Astrocyte
+-2542x-3283,Inhibitory
+-2531x-3274,Astrocyte
+-2523x-3169,Inhibitory
+-2504x-3263,Inhibitory
+-2505x-3277,Inhibitory
+-2499x-3237,Inhibitory
+-2497x-3222,Inhibitory
+-2494x-3212,Inhibitory
+-2488x-3190,Inhibitory
+-2480x-3292,Inhibitory
+-2473x-3258,Microglia
+-2475x-3136,Inhibitory
+-2465x-3127,Pericytes
+-2459x-3130,Pericytes
+-2461x-3247,Excitatory
+-2453x-3147,Pericytes
+-2452x-3162,Pericytes
+-2449x-3175,Pericytes
+-2442x-3177,Pericytes
+-2442x-3214,Pericytes
+-2439x-3196,Pericytes
+-2431x-3248,Pericytes
+-2430x-3298,Astrocyte
+-2429x-3220,Pericytes
+-2430x-3150,Inhibitory
+-2423x-3129,Excitatory
+-2421x-3246,Pericytes
+-2420x-3290,Pericytes
+-2417x-3298,Pericytes
+-2406x-3174,Excitatory
+-2401x-3282,Excitatory
+-2384x-3237,Microglia
+-2375x-3193,Endothelial 3
+-2365x-3252,Inhibitory
+-2540x-3253,OD Immature 1
+-2433x-3269,Pericytes
+-2415x-3135,Inhibitory
+-2545x-3296,Excitatory
+-2500x-3156,Inhibitory
+-2401x-3186,Inhibitory
+-2400x-3133,Inhibitory
+-2396x-3146,Inhibitory
+-2374x-3171,Inhibitory
+-2446x-3295,Inhibitory
+-2443x-3122,Inhibitory
+-2430x-3277,Pericytes
+-2546x-2922,Inhibitory
+-2545x-3069,Inhibitory
+-2541x-3056,Inhibitory
+-2542x-3097,Inhibitory
+-2535x-3078,Inhibitory
+-2525x-2920,Inhibitory
+-2524x-3096,Inhibitory
+-2517x-3100,Inhibitory
+-2514x-3051,Endothelial 1
+-2507x-3059,Endothelial 3
+-2500x-3095,Inhibitory
+-2498x-2978,OD Mature 2
+-2493x-3073,Endothelial 3
+-2493x-2955,Inhibitory
+-2494x-3100,Inhibitory
+-2489x-3067,Astrocyte
+-2490x-3017,Endothelial 3
+-2484x-2929,OD Immature 1
+-2481x-2965,Inhibitory
+-2480x-2994,Inhibitory
+-2483x-2977,Inhibitory
+-2456x-2990,Inhibitory
+-2447x-3067,Inhibitory
+-2444x-2922,Inhibitory
+-2446x-2986,Inhibitory
+-2437x-3034,Inhibitory
+-2435x-3054,OD Mature 2
+-2418x-2943,OD Immature 1
+-2418x-3005,Inhibitory
+-2419x-2992,Inhibitory
+-2414x-3082,Endothelial 1
+-2409x-2960,Inhibitory
+-2407x-2918,Inhibitory
+-2410x-2933,Microglia
+-2399x-3074,Microglia
+-2397x-2943,Inhibitory
+-2393x-3033,Inhibitory
+-2383x-3097,Inhibitory
+-2380x-3083,Inhibitory
+-2377x-2954,Inhibitory
+-2372x-3054,Inhibitory
+-2370x-3047,OD Immature 1
+-2549x-3082,Inhibitory
+-2542x-2962,Inhibitory
+-2536x-3063,OD Mature 3
+-2528x-3019,Microglia
+-2476x-2950,Inhibitory
+-2460x-2964,Excitatory
+-2455x-3042,Inhibitory
+-2452x-3017,Inhibitory
+-2430x-2950,Inhibitory
+-2425x-3021,Inhibitory
+-2417x-3054,Inhibitory
+-2416x-3039,Inhibitory
+-2398x-3060,Inhibitory
+-2392x-3026,Inhibitory
+-2386x-2936,Astrocyte
+-2379x-3025,Astrocyte
+-2375x-3033,Inhibitory
+-2545x-2933,Inhibitory
+-2482x-3088,Pericytes
+-2471x-2919,Inhibitory
+-2461x-2937,Inhibitory
+-2462x-2975,Inhibitory
+-2460x-3062,Inhibitory
+-2455x-3078,Inhibitory
+-2406x-2986,Inhibitory
+-2384x-3077,Excitatory
+-2383x-2924,Inhibitory
+-2488x-3100,Inhibitory
+-2436x-3085,Inhibitory
+-2379x-2966,Inhibitory
+-2542x-2722,Excitatory
+-2536x-2804,Inhibitory
+-2529x-2766,Inhibitory
+-2530x-2849,Excitatory
+-2521x-2872,Inhibitory
+-2516x-2832,Excitatory
+-2516x-2777,Excitatory
+-2508x-2745,Excitatory
+-2509x-2893,Microglia
+-2502x-2894,OD Immature 1
+-2500x-2856,Inhibitory
+-2494x-2762,Inhibitory
+-2492x-2823,Inhibitory
+-2483x-2899,Inhibitory
+-2479x-2903,Inhibitory
+-2476x-2727,Inhibitory
+-2471x-2799,Inhibitory
+-2469x-2713,Endothelial 1
+-2465x-2789,Inhibitory
+-2461x-2816,Inhibitory
+-2463x-2862,Excitatory
+-2458x-2893,Astrocyte
+-2457x-2882,Inhibitory
+-2443x-2723,Astrocyte
+-2442x-2779,Inhibitory
+-2433x-2756,Inhibitory
+-2435x-2780,Excitatory
+-2432x-2854,Inhibitory
+-2420x-2790,Endothelial 3
+-2418x-2800,Excitatory
+-2421x-2840,Astrocyte
+-2420x-2728,Excitatory
+-2418x-2882,Inhibitory
+-2412x-2840,Inhibitory
+-2407x-2886,Inhibitory
+-2402x-2838,Inhibitory
+-2403x-2866,Inhibitory
+-2399x-2880,Inhibitory
+-2393x-2891,Astrocyte
+-2387x-2869,Endothelial 1
+-2382x-2751,Astrocyte
+-2381x-2727,Astrocyte
+-2376x-2793,Astrocyte
+-2370x-2748,Inhibitory
+-2363x-2719,Inhibitory
+-2545x-2778,Astrocyte
+-2537x-2860,Inhibitory
+-2483x-2745,Inhibitory
+-2475x-2840,Inhibitory
+-2470x-2876,Endothelial 1
+-2435x-2886,Inhibitory
+-2399x-2747,Excitatory
+-2383x-2839,Inhibitory
+-2461x-2768,Astrocyte
+-2448x-2842,Inhibitory
+-2444x-2797,Excitatory
+-2419x-2817,Inhibitory
+-2368x-2901,Inhibitory
+-2477x-2855,Inhibitory
+-2457x-2890,Inhibitory
+-2454x-2818,Astrocyte
+-2444x-2901,Inhibitory
+-2365x-2751,Inhibitory
+-2544x-2637,Astrocyte
+-2544x-2593,Inhibitory
+-2544x-2691,Excitatory
+-2540x-2532,Excitatory
+-2536x-2560,Astrocyte
+-2531x-2667,Endothelial 1
+-2532x-2569,Excitatory
+-2519x-2670,Inhibitory
+-2517x-2644,Astrocyte
+-2502x-2549,Excitatory
+-2499x-2666,Inhibitory
+-2499x-2690,Inhibitory
+-2499x-2515,Inhibitory
+-2500x-2571,Excitatory
+-2500x-2609,Excitatory
+-2494x-2588,Excitatory
+-2492x-2657,Microglia
+-2488x-2553,Excitatory
+-2486x-2628,Excitatory
+-2481x-2532,Inhibitory
+-2482x-2587,Inhibitory
+-2463x-2622,Astrocyte
+-2459x-2657,Excitatory
+-2453x-2623,Inhibitory
+-2449x-2527,Excitatory
+-2448x-2689,Excitatory
+-2426x-2675,Endothelial 3
+-2422x-2548,OD Mature 2
+-2420x-2608,OD Mature 1
+-2410x-2685,OD Immature 1
+-2406x-2601,OD Mature 1
+-2397x-2691,Excitatory
+-2394x-2621,Microglia
+-2389x-2656,OD Immature 1
+-2391x-2664,Inhibitory
+-2379x-2573,OD Mature 2
+-2376x-2544,OD Mature 2
+-2372x-2588,OD Mature 2
+-2370x-2556,OD Mature 2
+-2511x-2633,Excitatory
+-2485x-2607,Astrocyte
+-2475x-2694,Inhibitory
+-2474x-2638,Excitatory
+-2455x-2686,Excitatory
+-2432x-2569,Excitatory
+-2506x-2599,Inhibitory
+-2481x-2699,Astrocyte
+-2473x-2601,Excitatory
+-2450x-2597,Inhibitory
+-2439x-2671,Inhibitory
+-2410x-2592,OD Mature 2
+-2391x-2540,OD Mature 2
+-2390x-2700,Inhibitory
+-2387x-2549,Excitatory
+-2366x-2655,Excitatory
+-2538x-2630,Inhibitory
+-2474x-2677,Inhibitory
+-2467x-2565,Inhibitory
+-2433x-2703,Excitatory
+-2420x-2525,Inhibitory
+-2548x-2342,Excitatory
+-2544x-2429,Excitatory
+-2541x-2462,Excitatory
+-2539x-2332,Excitatory
+-2534x-2487,Astrocyte
+-2536x-2494,Excitatory
+-2530x-2418,Endothelial 1
+-2508x-2458,Excitatory
+-2504x-2445,Excitatory
+-2493x-2370,Excitatory
+-2489x-2396,Astrocyte
+-2481x-2377,Excitatory
+-2479x-2408,Excitatory
+-2476x-2344,Astrocyte
+-2470x-2499,Astrocyte
+-2466x-2419,Endothelial 1
+-2464x-2465,Astrocyte
+-2461x-2400,Astrocyte
+-2461x-2359,Excitatory
+-2459x-2382,Endothelial 3
+-2440x-2389,Excitatory
+-2440x-2460,OD Immature 1
+-2442x-2357,Excitatory
+-2433x-2329,Excitatory
+-2424x-2438,Astrocyte
+-2425x-2478,OD Mature 1
+-2423x-2340,Excitatory
+-2419x-2403,Excitatory
+-2414x-2353,Endothelial 1
+-2411x-2480,Astrocyte
+-2408x-2389,Excitatory
+-2408x-2406,Astrocyte
+-2393x-2344,Excitatory
+-2382x-2425,OD Mature 2
+-2375x-2348,Excitatory
+-2374x-2453,Excitatory
+-2369x-2398,Astrocyte
+-2365x-2449,OD Mature 2
+-2507x-2421,Excitatory
+-2502x-2355,Astrocyte
+-2467x-2457,Endothelial 1
+-2454x-2406,Excitatory
+-2445x-2421,Endothelial 1
+-2435x-2369,Inhibitory
+-2427x-2382,Inhibitory
+-2416x-2417,Inhibitory
+-2400x-2449,Astrocyte
+-2399x-2441,Astrocyte
+-2394x-2366,Excitatory
+-2373x-2364,OD Mature 4
+-2370x-2375,Excitatory
+-2529x-2430,Astrocyte
+-2512x-2402,Inhibitory
+-2509x-2368,Astrocyte
+-2486x-2497,Endothelial 1
+-2479x-2493,Astrocyte
+-2470x-2434,Excitatory
+-2431x-2479,Inhibitory
+-2383x-2464,OD Mature 1
+-2368x-2498,OD Mature 2
+-2451x-2466,Excitatory
+-2437x-2467,Microglia
+-2545x-2388,Excitatory
+-2536x-2385,Excitatory
+-2513x-2491,Excitatory
+-2505x-2392,Microglia
+-2457x-2337,Excitatory
+-2449x-2432,Astrocyte
+-2415x-2450,Endothelial 1
+-2370x-2390,Inhibitory
+-2545x-2231,Microglia
+-2535x-2259,Excitatory
+-2526x-2126,Excitatory
+-2524x-2180,Excitatory
+-2511x-2265,Excitatory
+-2500x-2215,Endothelial 1
+-2489x-2208,Microglia
+-2487x-2125,Microglia
+-2473x-2281,Endothelial 3
+-2465x-2121,Excitatory
+-2458x-2185,OD Mature 1
+-2454x-2130,Endothelial 1
+-2453x-2259,OD Mature 1
+-2438x-2148,Endothelial 1
+-2434x-2213,Endothelial 1
+-2434x-2254,Inhibitory
+-2422x-2167,Excitatory
+-2419x-2244,Excitatory
+-2414x-2169,Excitatory
+-2408x-2240,Excitatory
+-2403x-2294,Excitatory
+-2394x-2130,Excitatory
+-2390x-2220,Endothelial 1
+-2374x-2164,Excitatory
+-2372x-2189,OD Immature 1
+-2542x-2195,Astrocyte
+-2495x-2150,Excitatory
+-2486x-2261,Excitatory
+-2471x-2147,Endothelial 3
+-2436x-2283,Excitatory
+-2429x-2275,OD Mature 2
+-2367x-2137,Astrocyte
+-2494x-2242,Excitatory
+-2485x-2162,Excitatory
+-2455x-2180,OD Immature 1
+-2528x-2277,OD Immature 1
+-2487x-2286,Excitatory
+-2407x-2219,Excitatory
+-2373x-2206,Astrocyte
+-2370x-2197,Astrocyte
+-2537x-2234,Excitatory
+-2507x-2189,OD Mature 1
+-2491x-2231,Excitatory
+-2486x-2195,Excitatory
+-2431x-2204,Excitatory
+-2408x-2192,Excitatory
+-2342x-2272,Inhibitory
+-2342x-2121,OD Mature 2
+-2326x-2145,Endothelial 1
+-2319x-2211,Endothelial 1
+-2316x-2287,Pericytes
+-2310x-2292,Endothelial 2
+-2307x-2268,Excitatory
+-2299x-2125,Excitatory
+-2300x-2221,Excitatory
+-2299x-2289,Inhibitory
+-2288x-2230,Microglia
+-2287x-2165,Astrocyte
+-2287x-2153,Astrocyte
+-2282x-2188,Excitatory
+-2283x-2267,Excitatory
+-2275x-2249,Inhibitory
+-2266x-2136,Excitatory
+-2263x-2211,Inhibitory
+-2251x-2278,OD Mature 2
+-2249x-2295,Astrocyte
+-2240x-2199,OD Immature 1
+-2222x-2300,Inhibitory
+-2213x-2285,Inhibitory
+-2204x-2245,Inhibitory
+-2190x-2236,OD Mature 2
+-2190x-2280,Astrocyte
+-2184x-2156,Inhibitory
+-2182x-2271,Astrocyte
+-2177x-2212,OD Mature 1
+-2175x-2219,Astrocyte
+-2174x-2249,Microglia
+-2163x-2208,OD Mature 2
+-2339x-2131,Excitatory
+-2235x-2244,OD Mature 2
+-2194x-2227,OD Mature 2
+-2166x-2300,Astrocyte
+-2320x-2197,Excitatory
+-2316x-2125,OD Mature 1
+-2311x-2161,OD Mature 1
+-2188x-2180,Astrocyte
+-2309x-2257,Astrocyte
+-2267x-2264,OD Mature 1
+-2259x-2219,Inhibitory
+-2230x-2268,OD Immature 1
+-2225x-2200,Excitatory
+-2177x-2303,Endothelial 1
+-2343x-2463,Excitatory
+-2336x-2450,Excitatory
+-2332x-2363,Endothelial 1
+-2331x-2406,Astrocyte
+-2330x-2324,Astrocyte
+-2314x-2414,Astrocyte
+-2308x-2505,OD Mature 1
+-2302x-2378,Astrocyte
+-2296x-2381,Astrocyte
+-2286x-2326,Inhibitory
+-2285x-2394,Endothelial 3
+-2285x-2367,OD Mature 2
+-2259x-2443,OD Mature 2
+-2258x-2336,Inhibitory
+-2252x-2379,Excitatory
+-2253x-2316,Inhibitory
+-2238x-2341,Inhibitory
+-2237x-2447,OD Mature 2
+-2230x-2402,OD Mature 2
+-2229x-2483,OD Mature 2
+-2222x-2490,OD Mature 2
+-2211x-2397,Astrocyte
+-2198x-2367,OD Immature 1
+-2198x-2317,Endothelial 1
+-2193x-2415,Excitatory
+-2189x-2369,OD Immature 1
+-2178x-2457,Excitatory
+-2308x-2434,OD Mature 2
+-2274x-2379,Excitatory
+-2244x-2383,Astrocyte
+-2224x-2367,OD Mature 2
+-2221x-2333,Astrocyte
+-2215x-2333,Astrocyte
+-2210x-2432,OD Mature 1
+-2189x-2356,OD Mature 2
+-2177x-2321,OD Immature 1
+-2175x-2378,Excitatory
+-2332x-2342,OD Mature 2
+-2298x-2486,OD Mature 2
+-2295x-2350,OD Mature 1
+-2266x-2485,OD Mature 2
+-2260x-2416,Excitatory
+-2248x-2372,OD Mature 2
+-2234x-2389,Excitatory
+-2169x-2353,Astrocyte
+-2292x-2454,OD Mature 2
+-2319x-2381,Endothelial 1
+-2286x-2444,OD Mature 4
+-2278x-2464,OD Mature 1
+-2210x-2381,Excitatory
+-2349x-2541,OD Mature 2
+-2347x-2613,OD Mature 4
+-2341x-2669,Inhibitory
+-2341x-2686,Inhibitory
+-2337x-2562,OD Mature 4
+-2325x-2592,OD Mature 2
+-2306x-2672,Endothelial 1
+-2302x-2628,Inhibitory
+-2295x-2642,Inhibitory
+-2293x-2631,Excitatory
+-2276x-2619,OD Mature 2
+-2273x-2576,Endothelial 3
+-2266x-2638,Endothelial 3
+-2260x-2703,Inhibitory
+-2246x-2629,Astrocyte
+-2246x-2637,Astrocyte
+-2241x-2572,OD Mature 2
+-2224x-2685,OD Immature 1
+-2223x-2562,OD Mature 2
+-2218x-2622,Astrocyte
+-2213x-2544,OD Mature 1
+-2203x-2680,Excitatory
+-2200x-2585,OD Mature 2
+-2197x-2594,Excitatory
+-2186x-2574,OD Mature 2
+-2180x-2693,Inhibitory
+-2170x-2540,OD Mature 2
+-2170x-2602,Excitatory
+-2337x-2630,Excitatory
+-2285x-2606,Inhibitory
+-2223x-2526,OD Mature 2
+-2209x-2580,OD Mature 2
+-2189x-2540,OD Mature 2
+-2181x-2702,Inhibitory
+-2348x-2536,OD Mature 2
+-2296x-2584,OD Mature 2
+-2295x-2658,OD Immature 1
+-2275x-2673,Inhibitory
+-2256x-2684,Excitatory
+-2249x-2659,Inhibitory
+-2211x-2574,OD Mature 2
+-2176x-2661,Inhibitory
+-2347x-2593,OD Mature 2
+-2348x-2565,OD Mature 2
+-2178x-2541,OD Mature 2
+-2177x-2678,Astrocyte
+-2174x-2562,Excitatory
+-2341x-2894,Inhibitory
+-2339x-2807,Inhibitory
+-2332x-2743,Inhibitory
+-2327x-2876,Astrocyte
+-2328x-2771,Inhibitory
+-2320x-2738,Inhibitory
+-2309x-2866,Inhibitory
+-2308x-2755,Astrocyte
+-2304x-2879,Astrocyte
+-2298x-2821,Excitatory
+-2294x-2733,OD Immature 1
+-2284x-2841,Inhibitory
+-2279x-2747,Astrocyte
+-2278x-2881,Inhibitory
+-2279x-2778,Inhibitory
+-2272x-2799,Excitatory
+-2259x-2820,Astrocyte
+-2259x-2848,Inhibitory
+-2252x-2753,Inhibitory
+-2253x-2830,Excitatory
+-2248x-2779,Inhibitory
+-2248x-2891,Inhibitory
+-2246x-2754,Microglia
+-2243x-2731,Inhibitory
+-2239x-2854,Endothelial 3
+-2239x-2754,Inhibitory
+-2231x-2748,Astrocyte
+-2227x-2892,Inhibitory
+-2225x-2724,Inhibitory
+-2225x-2781,Inhibitory
+-2224x-2835,Inhibitory
+-2219x-2867,Inhibitory
+-2216x-2805,Astrocyte
+-2208x-2898,OD Immature 1
+-2197x-2727,Inhibitory
+-2195x-2898,Endothelial 1
+-2193x-2877,Inhibitory
+-2190x-2776,Inhibitory
+-2185x-2786,Inhibitory
+-2187x-2766,Inhibitory
+-2185x-2885,Inhibitory
+-2185x-2728,Inhibitory
+-2184x-2822,Inhibitory
+-2185x-2862,Inhibitory
+-2175x-2725,Inhibitory
+-2176x-2811,Inhibitory
+-2324x-2779,Inhibitory
+-2297x-2870,Inhibitory
+-2317x-2758,Inhibitory
+-2257x-2796,Inhibitory
+-2206x-2823,Inhibitory
+-2181x-2836,Inhibitory
+-2299x-2777,Inhibitory
+-2294x-2773,Inhibitory
+-2324x-2801,OD Mature 1
+-2277x-2769,Inhibitory
+-2265x-2828,Astrocyte
+-2252x-2882,Inhibitory
+-2189x-2789,Inhibitory
+-2348x-2943,Astrocyte
+-2337x-3058,Inhibitory
+-2340x-3036,OD Immature 1
+-2337x-2992,Astrocyte
+-2328x-2968,Inhibitory
+-2330x-3064,Inhibitory
+-2327x-3047,Inhibitory
+-2319x-3011,Inhibitory
+-2320x-2941,Inhibitory
+-2314x-3079,Excitatory
+-2306x-3058,OD Immature 1
+-2310x-3036,Inhibitory
+-2306x-3043,Excitatory
+-2305x-3020,Inhibitory
+-2304x-3003,Inhibitory
+-2298x-3057,OD Immature 1
+-2297x-2970,Inhibitory
+-2292x-2940,Inhibitory
+-2281x-2918,OD Immature 1
+-2278x-3026,Astrocyte
+-2278x-2950,Inhibitory
+-2273x-3014,Astrocyte
+-2272x-3002,Inhibitory
+-2272x-2944,Inhibitory
+-2268x-3080,Inhibitory
+-2264x-2972,OD Immature 1
+-2261x-2962,OD Immature 1
+-2263x-3097,OD Mature 2
+-2258x-3057,Inhibitory
+-2251x-3015,Inhibitory
+-2247x-2983,Microglia
+-2242x-3093,Inhibitory
+-2240x-2978,Endothelial 1
+-2237x-3058,Inhibitory
+-2237x-2988,Endothelial 1
+-2226x-2951,Inhibitory
+-2219x-3039,Astrocyte
+-2215x-3053,Astrocyte
+-2215x-3079,OD Immature 1
+-2213x-2953,Excitatory
+-2209x-3098,Inhibitory
+-2204x-3018,Inhibitory
+-2203x-3024,Inhibitory
+-2197x-2970,Astrocyte
+-2195x-3077,Inhibitory
+-2196x-3063,Microglia
+-2189x-2987,Inhibitory
+-2177x-3015,Excitatory
+-2176x-2922,Inhibitory
+-2178x-2940,Endothelial 1
+-2174x-3037,Astrocyte
+-2166x-2989,Endothelial 1
+-2346x-2998,Inhibitory
+-2314x-2959,OD Mature 2
+-2290x-2985,Inhibitory
+-2250x-3041,Inhibitory
+-2234x-3025,OD Immature 1
+-2231x-3066,Excitatory
+-2215x-2930,OD Immature 1
+-2213x-2992,Inhibitory
+-2269x-2984,Inhibitory
+-2253x-2934,Astrocyte
+-2248x-3072,Inhibitory
+-2246x-3083,Excitatory
+-2231x-3005,Inhibitory
+-2221x-3105,Inhibitory
+-2217x-3018,Inhibitory
+-2208x-2957,Excitatory
+-2205x-3040,Astrocyte
+-2261x-3104,Astrocyte
+-2292x-3078,Inhibitory
+-2269x-3066,Inhibitory
+-2269x-3059,Inhibitory
+-2224x-3066,Inhibitory
+-2200x-2932,Inhibitory
+-2176x-3078,Inhibitory
+-2342x-3142,OD Mature 2
+-2333x-3194,Endothelial 1
+-2321x-3257,Endothelial 1
+-2319x-3198,Endothelial 3
+-2307x-3129,Inhibitory
+-2297x-3195,Inhibitory
+-2298x-3146,Inhibitory
+-2293x-3303,OD Immature 1
+-2292x-3180,Inhibitory
+-2290x-3216,Endothelial 2
+-2287x-3277,Inhibitory
+-2285x-3150,Inhibitory
+-2284x-3226,Excitatory
+-2279x-3259,OD Immature 1
+-2252x-3270,Inhibitory
+-2250x-3280,Inhibitory
+-2249x-3265,Inhibitory
+-2241x-3139,OD Immature 1
+-2241x-3227,Inhibitory
+-2238x-3155,Inhibitory
+-2227x-3256,Astrocyte
+-2223x-3289,Inhibitory
+-2221x-3129,Inhibitory
+-2206x-3266,Excitatory
+-2205x-3255,Astrocyte
+-2199x-3146,Inhibitory
+-2197x-3166,Excitatory
+-2192x-3246,Endothelial 1
+-2175x-3237,Astrocyte
+-2174x-3289,Inhibitory
+-2173x-3161,Inhibitory
+-2172x-3219,Excitatory
+-2167x-3265,Inhibitory
+-2167x-3149,Inhibitory
+-2330x-3186,Astrocyte
+-2324x-3187,Inhibitory
+-2306x-3155,Inhibitory
+-2304x-3266,Inhibitory
+-2282x-3243,Inhibitory
+-2219x-3282,Inhibitory
+-2219x-3208,Excitatory
+-2212x-3283,Inhibitory
+-2188x-3259,Inhibitory
+-2173x-3130,Inhibitory
+-2170x-3178,Microglia
+-2344x-3131,Astrocyte
+-2293x-3159,Astrocyte
+-2276x-3306,Inhibitory
+-2274x-3279,Excitatory
+-2266x-3175,Inhibitory
+-2211x-3258,Astrocyte
+-2200x-3268,OD Mature 3
+-2178x-3198,Inhibitory
+-2315x-3183,OD Immature 1
+-2305x-3204,Inhibitory
+-2229x-3284,Inhibitory
+-2217x-3175,Astrocyte
+-2196x-3186,OD Mature 1
+-2175x-3172,Inhibitory
+-2168x-3282,Microglia
+-2346x-3337,Inhibitory
+-2344x-3432,Inhibitory
+-2339x-3475,Inhibitory
+-2336x-3370,Endothelial 1
+-2331x-3392,Excitatory
+-2327x-3354,Endothelial 1
+-2318x-3422,Inhibitory
+-2315x-3370,Excitatory
+-2314x-3473,Excitatory
+-2308x-3459,Inhibitory
+-2307x-3453,Inhibitory
+-2305x-3427,Astrocyte
+-2301x-3466,OD Mature 1
+-2302x-3417,Inhibitory
+-2298x-3350,Inhibitory
+-2290x-3447,Inhibitory
+-2287x-3334,Inhibitory
+-2287x-3317,Astrocyte
+-2283x-3382,Inhibitory
+-2276x-3482,Inhibitory
+-2278x-3464,Inhibitory
+-2272x-3446,Inhibitory
+-2268x-3323,Astrocyte
+-2266x-3442,Inhibitory
+-2251x-3362,Endothelial 1
+-2247x-3370,Endothelial 1
+-2248x-3499,Astrocyte
+-2226x-3328,Astrocyte
+-2220x-3475,Excitatory
+-2214x-3449,Inhibitory
+-2200x-3395,Inhibitory
+-2194x-3449,OD Immature 1
+-2187x-3484,Inhibitory
+-2182x-3421,Inhibitory
+-2177x-3497,Excitatory
+-2175x-3352,Excitatory
+-2168x-3317,OD Mature 2
+-2276x-3343,Inhibitory
+-2249x-3486,Excitatory
+-2247x-3421,Astrocyte
+-2242x-3449,Inhibitory
+-2174x-3430,Inhibitory
+-2318x-3375,Excitatory
+-2296x-3365,Inhibitory
+-2247x-3472,Inhibitory
+-2221x-3377,Inhibitory
+-2220x-3355,Inhibitory
+-2194x-3329,Inhibitory
+-2182x-3468,Excitatory
+-2174x-3330,Inhibitory
+-2249x-3456,Inhibitory
+-2204x-3472,Excitatory
+-2279x-3496,Inhibitory
+-2227x-3395,Inhibitory
+-2190x-3400,Astrocyte
+-2183x-3407,Inhibitory
+-2285x-3405,Excitatory
+-2347x-3698,Inhibitory
+-2342x-3661,Inhibitory
+-2340x-3529,Excitatory
+-2333x-3580,Astrocyte
+-2322x-3593,Inhibitory
+-2324x-3661,OD Immature 1
+-2319x-3520,Inhibitory
+-2311x-3614,Astrocyte
+-2308x-3539,Inhibitory
+-2303x-3583,Excitatory
+-2302x-3573,Inhibitory
+-2297x-3675,Astrocyte
+-2291x-3537,Astrocyte
+-2290x-3649,Inhibitory
+-2284x-3518,Endothelial 1
+-2282x-3617,Excitatory
+-2278x-3641,Astrocyte
+-2272x-3660,Endothelial 1
+-2266x-3573,Excitatory
+-2257x-3645,Inhibitory
+-2253x-3688,Inhibitory
+-2251x-3547,Microglia
+-2250x-3579,Excitatory
+-2243x-3617,Excitatory
+-2242x-3701,Excitatory
+-2239x-3637,Excitatory
+-2238x-3654,Excitatory
+-2223x-3612,Inhibitory
+-2216x-3678,Astrocyte
+-2214x-3575,Excitatory
+-2208x-3584,Excitatory
+-2205x-3606,Inhibitory
+-2201x-3534,Excitatory
+-2200x-3627,Excitatory
+-2194x-3690,OD Mature 2
+-2193x-3574,Inhibitory
+-2190x-3630,Excitatory
+-2184x-3684,Inhibitory
+-2179x-3523,Inhibitory
+-2176x-3664,Endothelial 1
+-2177x-3656,Astrocyte
+-2169x-3611,Inhibitory
+-2168x-3655,OD Mature 2
+-2167x-3584,Endothelial 3
+-2345x-3630,Excitatory
+-2323x-3673,Excitatory
+-2286x-3625,Inhibitory
+-2215x-3557,Inhibitory
+-2185x-3650,Inhibitory
+-2169x-3557,Astrocyte
+-2321x-3696,Inhibitory
+-2304x-3699,Endothelial 1
+-2296x-3522,Astrocyte
+-2264x-3562,Astrocyte
+-2251x-3662,Excitatory
+-2222x-3672,Excitatory
+-2189x-3607,Excitatory
+-2189x-3590,Inhibitory
+-2294x-3607,Excitatory
+-2304x-3631,Inhibitory
+-2296x-3654,Inhibitory
+-2261x-3529,OD Immature 1
+-2239x-3573,Inhibitory
+-2214x-3662,OD Mature 2
+-2212x-3652,Inhibitory
+-2348x-3841,Endothelial 1
+-2346x-3793,OD Immature 1
+-2345x-3879,OD Mature 2
+-2334x-3756,Inhibitory
+-2331x-3854,Inhibitory
+-2330x-3889,Inhibitory
+-2331x-3788,Inhibitory
+-2325x-3841,Inhibitory
+-2318x-3724,Astrocyte
+-2312x-3776,Inhibitory
+-2304x-3728,OD Immature 1
+-2304x-3878,Astrocyte
+-2302x-3797,Inhibitory
+-2291x-3776,Excitatory
+-2269x-3723,Astrocyte
+-2264x-3756,Endothelial 1
+-2258x-3833,Inhibitory
+-2262x-3788,Excitatory
+-2255x-3835,Excitatory
+-2254x-3798,Inhibitory
+-2243x-3733,Excitatory
+-2243x-3814,Excitatory
+-2232x-3832,Inhibitory
+-2224x-3872,Astrocyte
+-2223x-3730,Endothelial 1
+-2212x-3790,Inhibitory
+-2217x-3780,OD Immature 1
+-2205x-3735,Endothelial 1
+-2207x-3767,Astrocyte
+-2201x-3898,Excitatory
+-2201x-3838,Excitatory
+-2194x-3873,Endothelial 1
+-2189x-3789,Endothelial 1
+-2184x-3886,Inhibitory
+-2178x-3748,Inhibitory
+-2174x-3870,Microglia
+-2167x-3887,Astrocyte
+-2168x-3774,Inhibitory
+-2163x-3757,Excitatory
+-2163x-3800,Endothelial 1
+-2333x-3734,Microglia
+-2255x-3847,OD Immature 1
+-2251x-3763,Inhibitory
+-2250x-3720,Excitatory
+-2238x-3878,Inhibitory
+-2237x-3775,Inhibitory
+-2231x-3765,Excitatory
+-2227x-3805,Inhibitory
+-2220x-3811,Excitatory
+-2189x-3762,Excitatory
+-2182x-3812,Astrocyte
+-2163x-3808,Microglia
+-2304x-3754,Astrocyte
+-2294x-3850,Excitatory
+-2271x-3816,Excitatory
+-2266x-3715,Astrocyte
+-2218x-3828,Excitatory
+-2203x-3799,Inhibitory
+-2193x-3728,Astrocyte
+-2168x-3747,Excitatory
+-2297x-3828,Excitatory
+-2291x-3791,Inhibitory
+-2184x-3795,Endothelial 3
+-2176x-3848,Inhibitory
+-2281x-3886,Excitatory
+-2277x-3869,Excitatory
+-2265x-3740,OD Immature 1
+-2229x-3848,Astrocyte
+-2184x-3830,Excitatory
+-2148x-3902,Endothelial 1
+-2128x-3718,Astrocyte
+-2131x-3767,Inhibitory
+-2128x-3880,Inhibitory
+-2117x-3901,Inhibitory
+-2116x-3838,Excitatory
+-2110x-3843,OD Mature 2
+-2112x-3811,Inhibitory
+-2105x-3807,Excitatory
+-2085x-3806,OD Mature 2
+-2074x-3871,Astrocyte
+-2073x-3775,Excitatory
+-2050x-3728,Astrocyte
+-2041x-3788,Excitatory
+-2034x-3763,OD Mature 2
+-2027x-3742,Inhibitory
+-2017x-3841,OD Mature 2
+-2009x-3857,Endothelial 3
+-2007x-3780,Excitatory
+-1990x-3859,Astrocyte
+-1980x-3755,Excitatory
+-1973x-3760,Astrocyte
+-1964x-3837,Endothelial 1
+-1963x-3719,Endothelial 1
+-2127x-3809,Endothelial 1
+-2107x-3772,Excitatory
+-2086x-3887,OD Mature 1
+-2072x-3825,Excitatory
+-2054x-3890,OD Immature 1
+-2056x-3834,Excitatory
+-2014x-3759,Astrocyte
+-1978x-3766,Astrocyte
+-1977x-3787,Astrocyte
+-2093x-3784,Excitatory
+-2052x-3756,OD Mature 2
+-1996x-3755,Excitatory
+-1980x-3735,Astrocyte
+-1978x-3746,OD Mature 2
+-2019x-3798,Inhibitory
+-2016x-3870,Inhibitory
+-2141x-3650,Excitatory
+-2143x-3528,Astrocyte
+-2140x-3586,Endothelial 1
+-2134x-3540,OD Mature 2
+-2133x-3670,Excitatory
+-2119x-3523,Inhibitory
+-2118x-3585,Astrocyte
+-2113x-3605,Inhibitory
+-2101x-3569,Inhibitory
+-2094x-3621,OD Mature 2
+-2075x-3650,OD Immature 2
+-2074x-3679,Inhibitory
+-2063x-3516,Astrocyte
+-2063x-3552,OD Mature 1
+-2055x-3682,Endothelial 1
+-2054x-3654,Astrocyte
+-2049x-3555,Endothelial 1
+-2047x-3672,Endothelial 1
+-2047x-3574,Excitatory
+-2046x-3697,Excitatory
+-2040x-3629,OD Immature 1
+-2033x-3605,Endothelial 3
+-2033x-3524,Inhibitory
+-2013x-3645,Astrocyte
+-2009x-3568,OD Immature 1
+-2006x-3560,OD Immature 1
+-1994x-3550,OD Mature 2
+-1988x-3651,Inhibitory
+-1985x-3542,Inhibitory
+-1979x-3575,Astrocyte
+-1976x-3516,OD Mature 2
+-1972x-3600,Inhibitory
+-1965x-3608,Endothelial 1
+-2132x-3521,OD Mature 2
+-2079x-3611,Endothelial 1
+-2000x-3696,Astrocyte
+-1990x-3698,OD Immature 1
+-2138x-3700,Excitatory
+-2094x-3640,Excitatory
+-2092x-3596,Inhibitory
+-2069x-3577,Astrocyte
+-2030x-3680,Excitatory
+-2013x-3617,OD Mature 2
+-1990x-3600,Excitatory
+-1967x-3578,Endothelial 1
+-1965x-3558,Excitatory
+-2041x-3693,Excitatory
+-2152x-3555,Astrocyte
+-2148x-3354,Astrocyte
+-2148x-3454,Inhibitory
+-2142x-3472,Excitatory
+-2137x-3387,Inhibitory
+-2135x-3405,Inhibitory
+-2126x-3339,Inhibitory
+-2122x-3416,Inhibitory
+-2116x-3485,Inhibitory
+-2109x-3395,Astrocyte
+-2108x-3502,Inhibitory
+-2102x-3502,Inhibitory
+-2099x-3336,Inhibitory
+-2095x-3469,Inhibitory
+-2088x-3379,Excitatory
+-2089x-3411,Excitatory
+-2082x-3487,Astrocyte
+-2080x-3352,Astrocyte
+-2078x-3345,Endothelial 1
+-2075x-3459,OD Immature 1
+-2067x-3371,OD Immature 1
+-2066x-3477,Excitatory
+-2061x-3352,Endothelial 3
+-2046x-3384,Inhibitory
+-2042x-3315,Endothelial 1
+-2023x-3484,Excitatory
+-2024x-3410,Excitatory
+-2023x-3378,Excitatory
+-2017x-3401,Astrocyte
+-2002x-3454,Astrocyte
+-1983x-3355,Inhibitory
+-1975x-3379,Endothelial 3
+-1972x-3339,Inhibitory
+-1970x-3487,Inhibitory
+-2147x-3379,Inhibitory
+-2115x-3461,Excitatory
+-2072x-3404,OD Mature 2
+-2044x-3403,Excitatory
+-2035x-3498,Excitatory
+-2035x-3493,Excitatory
+-2004x-3383,Inhibitory
+-1979x-3398,Excitatory
+-2091x-3438,Excitatory
+-2089x-3357,Inhibitory
+-2078x-3319,Inhibitory
+-2069x-3451,Excitatory
+-2067x-3500,Inhibitory
+-2040x-3442,OD Mature 1
+-2038x-3461,Inhibitory
+-2035x-3341,Inhibitory
+-2022x-3427,Inhibitory
+-2002x-3439,Inhibitory
+-1994x-3479,Excitatory
+-1990x-3420,Inhibitory
+-1991x-3386,Inhibitory
+-1973x-3349,Inhibitory
+-2101x-3395,Excitatory
+-2036x-3424,OD Immature 1
+-2022x-3370,Inhibitory
+-2002x-3492,Inhibitory
+-2127x-3469,Inhibitory
+-2108x-3480,OD Mature 2
+-2101x-3409,Inhibitory
+-2014x-3357,Inhibitory
+-2147x-3134,Inhibitory
+-2144x-3124,OD Mature 2
+-2136x-3244,Inhibitory
+-2131x-3177,Inhibitory
+-2129x-3299,Astrocyte
+-2121x-3242,Astrocyte
+-2117x-3181,Inhibitory
+-2114x-3223,Inhibitory
+-2102x-3203,Astrocyte
+-2097x-3243,Astrocyte
+-2092x-3119,Inhibitory
+-2084x-3163,OD Mature 2
+-2078x-3301,Inhibitory
+-2079x-3269,OD Immature 1
+-2064x-3207,Excitatory
+-2060x-3237,Inhibitory
+-2062x-3174,Inhibitory
+-2058x-3259,Astrocyte
+-2050x-3131,Astrocyte
+-2047x-3185,Inhibitory
+-2049x-3280,Inhibitory
+-2040x-3163,OD Immature 1
+-2038x-3125,Inhibitory
+-2035x-3138,Inhibitory
+-2024x-3267,Astrocyte
+-2018x-3246,Inhibitory
+-2012x-3213,Astrocyte
+-2007x-3226,Inhibitory
+-2003x-3136,Excitatory
+-2000x-3246,Microglia
+-1988x-3170,Inhibitory
+-1984x-3269,Inhibitory
+-1977x-3292,Excitatory
+-1973x-3173,Inhibitory
+-1961x-3261,Astrocyte
+-2145x-3222,Inhibitory
+-2130x-3202,Excitatory
+-2109x-3270,Inhibitory
+-2080x-3191,Inhibitory
+-1997x-3194,Inhibitory
+-1994x-3121,Astrocyte
+-2120x-3155,Inhibitory
+-2103x-3191,Excitatory
+-2098x-3157,Microglia
+-2081x-3141,Excitatory
+-2076x-3154,Excitatory
+-2060x-3271,Excitatory
+-2057x-3151,Inhibitory
+-2041x-3206,Excitatory
+-2024x-3226,Excitatory
+-1999x-3267,Inhibitory
+-1996x-3281,Inhibitory
+-1973x-3192,Inhibitory
+-1964x-3203,Inhibitory
+-2114x-3115,Inhibitory
+-2105x-3289,Astrocyte
+-2055x-3168,OD Mature 2
+-2019x-3200,Inhibitory
+-2065x-3291,Astrocyte
+-2021x-3290,Inhibitory
+-2147x-2990,Inhibitory
+-2145x-2974,OD Immature 1
+-2139x-3001,Inhibitory
+-2139x-3102,Astrocyte
+-2140x-3092,Endothelial 3
+-2139x-2954,Inhibitory
+-2137x-3071,Astrocyte
+-2133x-2936,Inhibitory
+-2125x-3028,OD Immature 1
+-2124x-3086,Inhibitory
+-2117x-2962,Inhibitory
+-2117x-2948,Astrocyte
+-2117x-2956,Astrocyte
+-2113x-3011,Astrocyte
+-2114x-2977,Inhibitory
+-2095x-3049,Inhibitory
+-2090x-3089,OD Immature 1
+-2088x-2948,Inhibitory
+-2076x-2997,OD Immature 1
+-2074x-3101,Endothelial 1
+-2067x-3083,Inhibitory
+-2065x-2975,Inhibitory
+-2057x-3101,Excitatory
+-2049x-2962,Inhibitory
+-2047x-3085,Astrocyte
+-2047x-3021,Inhibitory
+-2048x-2920,Inhibitory
+-2040x-2997,Inhibitory
+-2020x-2973,Excitatory
+-2016x-2964,Inhibitory
+-2018x-3094,Endothelial 3
+-2013x-3081,OD Mature 2
+-2007x-3050,Excitatory
+-2000x-2953,Inhibitory
+-1999x-3005,Astrocyte
+-1987x-2930,Inhibitory
+-1985x-3064,Inhibitory
+-1980x-3067,Endothelial 1
+-1976x-3097,Astrocyte
+-1977x-3000,Inhibitory
+-1972x-2932,Inhibitory
+-1969x-2942,OD Mature 2
+-2090x-2973,Excitatory
+-2088x-2978,Excitatory
+-2079x-3019,Excitatory
+-2069x-3067,Inhibitory
+-2060x-2938,Inhibitory
+-1997x-2937,Inhibitory
+-1988x-2961,Inhibitory
+-2113x-3028,Inhibitory
+-2061x-2921,Inhibitory
+-2049x-3053,OD Immature 1
+-2030x-2928,Inhibitory
+-2074x-2953,OD Immature 1
+-2099x-2980,Inhibitory
+-2061x-2965,Inhibitory
+-2019x-2992,Inhibitory
+-1997x-3069,Inhibitory
+-1991x-2982,Excitatory
+-2146x-2892,Astrocyte
+-2150x-2799,Inhibitory
+-2141x-2775,Inhibitory
+-2136x-2847,Inhibitory
+-2135x-2806,Inhibitory
+-2130x-2747,Inhibitory
+-2118x-2873,Inhibitory
+-2118x-2750,Inhibitory
+-2094x-2778,Excitatory
+-2088x-2737,Inhibitory
+-2078x-2809,Inhibitory
+-2077x-2784,Excitatory
+-2075x-2750,Excitatory
+-2070x-2738,Inhibitory
+-2066x-2871,Inhibitory
+-2058x-2806,Microglia
+-2056x-2874,Inhibitory
+-2050x-2832,Inhibitory
+-2035x-2725,Inhibitory
+-2038x-2901,Inhibitory
+-2036x-2778,Inhibitory
+-2033x-2729,Astrocyte
+-2028x-2742,Inhibitory
+-2025x-2784,Endothelial 1
+-2025x-2864,Inhibitory
+-2024x-2903,Inhibitory
+-2024x-2805,Inhibitory
+-2016x-2737,OD Immature 1
+-2011x-2829,Excitatory
+-2007x-2855,Inhibitory
+-2007x-2777,Inhibitory
+-1998x-2725,Excitatory
+-1995x-2755,Astrocyte
+-1989x-2734,Inhibitory
+-1985x-2804,Endothelial 1
+-1982x-2812,Endothelial 1
+-1978x-2853,Microglia
+-1978x-2800,OD Mature 2
+-1977x-2751,Inhibitory
+-1971x-2835,OD Immature 1
+-1967x-2846,OD Mature 2
+-1965x-2725,Astrocyte
+-2103x-2735,Inhibitory
+-2081x-2797,Inhibitory
+-2037x-2769,Astrocyte
+-1998x-2892,Inhibitory
+-1976x-2887,Inhibitory
+-2119x-2762,Inhibitory
+-2056x-2762,Inhibitory
+-2024x-2876,Excitatory
+-2116x-2843,Astrocyte
+-2065x-2855,Excitatory
+-2017x-2750,Inhibitory
+-2127x-2736,Astrocyte
+-2101x-2885,Inhibitory
+-2058x-2814,Inhibitory
+-2046x-2749,Inhibitory
+-2143x-2628,Astrocyte
+-2134x-2691,Inhibitory
+-2131x-2588,OD Immature 1
+-2122x-2547,Astrocyte
+-2117x-2674,Inhibitory
+-2115x-2590,Astrocyte
+-2103x-2579,Endothelial 1
+-2099x-2530,OD Mature 2
+-2083x-2662,Inhibitory
+-2081x-2685,Inhibitory
+-2080x-2592,Inhibitory
+-2075x-2528,Astrocyte
+-2072x-2610,Excitatory
+-2073x-2673,Astrocyte
+-2069x-2520,Inhibitory
+-2057x-2674,Microglia
+-2056x-2609,Inhibitory
+-2056x-2567,Astrocyte
+-2051x-2597,OD Immature 1
+-2052x-2550,Astrocyte
+-2033x-2653,Excitatory
+-2030x-2703,Endothelial 1
+-2027x-2642,Inhibitory
+-2016x-2556,Inhibitory
+-2015x-2520,Inhibitory
+-2010x-2684,OD Immature 1
+-2011x-2592,Microglia
+-2010x-2664,Excitatory
+-1999x-2626,Inhibitory
+-1994x-2704,Endothelial 1
+-1989x-2567,Inhibitory
+-1983x-2614,Inhibitory
+-1981x-2539,Inhibitory
+-1976x-2652,Excitatory
+-2135x-2666,Inhibitory
+-2129x-2654,Astrocyte
+-2124x-2646,Excitatory
+-2051x-2697,Endothelial 1
+-2052x-2686,Endothelial 1
+-2048x-2637,Endothelial 1
+-2042x-2699,Endothelial 1
+-1970x-2553,Astrocyte
+-1967x-2662,Inhibitory
+-2141x-2619,Astrocyte
+-2020x-2586,Excitatory
+-2097x-2630,Endothelial 1
+-2090x-2610,OD Immature 1
+-2032x-2686,Inhibitory
+-1964x-2622,Excitatory
+-2100x-2650,Inhibitory
+-2068x-2558,Inhibitory
+-2014x-2617,Inhibitory
+-1997x-2635,Inhibitory
+-2152x-2327,Astrocyte
+-2147x-2495,OD Mature 2
+-2148x-2426,Excitatory
+-2146x-2414,Excitatory
+-2132x-2410,Excitatory
+-2131x-2333,Excitatory
+-2129x-2467,OD Immature 1
+-2121x-2441,Endothelial 1
+-2115x-2468,Excitatory
+-2113x-2423,Excitatory
+-2113x-2411,Excitatory
+-2108x-2458,Inhibitory
+-2102x-2417,Excitatory
+-2096x-2487,Excitatory
+-2092x-2362,Excitatory
+-2080x-2335,OD Mature 2
+-2077x-2429,Endothelial 1
+-2075x-2357,Astrocyte
+-2069x-2325,OD Mature 2
+-2067x-2401,Excitatory
+-2064x-2443,Excitatory
+-2057x-2399,Excitatory
+-2055x-2384,OD Mature 2
+-2051x-2323,OD Mature 2
+-2049x-2343,Astrocyte
+-2044x-2452,Excitatory
+-2044x-2347,Astrocyte
+-2035x-2401,Excitatory
+-2032x-2493,Endothelial 1
+-2028x-2444,Inhibitory
+-2026x-2376,OD Mature 1
+-2026x-2343,OD Mature 2
+-2021x-2466,Inhibitory
+-2017x-2330,OD Mature 2
+-2010x-2485,Excitatory
+-2009x-2389,Excitatory
+-1984x-2381,Inhibitory
+-1980x-2462,Inhibitory
+-1974x-2362,Endothelial 1
+-1970x-2448,Astrocyte
+-2115x-2450,OD Immature 1
+-2102x-2386,Excitatory
+-2089x-2421,Excitatory
+-2045x-2428,Inhibitory
+-2003x-2428,Astrocyte
+-2002x-2458,Astrocyte
+-2115x-2490,Inhibitory
+-2055x-2472,Inhibitory
+-2024x-2493,Endothelial 3
+-1998x-2342,Microglia
+-1999x-2331,Endothelial 3
+-1979x-2492,Excitatory
+-2084x-2454,Inhibitory
+-2080x-2401,Inhibitory
+-2130x-2500,OD Mature 2
+-2119x-2328,OD Mature 2
+-2106x-2328,Excitatory
+-2095x-2448,Inhibitory
+-2003x-2437,Inhibitory
+-2147x-2140,Excitatory
+-2147x-2280,Endothelial 3
+-2137x-2263,OD Mature 2
+-2136x-2202,Astrocyte
+-2128x-2240,Endothelial 3
+-2126x-2298,Astrocyte
+-2126x-2188,OD Immature 1
+-2125x-2208,Inhibitory
+-2124x-2249,Endothelial 3
+-2122x-2258,OD Mature 2
+-2121x-2156,Inhibitory
+-2122x-2214,Astrocyte
+-2109x-2230,OD Mature 2
+-2100x-2286,Excitatory
+-2097x-2158,Inhibitory
+-2095x-2213,Astrocyte
+-2088x-2134,Astrocyte
+-2082x-2235,Astrocyte
+-2084x-2190,Astrocyte
+-2080x-2294,OD Mature 2
+-2079x-2193,Endothelial 1
+-2077x-2172,Excitatory
+-2059x-2148,OD Mature 2
+-2056x-2266,OD Mature 1
+-2051x-2120,Astrocyte
+-2051x-2212,Astrocyte
+-2050x-2223,OD Mature 2
+-2042x-2278,OD Mature 2
+-2044x-2294,OD Immature 1
+-2038x-2287,OD Immature 1
+-2034x-2214,OD Mature 1
+-2027x-2139,Astrocyte
+-2027x-2270,OD Mature 2
+-2014x-2246,OD Mature 2
+-2014x-2162,OD Mature 2
+-2011x-2255,OD Mature 2
+-1998x-2302,OD Mature 2
+-1996x-2207,OD Mature 2
+-1997x-2233,OD Mature 1
+-1992x-2142,OD Mature 2
+-1978x-2149,Inhibitory
+-1973x-2297,OD Mature 2
+-1971x-2145,OD Mature 1
+-1970x-2116,Endothelial 3
+-1969x-2127,Endothelial 1
+-1966x-2277,OD Mature 1
+-2127x-2128,OD Mature 1
+-2092x-2245,OD Mature 2
+-2083x-2245,OD Mature 2
+-2079x-2273,OD Mature 2
+-2067x-2127,Inhibitory
+-2008x-2156,OD Immature 1
+-2004x-2154,Inhibitory
+-2002x-2215,OD Mature 2
+-1996x-2166,OD Mature 2
+-1972x-2187,OD Mature 2
+-1969x-2206,OD Mature 2
+-2145x-2287,Microglia
+-2135x-2169,OD Mature 2
+-2117x-2267,Endothelial 1
+-2096x-2125,Inhibitory
+-2086x-2263,Astrocyte
+-2059x-2191,OD Mature 2
+-2025x-2193,OD Mature 2
+-2019x-2186,OD Mature 2
+-1977x-2252,OD Mature 2
+-2142x-2174,OD Mature 2
+-2108x-2136,OD Mature 2
+-2106x-2193,OD Mature 1
+-2104x-2142,OD Mature 2
+-2032x-2260,OD Mature 2
+-2111x-2269,Astrocyte
+-3716x-3707,Inhibitory
+-3621x-3717,Excitatory
+-3564x-3847,Excitatory
+-3550x-3742,Inhibitory
+-3555x-3825,Inhibitory
+-3648x-3709,Inhibitory
+-3748x-3523,Excitatory
+-3608x-3704,Astrocyte
+-3555x-3582,Inhibitory
+-3699x-3518,Inhibitory
+-3640x-3504,Inhibitory
+-3564x-3361,Inhibitory
+-3558x-3467,Excitatory
+-3601x-3305,Inhibitory
+-3685x-3110,Inhibitory
+-3648x-3306,Endothelial 1
+-3728x-3111,Astrocyte
+-3558x-3249,Excitatory
+-3700x-3109,Inhibitory
+-3562x-3263,Inhibitory
+-3730x-2912,Astrocyte
+-3677x-2910,Inhibitory
+-3628x-2910,Inhibitory
+-3564x-2965,OD Immature 1
+-3558x-3009,Inhibitory
+-3554x-2983,Inhibitory
+-3592x-2912,Astrocyte
+-3709x-2712,Inhibitory
+-3564x-2843,Inhibitory
+-3558x-2758,Endothelial 1
+-3556x-2848,Endothelial 3
+-3547x-2873,Inhibitory
+-3696x-2515,Inhibitory
+-3667x-2518,Excitatory
+-3561x-2536,Endothelial 1
+-3557x-2635,OD Mature 1
+-3553x-2561,Inhibitory
+-3692x-2308,Microglia
+-3560x-2376,Inhibitory
+-3559x-2486,Astrocyte
+-3562x-2242,Excitatory
+-3560x-2192,Excitatory
+-3557x-2246,Inhibitory
+-3553x-2138,Endothelial 1
+-3556x-2276,Inhibitory
+-3554x-2169,OD Immature 1
+-3551x-2233,Excitatory
+-3543x-2306,Excitatory
+-3469x-2308,Endothelial 1
+-3363x-2247,Inhibitory
+-3362x-2190,Excitatory
+-3357x-2240,Inhibitory
+-3353x-2162,Astrocyte
+-3351x-2120,OD Immature 1
+-3353x-2257,Astrocyte
+-3357x-2481,Inhibitory
+-3353x-2357,OD Mature 2
+-3425x-2318,OD Mature 2
+-3440x-2507,Excitatory
+-3536x-2700,Excitatory
+-3471x-2709,Astrocyte
+-3355x-2686,Inhibitory
+-3357x-2552,Endothelial 1
+-3362x-2575,Inhibitory
+-3356x-2558,Inhibitory
+-3555x-2733,Inhibitory
+-3394x-2912,Inhibitory
+-3359x-2730,Inhibitory
+-3357x-2813,Inhibitory
+-3358x-2789,Inhibitory
+-3355x-2751,Inhibitory
+-3356x-2865,Inhibitory
+-3356x-2891,Inhibitory
+-3354x-2901,Astrocyte
+-3359x-2777,Inhibitory
+-3495x-3109,Inhibitory
+-3359x-3081,Inhibitory
+-3358x-3038,Endothelial 1
+-3351x-2957,Excitatory
+-3460x-3106,Astrocyte
+-3547x-3282,Excitatory
+-3356x-3268,Inhibitory
+-3552x-3314,Endothelial 1
+-3495x-3315,Inhibitory
+-3428x-3512,Excitatory
+-3361x-3425,Astrocyte
+-3363x-3446,Inhibitory
+-3354x-3320,Inhibitory
+-3441x-3510,Inhibitory
+-3358x-3614,Inhibitory
+-3555x-3717,Astrocyte
+-3360x-3879,Excitatory
+-3360x-3821,Inhibitory
+-3361x-3810,Inhibitory
+-3356x-3732,Inhibitory
+-3355x-3770,Excitatory
+-3354x-3900,Endothelial 3
+-3322x-3708,Astrocyte
+-3236x-3710,Inhibitory
+-3168x-3715,Inhibitory
+-3207x-3903,Excitatory
+-3200x-3906,Astrocyte
+-3203x-3707,Inhibitory
+-3295x-3511,Inhibitory
+-3160x-3664,Inhibitory
+-3280x-3505,Inhibitory
+-3161x-3684,Inhibitory
+-3170x-3503,Inhibitory
+-3157x-3346,Inhibitory
+-3153x-3437,Excitatory
+-3156x-3365,Excitatory
+-3350x-3156,Inhibitory
+-3256x-3106,Inhibitory
+-3238x-3106,Excitatory
+-3275x-3110,Inhibitory
+-3315x-3112,Inhibitory
+-3213x-3115,Inhibitory
+-3348x-2906,Inhibitory
+-3256x-2911,Inhibitory
+-3230x-2914,OD Immature 1
+-3161x-3078,Inhibitory
+-3351x-2882,OD Mature 3
+-3160x-2780,OD Immature 1
+-3156x-2810,Inhibitory
+-3236x-2714,Excitatory
+-3227x-2906,Microglia
+-3159x-2877,Inhibitory
+-3157x-2662,Microglia
+-3321x-2517,OD Immature 1
+-3158x-2645,Inhibitory
+-3348x-2647,Inhibitory
+-3275x-2315,Astrocyte
+-3220x-2311,Excitatory
+-3163x-2310,Inhibitory
+-3164x-2429,Excitatory
+-3159x-2321,Astrocyte
+-3254x-2505,Excitatory
+-3233x-2502,Excitatory
+-3350x-2278,Inhibitory
+-3149x-2170,Endothelial 1
+-3110x-2307,Excitatory
+-3036x-2118,Excitatory
+-2956x-2222,Excitatory
+-2957x-2169,Excitatory
+-3023x-2508,Endothelial 1
+-3152x-2409,Astrocyte
+-3140x-2509,Excitatory
+-3100x-2703,Astrocyte
+-3056x-2708,Inhibitory
+-3028x-2713,Excitatory
+-3151x-2714,Excitatory
+-3152x-2738,Inhibitory
+-2956x-2725,Inhibitory
+-2997x-2900,Inhibitory
+-2953x-3098,Inhibitory
+-3078x-3305,Excitatory
+-3053x-3303,Inhibitory
+-2961x-3288,OD Immature 1
+-2956x-3244,Inhibitory
+-3056x-3310,Excitatory
+-3150x-3405,Astrocyte
+-3038x-3511,Astrocyte
+-3028x-3509,Endothelial 1
+-3023x-3319,Endothelial 3
+-2975x-3498,Inhibitory
+-2963x-3318,Inhibitory
+-2959x-3347,OD Immature 1
+-3135x-3509,Inhibitory
+-3000x-3501,Inhibitory
+-3111x-3507,Inhibitory
+-2956x-3367,Inhibitory
+-2979x-3705,Inhibitory
+-3147x-3670,Inhibitory
+-3092x-3708,Inhibitory
+-2960x-3535,Inhibitory
+-3147x-3876,Endothelial 1
+-2957x-3716,Ependymal
+-2864x-3713,Inhibitory
+-2793x-3711,Inhibitory
+-2759x-3848,Excitatory
+-2754x-3756,Inhibitory
+-2910x-3710,Ependymal
+-2820x-3713,Inhibitory
+-2752x-3776,Endothelial 3
+-2853x-3714,Inhibitory
+-2920x-3506,Ependymal
+-2897x-3510,Ependymal
+-2769x-3514,Inhibitory
+-2757x-3517,Excitatory
+-2757x-3652,Inhibitory
+-2845x-3512,Inhibitory
+-2755x-3536,Endothelial 1
+-2751x-3689,Inhibitory
+-2864x-3507,Inhibitory
+-2953x-3367,Astrocyte
+-2947x-3504,Inhibitory
+-2872x-3311,Ependymal
+-2832x-3316,Inhibitory
+-2814x-3310,Inhibitory
+-2751x-3467,Inhibitory
+-2753x-3350,Inhibitory
+-2756x-3484,Endothelial 1
+-2952x-3138,Astrocyte
+-2890x-3305,Ependymal
+-2849x-3104,Ependymal
+-2863x-3119,Ependymal
+-2751x-3135,Excitatory
+-2819x-2914,Inhibitory
+-2757x-3035,Astrocyte
+-2755x-2933,Astrocyte
+-2777x-2909,Inhibitory
+-2936x-2708,Excitatory
+-2849x-2711,Ependymal
+-2770x-2705,Astrocyte
+-2756x-2802,Inhibitory
+-2750x-2770,Inhibitory
+-2891x-2719,Excitatory
+-2749x-2738,Inhibitory
+-2934x-2511,Excitatory
+-2883x-2701,Astrocyte
+-2876x-2516,Ependymal
+-2871x-2509,Ependymal
+-2758x-2683,Inhibitory
+-2756x-2573,Inhibitory
+-2759x-2604,Inhibitory
+-2754x-2410,Excitatory
+-2754x-2374,Microglia
+-2758x-2486,Excitatory
+-2759x-2393,Inhibitory
+-2758x-2352,Inhibitory
+-2760x-2241,Excitatory
+-2753x-2173,Inhibitory
+-2605x-2314,Excitatory
+-2564x-2264,Excitatory
+-2657x-2305,Excitatory
+-2651x-2305,Excitatory
+-2671x-2315,Astrocyte
+-2624x-2509,Astrocyte
+-2664x-2508,Astrocyte
+-2555x-2390,Inhibitory
+-2650x-2709,Excitatory
+-2560x-2563,Endothelial 3
+-2557x-2671,Inhibitory
+-2676x-2707,Inhibitory
+-2658x-2711,Excitatory
+-2555x-2682,Inhibitory
+-2624x-2909,Inhibitory
+-2554x-2818,Excitatory
+-2567x-2781,Excitatory
+-2697x-2715,Inhibitory
+-2558x-2906,Inhibitory
+-2693x-3108,Inhibitory
+-2634x-3110,Astrocyte
+-2752x-3272,Excitatory
+-2737x-3308,Inhibitory
+-2706x-3300,Excitatory
+-2557x-3141,Astrocyte
+-2557x-3123,Astrocyte
+-2582x-3309,Excitatory
+-2697x-3509,OD Immature 1
+-2559x-3492,Inhibitory
+-2558x-3375,Excitatory
+-2737x-3503,Astrocyte
+-2557x-3387,Inhibitory
+-2751x-3402,Endothelial 1
+-2635x-3512,Inhibitory
+-2574x-3510,Inhibitory
+-2556x-3662,Excitatory
+-2556x-3601,Excitatory
+-2556x-3650,Inhibitory
+-2556x-3541,Inhibitory
+-2556x-3677,OD Mature 1
+-2624x-3715,Excitatory
+-2557x-3817,Inhibitory
+-2555x-3718,Inhibitory
+-2751x-3877,Astrocyte
+-2707x-3721,Inhibitory
+-2558x-3788,Inhibitory
+-2551x-3733,OD Mature 2
+-2398x-3711,Inhibitory
+-2550x-3763,Inhibitory
+-2518x-3712,Inhibitory
+-2355x-3758,Excitatory
+-2354x-3774,Astrocyte
+-2416x-3509,Excitatory
+-2359x-3557,Astrocyte
+-2371x-3515,Inhibitory
+-2354x-3611,Pericytes
+-2358x-3684,Inhibitory
+-2544x-3309,Inhibitory
+-2515x-3505,Inhibitory
+-2420x-3316,Pericytes
+-2519x-3309,Inhibitory
+-2366x-3336,Excitatory
+-2528x-3503,Inhibitory
+-2364x-3503,Inhibitory
+-2534x-3119,Inhibitory
+-2493x-3108,Inhibitory
+-2380x-3303,OD Mature 2
+-2359x-3243,Inhibitory
+-2358x-3123,Inhibitory
+-2355x-3139,Inhibitory
+-2355x-3260,Inhibitory
+-2357x-3154,Inhibitory
+-2354x-3236,Inhibitory
+-2354x-3179,Endothelial 2
+-2356x-3169,Endothelial 3
+-2506x-2915,OD Mature 2
+-2388x-2912,Inhibitory
+-2349x-2967,Inhibitory
+-2347x-2918,Inhibitory
+-2363x-2987,Astrocyte
+-2354x-3093,Endothelial 1
+-2351x-3041,Excitatory
+-2549x-2891,Inhibitory
+-2520x-2710,Inhibitory
+-2422x-2713,Inhibitory
+-2403x-2711,Inhibitory
+-2361x-2796,OD Immature 1
+-2362x-2893,Inhibitory
+-2360x-2842,Inhibitory
+-2359x-2822,Inhibitory
+-2351x-2757,Inhibitory
+-2352x-2867,Endothelial 1
+-2393x-2901,Endothelial 1
+-2516x-2509,Astrocyte
+-2445x-2507,Endothelial 1
+-2359x-2641,Excitatory
+-2361x-2525,OD Mature 1
+-2469x-2511,Excitatory
+-2536x-2309,Inhibitory
+-2526x-2311,Astrocyte
+-2501x-2503,Inhibitory
+-2425x-2310,Excitatory
+-2377x-2312,Inhibitory
+-2356x-2501,OD Mature 1
+-2359x-2287,Astrocyte
+-2352x-2299,Inhibitory
+-2349x-2211,Excitatory
+-2361x-2260,Excitatory
+-2351x-2190,Excitatory
+-2291x-2310,Inhibitory
+-2273x-2311,Astrocyte
+-2156x-2192,Pericytes
+-2296x-2505,Microglia
+-2313x-2314,Astrocyte
+-2274x-2511,OD Mature 2
+-2335x-2703,Astrocyte
+-2295x-2702,OD Immature 1
+-2234x-2706,Astrocyte
+-2193x-2710,Inhibitory
+-2352x-2728,Inhibitory
+-2301x-2905,Inhibitory
+-2246x-2912,Inhibitory
+-2354x-2870,Inhibitory
+-2277x-2902,Inhibitory
+-2227x-3109,Inhibitory
+-2187x-2915,Inhibitory
+-2213x-3305,Astrocyte
+-2313x-3321,Inhibitory
+-2165x-3489,Microglia
+-2323x-3708,Inhibitory
+-2198x-3513,Endothelial 1
+-2174x-3705,Astrocyte
+-2157x-3615,Inhibitory
+-2152x-3815,Microglia
+-2117x-3709,Inhibitory
+-2011x-3708,Excitatory
+-2018x-3710,Endothelial 3
+-2115x-3511,Excitatory
+-1995x-3508,Inhibitory
+-2153x-3409,OD Immature 1
+-2058x-3316,Inhibitory
+-2148x-3184,Astrocyte
+-2132x-3111,Inhibitory
+-2056x-3303,Microglia
+-1978x-3308,Endothelial 1
+-2120x-2909,Inhibitory
+-2083x-2911,Endothelial 1
+-2027x-2912,Inhibitory
+-2102x-2907,Inhibitory
+-2060x-2707,Inhibitory
+-2145x-2754,Inhibitory
+-2151x-2839,Inhibitory
+-2151x-2585,Inhibitory
+-2044x-2511,Astrocyte
+-1970x-2513,Inhibitory
+-2007x-2510,Excitatory
+-2058x-2508,Excitatory
+-2149x-2317,Excitatory
+-2139x-2307,Inhibitory
+-2006x-2318,OD Mature 2
+-2121x-2317,Excitatory
+-1985x-2116,OD Mature 1
